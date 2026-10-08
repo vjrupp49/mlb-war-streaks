@@ -1,0 +1,31 @@
+mode,rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+"strict (raw WAR, calendar-consecutive)",1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+"strict (raw WAR, calendar-consecutive)",2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+"strict (raw WAR, calendar-consecutive)",3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+"strict (raw WAR, calendar-consecutive)",4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+"strict (raw WAR, calendar-consecutive)",5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+"strict (raw WAR, calendar-consecutive)",6,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+"strict (raw WAR, calendar-consecutive)",7,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+"strict (raw WAR, calendar-consecutive)",8,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+"strict (raw WAR, calendar-consecutive)",9,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+"strict (raw WAR, calendar-consecutive)",10,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+service-adjusted (known military gaps bridged),1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+service-adjusted (known military gaps bridged),2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+service-adjusted (known military gaps bridged),3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+service-adjusted (known military gaps bridged),4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+service-adjusted (known military gaps bridged),5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+service-adjusted (known military gaps bridged),6,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+service-adjusted (known military gaps bridged),7,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+service-adjusted (known military gaps bridged),8,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+service-adjusted (known military gaps bridged),9,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+service-adjusted (known military gaps bridged),10,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),6,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),7,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),8,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),9,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),10,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7

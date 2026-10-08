@@ -1,0 +1,25 @@
+Traded players are summed across stints (e.g. Sabathia 2008 CLE+MIL, Johnson 1998 SEA+HOU): one row each, lgID/team = the stint with the most PA/IP.
+
+SANITY CHECKS: 22 / 22 passed
+  [PASS] one row per player-season -- 105912 rows, 105912 distinct
+  [PASS] WAR == WAR_bat + WAR_pit everywhere -- max |diff| = 1.78e-15
+  [PASS] no missing WAR -- 0 NAs
+  [PASS] seasons within 1871-2024 -- 1876-2024
+  [PASS] only MLB leagues -- AA,AL,FL,NL,PL,UA
+  [PASS] franchise match rate -- 100.0% of player-seasons have a Lahman franchise
+  [PASS] all-time WAR is roughly zero-sum around replacement (sanity of scale) -- mean WAR per player-season = 0.88
+  [PASS] Ruth: hitting WAR 162.1 (B-Ref position-player total) + pitching ~20.5 are both captured -- bat 162.3 + pit 20.4 = 182.6
+  [PASS] career totals within 8 WAR of B-Ref (16 icons) -- 16 / 16 within tolerance
+  [PASS] Ruth is the #1 HITTER for best 2-year stretch (1923-24) -- Babe Ruth 1923 1924
+  [PASS] Ruth is #2 overall for best 5-year stretch (only Walter Johnson ahead) -- Walter Johnson, Babe Ruth
+  [PASS] Bonds is a top-3 post-1946 3-year stretch and top-10 overall 5-year stretch -- Bob Gibson, Willie Mays, Barry Bonds | 10
+  [PASS] Mays, Mantle, Gibson, Clemens, Maddux, Trout all rank top-60 for best 5-year WAR -- Bob Gibson 24; Greg Maddux 50; Mickey Mantle 19; Mike Trout 22; Roger Clemens 47; Willie Mays 6
+  [PASS] Ruth 1918-1919 and Ohtani 2021-2023 are labelled Two-way -- Two-way Two-way Two-way Two-way Two-way Two-way
+  [PASS] Ohtani 2024 (DH only, no pitching) is a Hitter -- Hitter
+  [PASS] shortened seasons flagged (1918, 1919, 1981, 1994, 1995, 2020) -- 1918,1919,1981,1994,1995,2020
+  [PASS] 2020 pace factor ~ 162/60 -- 2.70
+  [PASS] Williams best 5-yr: service-adjusted bridges 1943-45 and beats strict -- service-adjusted 1941-1948 49.2 | strict 1946-1950 41.3
+  [PASS] Mays 1952 appears as a partial season (34 G) and 1953 is absent -- 1 row 1952; 0 rows 1953
+  [PASS] gap pairs are excluded from consecutive windows -- Ted Williams 1942 -> 1946
+  [PASS] best 2-yr window equals sum of its two seasons -- Old Hoss Radbourn 1883-1884 = 33.75
+  [PASS] no window spans a missing year (strict mode) -- 0 windows with skipped years

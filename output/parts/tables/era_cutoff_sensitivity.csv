@@ -1,0 +1,81 @@
+k,cutoff,side,rank,name,playerID,start,end,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+2,1901,Pre-1901,1,Old Hoss Radbourn,radboch01,1883,1884,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+2,1901,Pre-1901,2,Jim Devlin,devliji01,1876,1877,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+2,1901,Pre-1901,3,Tim Keefe,keefeti01,1883,1884,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+2,1901,Pre-1901,4,Pud Galvin,galvipu01,1883,1884,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+2,1901,Pre-1901,5,Tommy Bond,bondto01,1878,1879,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+2,1901,1901+,1,Walter Johnson,johnswa01,1912,1913,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+2,1901,1901+,2,Babe Ruth,ruthba01,1923,1924,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+2,1901,1901+,3,Barry Bonds,bondsba01,2001,2002,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+2,1901,1901+,4,Bob Gibson,gibsobo01,1968,1969,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+2,1901,1901+,5,Pete Alexander,alexape01,1915,1916,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+2,1920,Pre-1920,1,Old Hoss Radbourn,radboch01,1883,1884,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+2,1920,Pre-1920,2,Walter Johnson,johnswa01,1912,1913,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+2,1920,Pre-1920,3,Jim Devlin,devliji01,1876,1877,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+2,1920,Pre-1920,4,Tim Keefe,keefeti01,1883,1884,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+2,1920,Pre-1920,5,Pud Galvin,galvipu01,1883,1884,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+2,1920,1920+,1,Babe Ruth,ruthba01,1923,1924,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+2,1920,1920+,2,Barry Bonds,bondsba01,2001,2002,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+2,1920,1920+,3,Bob Gibson,gibsobo01,1968,1969,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+2,1920,1920+,4,Carl Yastrzemski,yastrca01,1967,1968,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+2,1920,1920+,5,Mickey Mantle,mantlmi01,1956,1957,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+2,1947,Pre-1947,1,Old Hoss Radbourn,radboch01,1883,1884,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+2,1947,Pre-1947,2,Walter Johnson,johnswa01,1912,1913,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+2,1947,Pre-1947,3,Jim Devlin,devliji01,1876,1877,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+2,1947,Pre-1947,4,Tim Keefe,keefeti01,1883,1884,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+2,1947,Pre-1947,5,Pud Galvin,galvipu01,1883,1884,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+2,1947,1947+,1,Barry Bonds,bondsba01,2001,2002,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+2,1947,1947+,2,Bob Gibson,gibsobo01,1968,1969,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+2,1947,1947+,3,Carl Yastrzemski,yastrca01,1967,1968,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+2,1947,1947+,4,Mickey Mantle,mantlmi01,1956,1957,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+2,1947,1947+,5,Willie Mays,mayswi01,1964,1965,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+2,1969,Pre-1969,1,Old Hoss Radbourn,radboch01,1883,1884,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+2,1969,Pre-1969,2,Walter Johnson,johnswa01,1912,1913,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+2,1969,Pre-1969,3,Jim Devlin,devliji01,1876,1877,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+2,1969,Pre-1969,4,Tim Keefe,keefeti01,1883,1884,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+2,1969,Pre-1969,5,Pud Galvin,galvipu01,1883,1884,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+2,1969,1969+,1,Barry Bonds,bondsba01,2001,2002,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+2,1969,1969+,2,Pedro Martinez,martipe02,1999,2000,21.46,10.73,9.8 / 11.7,Pitcher,P,BOS,AL,27,FALSE,0,-0.03,21.49
+2,1969,1969+,3,Bob Gibson,gibsobo01,1969,1970,21.34,10.67,11.3 / 10.1,Pitcher,P,STL,NL,33,FALSE,0,2.05,19.29
+2,1969,1969+,4,Wilbur Wood,woodwi01,1971,1972,21.33,10.66,11.0 / 10.3,Pitcher,P,CHW,AL,29,FALSE,0,-1.14,22.47
+2,1969,1969+,5,Joe Morgan,morgajo02,1975,1976,20.61,10.3,11.0 / 9.6,Hitter,2B,CIN,NL,31,FALSE,0,20.61,0
+5,1901,Pre-1901,1,John Clarkson,clarkjo01,1885,1889,55,11,12.8 / 6.8 / 15.0 / 4.2 / 16.2,Pitcher,P,ATL,NL,23,FALSE,0,-1.12,56.12
+5,1901,Pre-1901,2,Old Hoss Radbourn,radboch01,1882,1886,54.88,10.98,7.9 / 14.3 / 19.4 / 8.5 / 4.7,Two-way / mixed,P,PRO,NL,27,FALSE,0,3.27,51.61
+5,1901,Pre-1901,3,Cy Young,youngcy01,1892,1896,54.26,10.85,13.0 / 10.6 / 8.5 / 11.6 / 10.5,Pitcher,P,CLV,NL,25,FALSE,0,-2.31,56.57
+5,1901,Pre-1901,4,Tim Keefe,keefeti01,1883,1887,52.09,10.42,20.2 / 8.3 / 6.6 / 9.4 / 7.5,Pitcher,P,NYP,Mixed,26,FALSE,0,0.66,51.43
+5,1901,Pre-1901,5,Jim McCormick,mccorji01,1880,1884,51.71,10.34,10.8 / 7.0 / 10.9 / 8.2 / 14.8,Pitcher,P,CBL,NL,23,FALSE,0,0.68,51.03
+5,1901,1901+,1,Walter Johnson,johnswa01,1912,1916,69.13,13.83,15.4 / 16.6 / 13.1 / 12.8 / 11.2,Pitcher,P,MIN,AL,24,FALSE,0,5.44,63.69
+5,1901,1901+,2,Babe Ruth,ruthba01,1920,1924,56.25,11.25,11.8 / 12.6 / 6.4 / 14.1 / 11.3,Hitter,OF,NYY,AL,25,FALSE,0,56.63,-0.38
+5,1901,1901+,3,Willie Mays,mayswi01,1962,1966,52.32,10.46,10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,31,FALSE,0,52.32,0
+5,1901,1901+,4,Ed Walsh,walshed01,1908,1912,51.77,10.35,10.7 / 6.8 / 11.8 / 9.7 / 12.8,Pitcher,P,CHW,AL,27,FALSE,0,2.2,49.57
+5,1901,1901+,5,Barry Bonds,bondsba01,2000,2004,51.12,10.22,7.7 / 11.9 / 11.7 / 9.2 / 10.6,Hitter,OF,SFG,NL,35,FALSE,0,51.12,0
+5,1920,Pre-1920,1,Walter Johnson,johnswa01,1912,1916,69.13,13.83,15.4 / 16.6 / 13.1 / 12.8 / 11.2,Pitcher,P,MIN,AL,24,FALSE,0,5.44,63.69
+5,1920,Pre-1920,2,John Clarkson,clarkjo01,1885,1889,55,11,12.8 / 6.8 / 15.0 / 4.2 / 16.2,Pitcher,P,ATL,NL,23,FALSE,0,-1.12,56.12
+5,1920,Pre-1920,3,Old Hoss Radbourn,radboch01,1882,1886,54.88,10.98,7.9 / 14.3 / 19.4 / 8.5 / 4.7,Two-way / mixed,P,PRO,NL,27,FALSE,0,3.27,51.61
+5,1920,Pre-1920,4,Cy Young,youngcy01,1892,1896,54.26,10.85,13.0 / 10.6 / 8.5 / 11.6 / 10.5,Pitcher,P,CLV,NL,25,FALSE,0,-2.31,56.57
+5,1920,Pre-1920,5,Tim Keefe,keefeti01,1883,1887,52.09,10.42,20.2 / 8.3 / 6.6 / 9.4 / 7.5,Pitcher,P,NYP,Mixed,26,FALSE,0,0.66,51.43
+5,1920,1920+,1,Babe Ruth,ruthba01,1920,1924,56.25,11.25,11.8 / 12.6 / 6.4 / 14.1 / 11.3,Hitter,OF,NYY,AL,25,FALSE,0,56.63,-0.38
+5,1920,1920+,2,Willie Mays,mayswi01,1962,1966,52.32,10.46,10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,31,FALSE,0,52.32,0
+5,1920,1920+,3,Barry Bonds,bondsba01,2000,2004,51.12,10.22,7.7 / 11.9 / 11.7 / 9.2 / 10.6,Hitter,OF,SFG,NL,35,FALSE,0,51.12,0
+5,1920,1920+,4,Rogers Hornsby,hornsro01,1921,1925,50.06,10.01,10.9 / 10.1 / 6.8 / 12.1 / 10.2,Hitter,2B,STL,NL,25,FALSE,0,50.06,0
+5,1920,1920+,5,Joe Morgan,morgajo02,1972,1976,47.79,9.56,9.3 / 9.3 / 8.6 / 11.0 / 9.6,Hitter,2B,CIN,NL,28,FALSE,0,47.79,0
+5,1947,Pre-1947,1,Walter Johnson,johnswa01,1912,1916,69.13,13.83,15.4 / 16.6 / 13.1 / 12.8 / 11.2,Pitcher,P,MIN,AL,24,FALSE,0,5.44,63.69
+5,1947,Pre-1947,2,Babe Ruth,ruthba01,1920,1924,56.25,11.25,11.8 / 12.6 / 6.4 / 14.1 / 11.3,Hitter,OF,NYY,AL,25,FALSE,0,56.63,-0.38
+5,1947,Pre-1947,3,John Clarkson,clarkjo01,1885,1889,55,11,12.8 / 6.8 / 15.0 / 4.2 / 16.2,Pitcher,P,ATL,NL,23,FALSE,0,-1.12,56.12
+5,1947,Pre-1947,4,Old Hoss Radbourn,radboch01,1882,1886,54.88,10.98,7.9 / 14.3 / 19.4 / 8.5 / 4.7,Two-way / mixed,P,PRO,NL,27,FALSE,0,3.27,51.61
+5,1947,Pre-1947,5,Cy Young,youngcy01,1892,1896,54.26,10.85,13.0 / 10.6 / 8.5 / 11.6 / 10.5,Pitcher,P,CLV,NL,25,FALSE,0,-2.31,56.57
+5,1947,1947+,1,Willie Mays,mayswi01,1962,1966,52.32,10.46,10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,31,FALSE,0,52.32,0
+5,1947,1947+,2,Barry Bonds,bondsba01,2000,2004,51.12,10.22,7.7 / 11.9 / 11.7 / 9.2 / 10.6,Hitter,OF,SFG,NL,35,FALSE,0,51.12,0
+5,1947,1947+,3,Joe Morgan,morgajo02,1972,1976,47.79,9.56,9.3 / 9.3 / 8.6 / 11.0 / 9.6,Hitter,2B,CIN,NL,28,FALSE,0,47.79,0
+5,1947,1947+,4,Mickey Mantle,mantlmi01,1954,1958,47.71,9.54,6.9 / 9.5 / 11.2 / 11.3 / 8.7,Hitter,OF,NYY,AL,22,FALSE,0,47.71,0
+5,1947,1947+,5,Mike Trout,troutmi01,2012,2016,47.07,9.41,10.5 / 8.9 / 7.7 / 9.5 / 10.4,Hitter,OF,ANA,AL,20,FALSE,0,47.07,0
+5,1969,Pre-1969,1,Walter Johnson,johnswa01,1912,1916,69.13,13.83,15.4 / 16.6 / 13.1 / 12.8 / 11.2,Pitcher,P,MIN,AL,24,FALSE,0,5.44,63.69
+5,1969,Pre-1969,2,Babe Ruth,ruthba01,1920,1924,56.25,11.25,11.8 / 12.6 / 6.4 / 14.1 / 11.3,Hitter,OF,NYY,AL,25,FALSE,0,56.63,-0.38
+5,1969,Pre-1969,3,John Clarkson,clarkjo01,1885,1889,55,11,12.8 / 6.8 / 15.0 / 4.2 / 16.2,Pitcher,P,ATL,NL,23,FALSE,0,-1.12,56.12
+5,1969,Pre-1969,4,Old Hoss Radbourn,radboch01,1882,1886,54.88,10.98,7.9 / 14.3 / 19.4 / 8.5 / 4.7,Two-way / mixed,P,PRO,NL,27,FALSE,0,3.27,51.61
+5,1969,Pre-1969,5,Cy Young,youngcy01,1892,1896,54.26,10.85,13.0 / 10.6 / 8.5 / 11.6 / 10.5,Pitcher,P,CLV,NL,25,FALSE,0,-2.31,56.57
+5,1969,1969+,1,Barry Bonds,bondsba01,2000,2004,51.12,10.22,7.7 / 11.9 / 11.7 / 9.2 / 10.6,Hitter,OF,SFG,NL,35,FALSE,0,51.12,0
+5,1969,1969+,2,Joe Morgan,morgajo02,1972,1976,47.79,9.56,9.3 / 9.3 / 8.6 / 11.0 / 9.6,Hitter,2B,CIN,NL,28,FALSE,0,47.79,0
+5,1969,1969+,3,Mike Trout,troutmi01,2012,2016,47.07,9.41,10.5 / 8.9 / 7.7 / 9.5 / 10.4,Hitter,OF,ANA,AL,20,FALSE,0,47.07,0
+5,1969,1969+,4,Albert Pujols,pujolal01,2005,2009,44.57,8.91,8.4 / 8.5 / 8.7 / 9.2 / 9.7,Hitter,1B,STL,NL,25,FALSE,0,44.57,0
+5,1969,1969+,5,Alex Rodriguez,rodrial01,2000,2004,43.48,8.7,10.4 / 8.3 / 8.8 / 8.4 / 7.6,Hitter,SS,SEA,AL,24,FALSE,0,43.48,0

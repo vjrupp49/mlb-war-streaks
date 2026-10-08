@@ -1,0 +1,41 @@
+rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+4,Walter Johnson,johnswa01,1913,1914,2,29.69,14.84,16.6 / 13.1,Pitcher,P,MIN,AL,25,FALSE,0,2.47,27.22
+5,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+6,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+7,Old Hoss Radbourn,radboch01,1884,1885,2,27.91,13.96,19.4 / 8.5,Pitcher,P,PRO,NL,29,FALSE,0,1.39,26.52
+8,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+9,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+10,Walter Johnson,johnswa01,1914,1915,2,25.88,12.94,13.1 / 12.8,Pitcher,P,MIN,AL,26,FALSE,0,1.96,23.92
+11,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+12,Tim Keefe,keefeti01,1882,1883,2,25.42,12.71,5.2 / 20.2,Pitcher,P,NYP,Mixed,25,FALSE,0,1.01,24.41
+13,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+14,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+15,Tommy Bond,bondto01,1877,1878,2,24.89,12.45,11.5 / 13.4,Pitcher,P,ATL,NL,21,FALSE,0,-0.73,25.62
+16,Silver King,kingsi01,1888,1889,2,24.56,12.28,16.0 / 8.5,Pitcher,P,STL,Other (AA/UA/PL/FL),20,FALSE,0,1.61,22.95
+17,Babe Ruth,ruthba01,1920,1921,2,24.42,12.21,11.8 / 12.6,Hitter,OF,NYY,AL,25,FALSE,0,24.8,-0.38
+18,Walter Johnson,johnswa01,1911,1912,2,24.33,12.16,9.0 / 15.4,Pitcher,P,MIN,AL,23,FALSE,0,1.49,22.84
+19,Walter Johnson,johnswa01,1915,1916,2,24.07,12.04,12.8 / 11.2,Pitcher,P,MIN,AL,27,FALSE,0,1.85,22.22
+20,Babe Ruth,ruthba01,1926,1927,2,23.96,11.98,11.4 / 12.6,Hitter,OF,NYY,AL,31,FALSE,0,23.96,0
+21,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+22,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+23,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+24,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+25,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38
+26,Jim McCormick,mccorji01,1883,1884,2,23.01,11.51,8.2 / 14.8,Pitcher,P,CBL,NL,26,FALSE,0,0.02,22.99
+27,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+28,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+29,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+30,Mickey Welch,welchmi01,1884,1885,2,22.89,11.45,12.3 / 10.6,Pitcher,P,SFG,NL,24,FALSE,0,0.42,22.47
+31,Walter Johnson,johnswa01,1918,1919,2,22.81,11.41,11.8 / 11.0,Pitcher,P,MIN,AL,30,TRUE,0,1.55,21.26
+32,Babe Ruth,ruthba01,1927,1928,2,22.72,11.36,12.6 / 10.2,Hitter,OF,NYY,AL,32,FALSE,0,22.72,0
+33,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+34,Ed Walsh,walshed01,1911,1912,2,22.53,11.27,9.7 / 12.8,Pitcher,P,CHW,AL,30,FALSE,0,0.77,21.76
+35,Cy Young,youngcy01,1901,1902,2,22.53,11.27,12.4 / 10.1,Pitcher,P,BOS,AL,34,FALSE,0,0.04,22.49
+36,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+37,Charlie Buffinton,buffich01,1884,1885,2,22.34,11.17,16.3 / 6.1,Two-way / mixed,P,ATL,NL,23,FALSE,0,1.39,20.95
+38,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+39,Kid Nichols,nichoki01,1890,1891,2,22.26,11.13,13.0 / 9.3,Pitcher,P,ATL,NL,20,FALSE,0,-0.29,22.55
+40,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0

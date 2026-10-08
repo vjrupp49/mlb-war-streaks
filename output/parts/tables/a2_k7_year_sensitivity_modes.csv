@@ -1,0 +1,31 @@
+mode,rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+"strict (raw WAR, calendar-consecutive)",1,Walter Johnson,johnswa01,1912,1918,7,89.35,12.76,15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8,Pitcher,P,MIN,AL,24,TRUE,0,8,81.35
+"strict (raw WAR, calendar-consecutive)",2,John Clarkson,clarkjo01,1885,1891,7,73.75,10.54,12.8 / 6.8 / 15.0 / 4.2 / 16.2 / 8.9 / 9.9,Pitcher,P,ATL,NL,23,FALSE,0,-0.7,74.45
+"strict (raw WAR, calendar-consecutive)",3,Babe Ruth,ruthba01,1918,1924,7,73.26,10.47,7.0 / 10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3,Two-way / mixed,OF,NYY,AL,23,TRUE,0,70.55,2.71
+"strict (raw WAR, calendar-consecutive)",4,Willie Mays,mayswi01,1960,1966,7,70.55,10.08,9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,29,FALSE,0,70.55,0
+"strict (raw WAR, calendar-consecutive)",5,Cy Young,youngcy01,1892,1898,7,68.63,9.8,13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6,Pitcher,P,CLV,NL,25,FALSE,0,-2.43,71.06
+"strict (raw WAR, calendar-consecutive)",6,Kid Nichols,nichoki01,1892,1898,7,67.37,9.62,8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8,Pitcher,P,ATL,NL,22,FALSE,0,-0.64,68.01
+"strict (raw WAR, calendar-consecutive)",7,Tim Keefe,keefeti01,1882,1888,7,66.42,9.49,5.2 / 20.2 / 8.3 / 6.6 / 9.4 / 7.5 / 9.1,Pitcher,P,NYP,Mixed,25,FALSE,0,0.18,66.24
+"strict (raw WAR, calendar-consecutive)",8,Rogers Hornsby,hornsro01,1919,1925,7,66.26,9.47,6.5 / 9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2,Hitter,2B,STL,NL,23,TRUE,0,66.26,0
+"strict (raw WAR, calendar-consecutive)",9,Honus Wagner,wagneho01,1903,1909,7,65.09,9.3,7.6 / 8.3 / 10.2 / 9.3 / 9.0 / 11.5 / 9.2,Hitter,SS,PIT,NL,29,FALSE,0,65.09,0
+"strict (raw WAR, calendar-consecutive)",10,Christy Mathewson,mathech01,1907,1913,7,64.23,9.18,8.8 / 11.8 / 10.6 / 9.1 / 8.2 / 8.5 / 7.2,Pitcher,P,SFG,NL,26,FALSE,0,2.7,61.53
+service-adjusted (known military gaps bridged),1,Walter Johnson,johnswa01,1912,1918,7,89.35,12.76,15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8,Pitcher,P,MIN,AL,24,TRUE,0,8,81.35
+service-adjusted (known military gaps bridged),2,John Clarkson,clarkjo01,1885,1891,7,73.75,10.54,12.8 / 6.8 / 15.0 / 4.2 / 16.2 / 8.9 / 9.9,Pitcher,P,ATL,NL,23,FALSE,0,-0.7,74.45
+service-adjusted (known military gaps bridged),3,Babe Ruth,ruthba01,1918,1924,7,73.26,10.47,7.0 / 10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3,Two-way / mixed,OF,NYY,AL,23,TRUE,0,70.55,2.71
+service-adjusted (known military gaps bridged),4,Willie Mays,mayswi01,1960,1966,7,70.55,10.08,9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,29,FALSE,0,70.55,0
+service-adjusted (known military gaps bridged),5,Cy Young,youngcy01,1892,1898,7,68.63,9.8,13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6,Pitcher,P,CLV,NL,25,FALSE,0,-2.43,71.06
+service-adjusted (known military gaps bridged),6,Kid Nichols,nichoki01,1892,1898,7,67.37,9.62,8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8,Pitcher,P,ATL,NL,22,FALSE,0,-0.64,68.01
+service-adjusted (known military gaps bridged),7,Tim Keefe,keefeti01,1882,1888,7,66.42,9.49,5.2 / 20.2 / 8.3 / 6.6 / 9.4 / 7.5 / 9.1,Pitcher,P,NYP,Mixed,25,FALSE,0,0.18,66.24
+service-adjusted (known military gaps bridged),8,Rogers Hornsby,hornsro01,1919,1925,7,66.26,9.47,6.5 / 9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2,Hitter,2B,STL,NL,23,TRUE,0,66.26,0
+service-adjusted (known military gaps bridged),9,Honus Wagner,wagneho01,1903,1909,7,65.09,9.3,7.6 / 8.3 / 10.2 / 9.3 / 9.0 / 11.5 / 9.2,Hitter,SS,PIT,NL,29,FALSE,0,65.09,0
+service-adjusted (known military gaps bridged),10,Ted Williams,willite01,1940,1949,7,64.84,9.26,6.6 / 10.4 / 10.4 / 10.6 / 9.5 / 8.3 / 9.0,Hitter,OF,BOS,AL,21,FALSE,3,64.81,0.03
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),1,Walter Johnson,johnswa01,1912,1918,7,89.35,12.76,15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8,Pitcher,P,MIN,AL,24,TRUE,0,8,81.35
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),2,Babe Ruth,ruthba01,1918,1924,7,73.26,10.47,7.0 / 10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3,Two-way / mixed,OF,NYY,AL,23,TRUE,0,70.55,2.71
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),3,John Clarkson,clarkjo01,1885,1891,7,73.75,10.54,12.8 / 6.8 / 15.0 / 4.2 / 16.2 / 8.9 / 9.9,Pitcher,P,ATL,NL,23,FALSE,0,-0.7,74.45
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),4,Willie Mays,mayswi01,1960,1966,7,70.55,10.08,9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,29,FALSE,0,70.55,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),5,Cy Young,youngcy01,1892,1898,7,68.63,9.8,13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6,Pitcher,P,CLV,NL,25,FALSE,0,-2.43,71.06
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),6,Kid Nichols,nichoki01,1892,1898,7,67.37,9.62,8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8,Pitcher,P,ATL,NL,22,FALSE,0,-0.64,68.01
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),7,Rogers Hornsby,hornsro01,1919,1925,7,66.26,9.47,6.5 / 9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2,Hitter,2B,STL,NL,23,TRUE,0,66.26,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),8,Tim Keefe,keefeti01,1882,1888,7,66.42,9.49,5.2 / 20.2 / 8.3 / 6.6 / 9.4 / 7.5 / 9.1,Pitcher,P,NYP,Mixed,25,FALSE,0,0.18,66.24
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),9,Honus Wagner,wagneho01,1903,1909,7,65.09,9.3,7.6 / 8.3 / 10.2 / 9.3 / 9.0 / 11.5 / 9.2,Hitter,SS,PIT,NL,29,FALSE,0,65.09,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),10,Christy Mathewson,mathech01,1907,1913,7,64.23,9.18,8.8 / 11.8 / 10.6 / 9.1 / 8.2 / 8.5 / 7.2,Pitcher,P,SFG,NL,26,FALSE,0,2.7,61.53

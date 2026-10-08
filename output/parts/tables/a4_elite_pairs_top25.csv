@@ -1,0 +1,144 @@
+definition,rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+both >= 6 WAR,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+both >= 6 WAR,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+both >= 6 WAR,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+both >= 6 WAR,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+both >= 6 WAR,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+both >= 6 WAR,6,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+both >= 6 WAR,7,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+both >= 6 WAR,8,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+both >= 6 WAR,9,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+both >= 6 WAR,10,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+both >= 6 WAR,11,Silver King,kingsi01,1888,1889,2,24.56,12.28,16.0 / 8.5,Pitcher,P,STL,Other (AA/UA/PL/FL),20,FALSE,0,1.61,22.95
+both >= 6 WAR,12,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+both >= 6 WAR,13,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+both >= 6 WAR,14,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+both >= 6 WAR,15,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+both >= 6 WAR,16,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38
+both >= 6 WAR,17,Jim McCormick,mccorji01,1883,1884,2,23.01,11.51,8.2 / 14.8,Pitcher,P,CBL,NL,26,FALSE,0,0.02,22.99
+both >= 6 WAR,18,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+both >= 6 WAR,19,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+both >= 6 WAR,20,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+both >= 6 WAR,21,Mickey Welch,welchmi01,1884,1885,2,22.89,11.45,12.3 / 10.6,Pitcher,P,SFG,NL,24,FALSE,0,0.42,22.47
+both >= 6 WAR,22,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+both >= 6 WAR,23,Ed Walsh,walshed01,1911,1912,2,22.53,11.27,9.7 / 12.8,Pitcher,P,CHW,AL,30,FALSE,0,0.77,21.76
+both >= 6 WAR,24,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+both >= 6 WAR,25,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+both >= 8 WAR,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+both >= 8 WAR,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+both >= 8 WAR,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+both >= 8 WAR,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+both >= 8 WAR,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+both >= 8 WAR,6,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+both >= 8 WAR,7,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+both >= 8 WAR,8,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+both >= 8 WAR,9,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+both >= 8 WAR,10,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+both >= 8 WAR,11,Silver King,kingsi01,1888,1889,2,24.56,12.28,16.0 / 8.5,Pitcher,P,STL,Other (AA/UA/PL/FL),20,FALSE,0,1.61,22.95
+both >= 8 WAR,12,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+both >= 8 WAR,13,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+both >= 8 WAR,14,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+both >= 8 WAR,15,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+both >= 8 WAR,16,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38
+both >= 8 WAR,17,Jim McCormick,mccorji01,1883,1884,2,23.01,11.51,8.2 / 14.8,Pitcher,P,CBL,NL,26,FALSE,0,0.02,22.99
+both >= 8 WAR,18,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+both >= 8 WAR,19,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+both >= 8 WAR,20,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+both >= 8 WAR,21,Mickey Welch,welchmi01,1884,1885,2,22.89,11.45,12.3 / 10.6,Pitcher,P,SFG,NL,24,FALSE,0,0.42,22.47
+both >= 8 WAR,22,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+both >= 8 WAR,23,Ed Walsh,walshed01,1911,1912,2,22.53,11.27,9.7 / 12.8,Pitcher,P,CHW,AL,30,FALSE,0,0.77,21.76
+both >= 8 WAR,24,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+both >= 8 WAR,25,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+both >= 10 WAR,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+both >= 10 WAR,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+both >= 10 WAR,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+both >= 10 WAR,4,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+both >= 10 WAR,5,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+both >= 10 WAR,6,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+both >= 10 WAR,7,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+both >= 10 WAR,8,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+both >= 10 WAR,9,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+both >= 10 WAR,10,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+both >= 10 WAR,11,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38
+both >= 10 WAR,12,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+both >= 10 WAR,13,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+both >= 10 WAR,14,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+both >= 10 WAR,15,Mickey Welch,welchmi01,1884,1885,2,22.89,11.45,12.3 / 10.6,Pitcher,P,SFG,NL,24,FALSE,0,0.42,22.47
+both >= 10 WAR,16,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+both >= 10 WAR,17,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+both >= 10 WAR,18,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+both >= 10 WAR,19,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+both >= 10 WAR,20,Bob Caruthers,carutbo01,1886,1887,2,22.24,11.12,11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),22,FALSE,0,7.84,14.4
+both >= 10 WAR,21,Wilbur Wood,woodwi01,1971,1972,2,21.33,10.66,11.0 / 10.3,Pitcher,P,CHW,AL,29,FALSE,0,-1.14,22.47
+both >= 10 WAR,22,Ty Cobb,cobbty01,1910,1911,2,20.84,10.42,10.3 / 10.5,Hitter,OF,DET,AL,23,FALSE,0,20.84,0
+both >= 10 WAR,23,Ted Williams,willite01,1941,1942,2,20.8,10.4,10.4 / 10.4,Hitter,OF,BOS,AL,22,FALSE,0,20.8,0
+both >= 10 WAR,24,Lefty Grove,grovele01,1930,1931,2,20.37,10.19,10.3 / 10.0,Pitcher,P,OAK,AL,30,FALSE,0,-0.38,20.75
+both seasons top-5 in MLB (WAR),1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+both seasons top-5 in MLB (WAR),2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+both seasons top-5 in MLB (WAR),3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+both seasons top-5 in MLB (WAR),4,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+both seasons top-5 in MLB (WAR),5,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+both seasons top-5 in MLB (WAR),6,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+both seasons top-5 in MLB (WAR),7,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+both seasons top-5 in MLB (WAR),8,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+both seasons top-5 in MLB (WAR),9,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+both seasons top-5 in MLB (WAR),10,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+both seasons top-5 in MLB (WAR),11,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38
+both seasons top-5 in MLB (WAR),12,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+both seasons top-5 in MLB (WAR),13,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+both seasons top-5 in MLB (WAR),14,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+both seasons top-5 in MLB (WAR),15,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+both seasons top-5 in MLB (WAR),16,Ed Walsh,walshed01,1911,1912,2,22.53,11.27,9.7 / 12.8,Pitcher,P,CHW,AL,30,FALSE,0,0.77,21.76
+both seasons top-5 in MLB (WAR),17,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+both seasons top-5 in MLB (WAR),18,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+both seasons top-5 in MLB (WAR),19,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+both seasons top-5 in MLB (WAR),20,Bob Caruthers,carutbo01,1886,1887,2,22.24,11.12,11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),22,FALSE,0,7.84,14.4
+both seasons top-5 in MLB (WAR),21,Jim Whitney,whitnji01,1882,1883,2,21.82,10.91,8.4 / 13.4,Two-way / mixed,Two-way,ATL,NL,24,FALSE,0,4.76,17.06
+both seasons top-5 in MLB (WAR),22,Hal Newhouser,newhoha01,1945,1946,2,21.71,10.86,12.2 / 9.6,Pitcher,P,DET,AL,24,FALSE,0,0.71,21
+both seasons top-5 in MLB (WAR),23,Charlie Ferguson,ferguch01,1886,1887,2,21.64,10.82,11.7 / 9.9,Two-way / mixed,P,PHI,NL,23,FALSE,0,3.45,18.19
+both seasons top-5 in MLB (WAR),24,Pedro Martinez,martipe02,1999,2000,2,21.46,10.73,9.8 / 11.7,Pitcher,P,BOS,AL,27,FALSE,0,-0.03,21.49
+both seasons top-5 in MLB (WAR),25,Lou Gehrig,gehrilo01,1927,1928,2,21.34,10.67,11.8 / 9.5,Hitter,1B,NYY,AL,24,FALSE,0,21.34,0
+both seasons #1 in MLB (WAR),1,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+both seasons #1 in MLB (WAR),2,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+both seasons #1 in MLB (WAR),3,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+both seasons #1 in MLB (WAR),4,Babe Ruth,ruthba01,1926,1927,2,23.96,11.98,11.4 / 12.6,Hitter,OF,NYY,AL,31,FALSE,0,23.96,0
+both seasons #1 in MLB (WAR),5,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+both seasons #1 in MLB (WAR),6,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+both seasons #1 in MLB (WAR),7,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+both seasons #1 in MLB (WAR),8,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+both seasons #1 in MLB (WAR),9,Cy Young,youngcy01,1901,1902,2,22.53,11.27,12.4 / 10.1,Pitcher,P,BOS,AL,34,FALSE,0,0.04,22.49
+both seasons #1 in MLB (WAR),10,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+both seasons #1 in MLB (WAR),11,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+both seasons #1 in MLB (WAR),12,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+both seasons #1 in MLB (WAR),13,Pedro Martinez,martipe02,1999,2000,2,21.46,10.73,9.8 / 11.7,Pitcher,P,BOS,AL,27,FALSE,0,-0.03,21.49
+both seasons #1 in MLB (WAR),14,Ted Williams,willite01,1941,1942,2,20.8,10.4,10.4 / 10.4,Hitter,OF,BOS,AL,22,FALSE,0,20.8,0
+both seasons #1 in MLB (WAR),15,Joe Morgan,morgajo02,1975,1976,2,20.61,10.3,11.0 / 9.6,Hitter,2B,CIN,NL,31,FALSE,0,20.61,0
+both seasons #1 in MLB (WAR),16,Lefty Grove,grovele01,1936,1937,2,19.82,9.91,10.6 / 9.2,Pitcher,P,BOS,AL,36,FALSE,0,-1.13,20.95
+both seasons #1 in MLB (WAR),17,Mike Trout,troutmi01,2012,2013,2,19.44,9.72,10.5 / 8.9,Hitter,OF,ANA,AL,20,FALSE,0,19.44,0
+both seasons #1 in MLB (WAR),18,Greg Maddux,maddugr01,1994,1995,2,18.31,9.16,8.7 / 9.6,Pitcher,P,ATL,NL,28,TRUE,0,0.09,18.22
+both seasons #1 in MLB (WAR),19,Cal Ripken,ripkeca01,1983,1984,2,18.22,9.11,8.2 / 10.0,Hitter,SS,BAL,AL,22,FALSE,0,18.22,0
+highest FLOOR (weaker of the two seasons),1,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+highest FLOOR (weaker of the two seasons),2,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+highest FLOOR (weaker of the two seasons),3,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+highest FLOOR (weaker of the two seasons),4,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+highest FLOOR (weaker of the two seasons),5,Babe Ruth,ruthba01,1920,1921,2,24.42,12.21,11.8 / 12.6,Hitter,OF,NYY,AL,25,FALSE,0,24.8,-0.38
+highest FLOOR (weaker of the two seasons),6,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+highest FLOOR (weaker of the two seasons),7,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+highest FLOOR (weaker of the two seasons),8,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+highest FLOOR (weaker of the two seasons),9,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+highest FLOOR (weaker of the two seasons),10,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+highest FLOOR (weaker of the two seasons),11,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38
+highest FLOOR (weaker of the two seasons),12,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+highest FLOOR (weaker of the two seasons),13,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+highest FLOOR (weaker of the two seasons),14,Bob Caruthers,carutbo01,1886,1887,2,22.24,11.12,11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),22,FALSE,0,7.84,14.4
+highest FLOOR (weaker of the two seasons),15,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+highest FLOOR (weaker of the two seasons),16,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+highest FLOOR (weaker of the two seasons),17,Mickey Welch,welchmi01,1884,1885,2,22.89,11.45,12.3 / 10.6,Pitcher,P,SFG,NL,24,FALSE,0,0.42,22.47
+highest FLOOR (weaker of the two seasons),18,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+highest FLOOR (weaker of the two seasons),19,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+highest FLOOR (weaker of the two seasons),20,Ted Williams,willite01,1941,1942,2,20.8,10.4,10.4 / 10.4,Hitter,OF,BOS,AL,22,FALSE,0,20.8,0
+highest FLOOR (weaker of the two seasons),21,Wilbur Wood,woodwi01,1971,1972,2,21.33,10.66,11.0 / 10.3,Pitcher,P,CHW,AL,29,FALSE,0,-1.14,22.47
+highest FLOOR (weaker of the two seasons),22,Ty Cobb,cobbty01,1910,1911,2,20.84,10.42,10.3 / 10.5,Hitter,OF,DET,AL,23,FALSE,0,20.84,0
+highest FLOOR (weaker of the two seasons),23,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+highest FLOOR (weaker of the two seasons),24,Lefty Grove,grovele01,1930,1931,2,20.37,10.19,10.3 / 10.0,Pitcher,P,OAK,AL,30,FALSE,0,-0.38,20.75
+highest FLOOR (weaker of the two seasons),25,Charlie Ferguson,ferguch01,1886,1887,2,21.64,10.82,11.7 / 9.9,Two-way / mixed,P,PHI,NL,23,FALSE,0,3.45,18.19

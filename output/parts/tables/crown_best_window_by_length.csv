@@ -1,0 +1,61 @@
+k,rank,name,playerID,start,end,WAR_sum
+1,1,Tim Keefe,keefeti01,1883,1883,20.2
+1,2,Old Hoss Radbourn,radboch01,1884,1884,19.4
+1,3,Pud Galvin,galvipu01,1884,1884,18.4
+2,1,Old Hoss Radbourn,radboch01,1883,1884,33.8
+2,2,Walter Johnson,johnswa01,1912,1913,32
+2,3,Jim Devlin,devliji01,1876,1877,31.7
+3,1,Walter Johnson,johnswa01,1912,1914,45.1
+3,2,Old Hoss Radbourn,radboch01,1883,1885,42.2
+3,3,Tommy Bond,bondto01,1877,1879,39.2
+4,1,Walter Johnson,johnswa01,1912,1915,57.9
+4,2,Old Hoss Radbourn,radboch01,1882,1885,50.1
+4,3,Tommy Bond,bondto01,1876,1879,49.6
+5,1,Walter Johnson,johnswa01,1912,1916,69.1
+5,2,Babe Ruth,ruthba01,1920,1924,56.2
+5,3,John Clarkson,clarkjo01,1885,1889,55
+6,1,Walter Johnson,johnswa01,1911,1916,78.1
+6,2,Babe Ruth,ruthba01,1919,1924,66.2
+6,3,John Clarkson,clarkjo01,1885,1890,63.9
+7,1,Walter Johnson,johnswa01,1912,1918,89.3
+7,2,John Clarkson,clarkjo01,1885,1891,73.8
+7,3,Babe Ruth,ruthba01,1918,1924,73.3
+8,1,Walter Johnson,johnswa01,1912,1919,100.3
+8,2,Babe Ruth,ruthba01,1920,1927,83.7
+8,3,Willie Mays,mayswi01,1958,1965,79.6
+9,1,Walter Johnson,johnswa01,1910,1918,109.3
+9,2,Babe Ruth,ruthba01,1920,1928,93.9
+9,3,Kid Nichols,nichoki01,1890,1898,89.6
+10,1,Walter Johnson,johnswa01,1910,1919,120.3
+10,2,Babe Ruth,ruthba01,1919,1928,103.9
+10,3,Kid Nichols,nichoki01,1890,1899,97.3
+11,1,Walter Johnson,johnswa01,1909,1919,124
+11,2,Babe Ruth,ruthba01,1920,1930,112.4
+11,3,Cy Young,youngcy01,1892,1902,106.4
+12,1,Walter Johnson,johnswa01,1908,1919,129.3
+12,2,Babe Ruth,ruthba01,1920,1931,123
+12,3,Willie Mays,mayswi01,1954,1965,115.1
+13,1,Walter Johnson,johnswa01,1910,1922,133.9
+13,2,Babe Ruth,ruthba01,1919,1931,133
+13,3,Willie Mays,mayswi01,1954,1966,124.1
+14,1,Babe Ruth,ruthba01,1919,1932,141.4
+14,2,Walter Johnson,johnswa01,1910,1923,138.4
+14,3,Cy Young,youngcy01,1892,1905,131.2
+15,1,Babe Ruth,ruthba01,1917,1931,148.6
+15,2,Walter Johnson,johnswa01,1910,1924,145.9
+15,3,Cy Young,youngcy01,1891,1905,137.3
+16,1,Babe Ruth,ruthba01,1916,1931,159
+16,2,Walter Johnson,johnswa01,1910,1925,152.6
+16,3,Cy Young,youngcy01,1892,1907,140.9
+17,1,Babe Ruth,ruthba01,1916,1932,167.4
+17,2,Walter Johnson,johnswa01,1909,1925,156.4
+17,3,Cy Young,youngcy01,1892,1908,150.6
+18,1,Babe Ruth,ruthba01,1916,1933,173.7
+18,2,Walter Johnson,johnswa01,1908,1925,161.7
+18,3,Cy Young,youngcy01,1891,1908,156.7
+19,1,Babe Ruth,ruthba01,1916,1934,178.6
+19,2,Walter Johnson,johnswa01,1908,1926,165.4
+19,3,Cy Young,youngcy01,1891,1909,160.2
+20,1,Babe Ruth,ruthba01,1915,1934,182.8
+20,2,Walter Johnson,johnswa01,1907,1926,168.1
+20,3,Cy Young,youngcy01,1891,1910,162.5

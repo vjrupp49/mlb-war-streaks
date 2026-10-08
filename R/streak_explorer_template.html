@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WAR Streak Explorer</title>
+<style>
+:root{
+  --bg:#fafaf7; --card:#ffffff; --ink:#1a1d23; --muted:#6a7080; --line:#e3e5ea;
+  --hit:#2b6cb0; --pit:#d9622b; --two:#7b3fa0; --accent:#0f766e; --twin:#c2410c; --gold:#b7791f;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#0f1218; --card:#171b24; --ink:#e8eaf0; --muted:#9aa1b2; --line:#2a303d;
+         --hit:#5aa2e8; --pit:#f08a52; --two:#b98be0; --accent:#2dd4bf; --twin:#fb923c; --gold:#f6c453; }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:26px;margin:0 0 4px;letter-spacing:-.3px}
+.sub{color:var(--muted);margin:0 0 18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin-bottom:16px}
+.card h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 10px;font-weight:600}
+.controls{display:grid;grid-template-columns:1.4fr 1fr auto;gap:16px;align-items:end}
+@media(max-width:760px){.controls{grid-template-columns:1fr}}
+label{display:block;font-size:12px;color:var(--muted);margin-bottom:4px}
+input[type=text]{width:100%;padding:9px 12px;border:1px solid var(--line);border-radius:9px;background:var(--bg);color:var(--ink);font-size:15px}
+input[type=range]{width:100%;accent-color:var(--accent)}
+.kval{font-weight:700;font-size:22px;color:var(--accent)}
+.toggle{display:flex;gap:6px;align-items:center;font-size:13px;color:var(--muted)}
+.suggest{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.chip{border:1px solid var(--line);background:var(--bg);color:var(--ink);padding:3px 10px;border-radius:99px;font-size:12.5px;cursor:pointer}
+.chip:hover{border-color:var(--accent)}
+.chip.on{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+#results{margin-top:6px;max-height:190px;overflow:auto}
+#results div{padding:5px 8px;border-radius:7px;cursor:pointer;font-size:14px;display:flex;justify-content:space-between}
+#results div:hover{background:var(--bg)}
+.stats{display:flex;flex-wrap:wrap;gap:22px;margin:4px 0 8px}
+.stat .v{font-size:24px;font-weight:700;letter-spacing:-.5px}
+.stat .l{font-size:12px;color:var(--muted)}
+svg{width:100%;height:auto;display:block}
+.axis{stroke:var(--line)} .tick{fill:var(--muted);font-size:10px}
+.legend{display:flex;gap:14px;font-size:12px;color:var(--muted);margin-top:6px;flex-wrap:wrap}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);text-align:left;padding:4px 8px;font-weight:600}
+td{padding:6px 8px;border-top:1px solid var(--line)}
+td.n{text-align:right;font-variant-numeric:tabular-nums}
+tr.row{cursor:pointer} tr.row:hover td{background:var(--bg)} tr.sel td{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:860px){.two{grid-template-columns:1fr}}
+.twin{display:flex;justify-content:space-between;gap:10px;padding:8px 10px;border:1px solid var(--line);border-radius:10px;margin-bottom:8px;cursor:pointer}
+.twin.on{border-color:var(--twin)}
+.twin b{color:var(--twin)}
+.small{font-size:12.5px;color:var(--muted)}
+.crown{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.crown button{all:unset;cursor:pointer;border:1px solid var(--line);border-radius:10px;padding:7px 10px;background:var(--bg)}
+.crown button:hover,.crown button.on{border-color:var(--gold)}
+.crown .k{font-size:11px;color:var(--muted)} .crown .w{font-weight:700;font-size:17px} .crown .p{font-size:12.5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>WAR Streak Explorer</h1>
+  <p class="sub">Pick any player and any stretch length. See their best run of consecutive seasons, where it ranks all-time, and which players had the most similar streak.</p>
+
+  <div class="card">
+    <div class="controls">
+      <div>
+        <label for="q">Player (<span id="npl"></span> players with 30+ career WAR)</label>
+        <input id="q" type="text" placeholder="Search: Ruth, Maddux, Trout, Ohtani..." autocomplete="off">
+        <div id="results"></div>
+        <div class="suggest" id="suggest"></div>
+      </div>
+      <div>
+        <label for="k">Window length: <span class="kval" id="kval">5</span> consecutive seasons</label>
+        <input id="k" type="range" min="1" max="20" value="5">
+      </div>
+      <div class="toggle">
+        <input type="checkbox" id="bridge"><label for="bridge" style="margin:0">Don't count military service as a gap</label>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" id="playerCard">
+    <h2>Selected player</h2>
+    <div id="phead"></div>
+    <div class="stats" id="stats"></div>
+    <div id="barcode"></div>
+    <div class="legend"><span><i style="background:var(--hit)"></i>Hitter season</span><span><i style="background:var(--pit)"></i>Pitcher season</span><span><i style="background:var(--two)"></i>Two-way season</span><span><i style="background:var(--gold);opacity:.35"></i>Best window</span><span>&bull; = season missing (gap)</span></div>
+  </div>
+
+  <div class="two">
+    <div class="card"><h2>Streak twins</h2><div id="twins"></div><div id="twinchart"></div></div>
+    <div class="card"><h2>All-time leaders for this length</h2><div id="board"></div></div>
+  </div>
+
+  <div class="card"><h2>The crown: record WAR for every stretch length (click a length)</h2><div class="crown" id="crown"></div></div>
+
+  <p class="small">WAR: Baseball-Reference (position-player + pitching WAR summed). Seasons and IDs: Lahman 13.0.0, 1871&ndash;2024. Window = calendar-consecutive seasons; the checkbox bridges documented military-service years for 13 players. Ranks are among players with 30+ career WAR (everyone near the top of any list is in that set). Built by <code>R/05_streak_explorer.R</code> in the mlb-war-streaks project.</p>
+</div>
+
+<script>
+const DATA = /*__DATA__*/[];
+const ROLE = ["Hitter","Pitcher","Two-way"], RCOL = ["var(--hit)","var(--pit)","var(--two)"];
+DATA.forEach(p=>{p.g=[].concat(p.g||[]);});
+const byId = Object.fromEntries(DATA.map(p=>[p.id,p]));
+document.getElementById("npl").textContent = DATA.length;
+const st = {k:5, bridge:false, id:"ruthba01", twin:0};
+const fmt = x => (Math.round(x*10)/10).toFixed(1);
+const esc = s => s.replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+const runCache = {};
+function runs(p, bridge){
+  const key = p.id + (bridge?"b":"s"); if(runCache[key]) return runCache[key];
+  const out=[]; let cur=[];
+  p.s.forEach((x,i)=>{
+    if(!cur.length){cur=[i];return;}
+    const prev = p.s[cur[cur.length-1]][0]; let ok = x[0]-prev===1;
+    if(!ok && bridge){ ok=true; for(let y=prev+1;y<x[0];y++){ if(!p.g.includes(y)){ok=false;break;} } }
+    if(ok) cur.push(i); else {out.push(cur);cur=[i];}
+  });
+  if(cur.length) out.push(cur);
+  return runCache[key]=out;
+}
+function bestWindow(p,k,bridge){
+  let best=null;
+  for(const r of runs(p,bridge)) for(let i=0;i+k<=r.length;i++){
+    let sum=0; for(let j=0;j<k;j++) sum+=p.s[r[i+j]][1];
+    if(!best||sum>best.sum) best={sum,idx:r.slice(i,i+k)};
+  }
+  return best;
+}
+const yrs = (p,w)=> { const a=p.s[w.idx[0]][0], b=p.s[w.idx[w.idx.length-1]][0]; return a===b? ""+a : a+"–"+b; };
+const vec = (p,w)=> w.idx.map(i=>p.s[i][1]);
+
+let boardCache = {};
+function board(k,bridge){
+  const key=k+"|"+bridge; if(boardCache[key]) return boardCache[key];
+  const rows=[]; for(const p of DATA){ const w=bestWindow(p,k,bridge); if(w) rows.push({p,w}); }
+  rows.sort((a,b)=>b.w.sum-a.w.sum); rows.forEach((r,i)=>r.rank=i+1);
+  return boardCache[key]=rows;
+}
+
+function el(id){return document.getElementById(id)}
+function render(){
+  const {k,bridge,id}=st; const p=byId[id]; const B=board(k,bridge);
+  el("kval").textContent=k;
+  document.querySelectorAll("#crown button").forEach(b=>b.classList.toggle("on", +b.dataset.k===k));
+  const mine=B.find(r=>r.p.id===id);
+  const rec=B[0];
+  // header + stats
+  el("phead").innerHTML = `<div style="font-size:21px;font-weight:700">${esc(p.n)} ${p.hof?'<span class="small" title="Hall of Fame (player)">&#9733; HOF</span>':''}</div><div class="small">${p.s[0][0]}–${p.s[p.s.length-1][0]} &middot; ${p.s.length} seasons &middot; career ${fmt(p.s.reduce((a,x)=>a+x[1],0))} WAR</div>`;
+  if(!mine){
+    el("stats").innerHTML=`<div class="stat"><div class="v">—</div><div class="l">${esc(p.n)} never had ${k} consecutive seasons${bridge?"":" (try bridging military service?)"}</div></div>`;
+  } else {
+    const pct = 100*mine.w.sum/rec.w.sum;
+    el("stats").innerHTML =
+      `<div class="stat"><div class="v">${fmt(mine.w.sum)}</div><div class="l">WAR, best ${k}-season window (${yrs(p,mine.w)})</div></div>
+       <div class="stat"><div class="v">#${mine.rank}</div><div class="l">all-time, of ${B.length} players</div></div>
+       <div class="stat"><div class="v">${pct.toFixed(0)}%</div><div class="l">of the record (${esc(rec.p.n)}, ${fmt(rec.w.sum)})</div></div>
+       <div class="stat"><div class="v">${fmt(mine.w.sum/k)}</div><div class="l">WAR per season in the window</div></div>`;
+  }
+  drawBarcode(p, mine&&mine.w);
+  // leaderboard
+  const top=B.slice(0,15); if(mine&&mine.rank>15) top.push(mine);
+  el("board").innerHTML = `<table><tr><th>#</th><th>Player</th><th>Years</th><th style="text-align:right">WAR</th></tr>`+
+    top.map(r=>`<tr class="row ${r.p.id===id?'sel':''}" data-id="${r.p.id}"><td>${r.rank}</td><td>${esc(r.p.n)}</td><td>${yrs(r.p,r.w)}</td><td class="n">${fmt(r.w.sum)}</td></tr>`).join("")+`</table>`;
+  el("board").querySelectorAll("tr.row").forEach(tr=>tr.onclick=()=>pick(tr.dataset.id));
+  drawTwins(p, mine);
+}
+
+function drawBarcode(p, w){
+  const W=900,H=250,padL=34,padR=8,padT=14,padB=34;
+  const y0=p.s[0][0], y1=p.s[p.s.length-1][0], n=y1-y0+1;
+  const bw=(W-padL-padR)/n; const lo=-3, hi=Math.max(14, Math.ceil(Math.max(...p.s.map(x=>x[1]))+1));
+  const sy=v=>padT+(hi-v)/(hi-lo)*(H-padT-padB);
+  const hl = w? new Set(w.idx.map(i=>p.s[i][0])):new Set();
+  let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Season-by-season WAR for ${esc(p.n)}">`;
+  for(let v=0; v<=hi; v+=2){ s+=`<line class="axis" x1="${padL}" x2="${W-padR}" y1="${sy(v)}" y2="${sy(v)}"/><text class="tick" x="${padL-6}" y="${sy(v)+3}" text-anchor="end">${v}</text>`; }
+  if(w){ const a=Math.min(...hl), b=Math.max(...hl); s+=`<rect x="${padL+(a-y0)*bw}" y="${padT-6}" width="${(b-a+1)*bw}" height="${H-padT-padB+6}" fill="var(--gold)" opacity=".22" rx="4"/>`; }
+  const have=new Set(p.s.map(x=>x[0]));
+  for(const x of p.s){
+    const cx=padL+(x[0]-y0)*bw, top=sy(Math.max(x[1],0)), bot=sy(Math.min(x[1],0));
+    s+=`<rect x="${cx+bw*0.12}" y="${top}" width="${bw*0.76}" height="${Math.max(1.5,bot-top)}" fill="${RCOL[x[2]]}" opacity="${hl.has(x[0])||!w?1:0.5}" rx="1.5"><title>${x[0]}: ${x[1].toFixed(1)} WAR (${ROLE[x[2]]})</title></rect>`;
+    if(bw>22 && x[1]>=3) s+=`<text x="${cx+bw/2}" y="${top-3}" text-anchor="middle" class="tick" style="fill:var(--ink)">${x[1].toFixed(1)}</text>`;
+  }
+  for(let y=y0;y<=y1;y++){ if(!have.has(y)) s+=`<text x="${padL+(y-y0)*bw+bw/2}" y="${sy(0)+4}" text-anchor="middle" class="tick" style="font-size:16px">&bull;<title>${y}: no season${p.g.includes(y)?" (military service)":""}</title></text>`; }
+  const step=n>26?4:(n>14?2:1);
+  for(let y=y0;y<=y1;y++) if((y-y0)%step===0) s+=`<text class="tick" x="${padL+(y-y0)*bw+bw/2}" y="${H-padB+16}" text-anchor="middle">${y}</text>`;
+  s+=`<line class="axis" x1="${padL}" x2="${W-padR}" y1="${sy(0)}" y2="${sy(0)}" style="stroke:var(--muted)"/></svg>`;
+  el("barcode").innerHTML=s;
+}
+
+function dist(a,b){ let d=0; for(let i=0;i<a.length;i++) d+=(a[i]-b[i])**2; return Math.sqrt(d/a.length); }
+function drawTwins(p, mine){
+  const box=el("twins"), ch=el("twinchart");
+  if(!mine || st.k<2){ box.innerHTML=`<p class="small">${st.k<2?"Slide to 2+ seasons to compare streak shapes.":"No window to compare."}</p>`; ch.innerHTML=""; return; }
+  const a=vec(p,mine.w), B=board(st.k,st.bridge);
+  const cand=B.filter(r=>r.p.id!==p.id).map(r=>({r,d:dist(a,vec(r.p,r.w))})).sort((x,y)=>x.d-y.d).slice(0,3);
+  if(st.twin>=cand.length) st.twin=0;
+  box.innerHTML=cand.map((c,i)=>`<div class="twin ${i===st.twin?'on':''}" data-i="${i}"><div><b>${esc(c.r.p.n)}</b> <span class="small">${yrs(c.r.p,c.r.w)}</span><br><span class="small">${vec(c.r.p,c.r.w).map(v=>v.toFixed(1)).join(" / ")}</span></div><div style="text-align:right"><div style="font-weight:700">${fmt(c.r.w.sum)}</div><div class="small">avg gap ${c.d.toFixed(2)} WAR</div></div></div>`).join("")+
+    `<p class="small">Twins = other players whose best ${st.k}-season window had the closest season-by-season WAR shape. Click one to overlay; double-click to open them.</p>`;
+  box.querySelectorAll(".twin").forEach(t=>{ t.onclick=()=>{st.twin=+t.dataset.i;render()}; t.ondblclick=()=>pick(cand[+t.dataset.i].r.p.id); });
+  const tw=cand[st.twin], b=vec(tw.r.p,tw.r.w);
+  const W=440,H=210,pl=30,pr=10,pt=12,pb=26, all=a.concat(b), hi=Math.max(12,Math.ceil(Math.max(...all))+1), lo=Math.min(0,Math.floor(Math.min(...all)));
+  const sx=i=>pl+(st.k===1?0:i/(st.k-1))*(W-pl-pr), sy=v=>pt+(hi-v)/(hi-lo)*(H-pt-pb);
+  const line=(v,c)=>`<polyline fill="none" stroke="${c}" stroke-width="2.5" points="${v.map((x,i)=>sx(i)+","+sy(x)).join(" ")}"/>`+v.map((x,i)=>`<circle cx="${sx(i)}" cy="${sy(x)}" r="3.5" fill="${c}"/>`).join("");
+  let s=`<svg viewBox="0 0 ${W} ${H}">`;
+  for(let v=lo; v<=hi; v+=Math.max(2,Math.round((hi-lo)/6/2)*2)) s+=`<line class="axis" x1="${pl}" x2="${W-pr}" y1="${sy(v)}" y2="${sy(v)}"/><text class="tick" x="${pl-5}" y="${sy(v)+3}" text-anchor="end">${v}</text>`;
+  for(let i=0;i<st.k;i++) s+=`<text class="tick" x="${sx(i)}" y="${H-8}" text-anchor="middle">yr ${i+1}</text>`;
+  s+=line(a,"var(--accent)")+line(b,"var(--twin)")+`</svg><div class="legend"><span><i style="background:var(--accent)"></i>${esc(p.n)} ${yrs(p,mine.w)}</span><span><i style="background:var(--twin)"></i>${esc(tw.r.p.n)} ${yrs(tw.r.p,tw.r.w)}</span></div>`;
+  ch.innerHTML=s;
+}
+
+function pick(id){ st.id=id; st.twin=0; el("q").value=""; el("results").innerHTML=""; syncChips(); render(); window.scrollTo({top:0,behavior:"smooth"}); }
+function syncChips(){ document.querySelectorAll("#suggest .chip").forEach(c=>c.classList.toggle("on",c.dataset.id===st.id)); }
+
+// controls
+el("k").oninput=e=>{st.k=+e.target.value; st.twin=0; render();};
+el("bridge").onchange=e=>{st.bridge=e.target.checked; st.twin=0; render();};
+el("q").oninput=e=>{
+  const q=e.target.value.trim().toLowerCase(); const r=el("results");
+  if(q.length<2){r.innerHTML="";return;}
+  const m=DATA.filter(p=>p.n.toLowerCase().includes(q)).sort((a,b)=>b.c-a.c).slice(0,8);
+  r.innerHTML=m.map(p=>`<div data-id="${p.id}"><span>${esc(p.n)}</span><span class="small">${p.s[0][0]}–${p.s[p.s.length-1][0]} &middot; ${fmt(p.c)} WAR</span></div>`).join("")||`<div class="small">No match (players under 30 career WAR aren't loaded)</div>`;
+  r.querySelectorAll("div[data-id]").forEach(d=>d.onclick=()=>pick(d.dataset.id));
+};
+const legends=["ruthba01","bondsba01","mayswi01","mantlmi01","willite01","gibsobo01","clemero02","maddugr01","troutmi01","ohtansh01","koufasa01","johnswa01"];
+el("suggest").innerHTML=legends.filter(i=>byId[i]).map(i=>`<span class="chip" data-id="${i}">${esc(byId[i].n)}</span>`).join("");
+el("suggest").querySelectorAll(".chip").forEach(c=>c.onclick=()=>pick(c.dataset.id));
+// crown buttons
+(function(){
+  let h=""; for(let k=1;k<=20;k++){ const r=board(k,false)[0]; h+=`<button data-k="${k}"><div class="k">${k} season${k>1?"s":""}</div><div class="w">${fmt(r.w.sum)}</div><div class="p">${esc(r.p.n)}<br><span class="small">${yrs(r.p,r.w)}</span></div></button>`; }
+  el("crown").innerHTML=h;
+  el("crown").querySelectorAll("button").forEach(b=>b.onclick=()=>{st.k=+b.dataset.k; el("k").value=st.k; st.twin=0; render();});
+})();
+syncChips(); render();
+</script>
+</body>
+</html>

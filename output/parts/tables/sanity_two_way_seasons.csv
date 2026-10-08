@@ -1,0 +1,16 @@
+name,yearID,role,PA,IP,WAR_bat,WAR_pit,WAR
+Shohei Ohtani,2018,Two-way,367,51.67,2.71,1.34,4.05
+Shohei Ohtani,2020,Hitter,175,1.67,0.03,-0.44,-0.41
+Shohei Ohtani,2021,Two-way,639,130.33,4.89,4.07,8.96
+Shohei Ohtani,2022,Two-way,666,166,3.4,6.25,9.65
+Shohei Ohtani,2023,Two-way,599,132,6.11,3.8,9.91
+Babe Ruth,1914,Hitter,10,22,0.01,-0.27,-0.26
+Babe Ruth,1915,Pitcher,104,217.67,1.76,2.38,4.14
+Babe Ruth,1916,Pitcher,151,323.67,1.62,8.76,10.38
+Babe Ruth,1917,Pitcher,142,326.67,2.01,6.57,8.58
+Babe Ruth,1918,Two-way,382,167,4.73,2.31,7.04
+Babe Ruth,1919,Two-way,544,133.33,9.19,0.78,9.97
+Babe Ruth,1920,Hitter,617,4,11.92,-0.12,11.8
+Babe Ruth,1921,Hitter,693,9,12.88,-0.26,12.62
+Babe Ruth,1930,Hitter,676,9,10.27,0.22,10.49
+Babe Ruth,1933,Hitter,576,9,6.23,-0.01,6.22

@@ -1,0 +1,7 @@
+definition,pairs,players
+both >= 6 WAR,827,328
+both >= 8 WAR,209,87
+both >= 10 WAR,41,24
+both seasons top-5 in MLB (WAR),232,94
+both seasons #1 in MLB (WAR),31,19
+highest FLOOR (weaker of the two seasons),10716,2647

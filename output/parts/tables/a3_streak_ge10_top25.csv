@@ -1,0 +1,26 @@
+rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit,threshold
+1,Walter Johnson,johnswa01,1912,1916,5,69.13,13.83,15.4 / 16.6 / 13.1 / 12.8 / 11.2,Pitcher,P,MIN,AL,24,FALSE,0,5.44,63.69,10
+2,Tommy Bond,bondto01,1876,1879,4,49.64,12.41,10.4 / 11.5 / 13.4 / 14.3,Pitcher,P,ATL,NL,20,FALSE,0,-0.72,50.36,10
+3,Willie Mays,mayswi01,1962,1965,4,43.36,10.84,10.5 / 10.6 / 11.0 / 11.2,Hitter,OF,SFG,NL,31,FALSE,0,43.36,0,10
+4,Babe Ruth,ruthba01,1926,1928,3,34.13,11.38,11.4 / 12.6 / 10.2,Hitter,OF,NYY,AL,31,FALSE,0,34.13,0,10
+5,Bob Gibson,gibsobo01,1968,1970,3,33.21,11.07,11.9 / 11.3 / 10.1,Pitcher,P,STL,NL,32,FALSE,0,2.69,30.52,10
+6,Bob Caruthers,carutbo01,1885,1887,3,32.26,10.75,10.0 / 11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),21,FALSE,0,8.32,23.94,10
+7,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25,10
+8,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84,10
+9,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7,10
+10,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13,10
+11,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0,10
+12,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27,10
+13,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38,10
+14,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04,10
+15,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44,10
+16,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0,10
+17,Mickey Welch,welchmi01,1884,1885,2,22.89,11.45,12.3 / 10.6,Pitcher,P,SFG,NL,24,FALSE,0,0.42,22.47,10
+18,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0,10
+19,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45,10
+20,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0,10
+21,Wilbur Wood,woodwi01,1971,1972,2,21.33,10.66,11.0 / 10.3,Pitcher,P,CHW,AL,29,FALSE,0,-1.14,22.47,10
+22,Ty Cobb,cobbty01,1910,1911,2,20.84,10.42,10.3 / 10.5,Hitter,OF,DET,AL,23,FALSE,0,20.84,0,10
+23,Ted Williams,willite01,1941,1942,2,20.8,10.4,10.4 / 10.4,Hitter,OF,BOS,AL,22,FALSE,0,20.8,0,10
+24,Lefty Grove,grovele01,1930,1931,2,20.37,10.19,10.3 / 10.0,Pitcher,P,OAK,AL,30,FALSE,0,-0.38,20.75,10
+25,Tim Keefe,keefeti01,1883,1883,1,20.2,20.2,20.2,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,0.32,19.88,10

@@ -1,0 +1,456 @@
+split_type,split_value,rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+Overall,All,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Overall,All,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Overall,All,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Overall,All,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Overall,All,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Role,Hitter,1,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+Role,Hitter,2,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Role,Hitter,3,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+Role,Hitter,4,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+Role,Hitter,5,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+Role,Pitcher,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Role,Pitcher,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Role,Pitcher,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Role,Pitcher,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Role,Pitcher,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Role,Two-way / mixed,1,Charlie Buffinton,buffich01,1884,1885,2,22.34,11.17,16.3 / 6.1,Two-way / mixed,P,ATL,NL,23,FALSE,0,1.39,20.95
+Role,Two-way / mixed,2,Bob Caruthers,carutbo01,1886,1887,2,22.24,11.12,11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),22,FALSE,0,7.84,14.4
+Role,Two-way / mixed,3,Old Hoss Radbourn,radboch01,1882,1883,2,22.23,11.12,7.9 / 14.3,Two-way / mixed,P,PRO,NL,27,FALSE,0,1.63,20.6
+Role,Two-way / mixed,4,Jim Whitney,whitnji01,1883,1884,2,21.83,10.91,13.4 / 8.4,Two-way / mixed,Two-way,ATL,NL,25,FALSE,0,3.08,18.75
+Role,Two-way / mixed,5,Babe Ruth,ruthba01,1919,1920,2,21.77,10.88,10.0 / 11.8,Two-way / mixed,OF,NYY,AL,24,TRUE,0,21.11,0.66
+Position,1B,1,Lou Gehrig,gehrilo01,1927,1928,2,21.34,10.67,11.8 / 9.5,Hitter,1B,NYY,AL,24,FALSE,0,21.34,0
+Position,1B,2,Jimmie Foxx,foxxji01,1932,1933,2,19.3,9.65,10.3 / 9.0,Hitter,1B,OAK,AL,24,FALSE,0,19.3,0
+Position,1B,3,Albert Pujols,pujolal01,2008,2009,2,18.97,9.48,9.2 / 9.7,Hitter,1B,STL,NL,28,FALSE,0,18.97,0
+Position,1B,4,Jason Giambi,giambja01,2000,2001,2,16.91,8.46,7.8 / 9.2,Hitter,1B,OAK,AL,29,FALSE,0,16.91,0
+Position,1B,5,Todd Helton,heltoto01,2000,2001,2,16.62,8.31,8.9 / 7.8,Hitter,1B,COL,NL,26,FALSE,0,16.62,0
+Position,2B,1,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+Position,2B,2,Joe Morgan,morgajo02,1975,1976,2,20.61,10.3,11.0 / 9.6,Hitter,2B,CIN,NL,31,FALSE,0,20.61,0
+Position,2B,3,Eddie Collins,collied01,1909,1910,2,19.44,9.72,9.7 / 9.8,Hitter,2B,OAK,AL,22,FALSE,0,19.44,0
+Position,2B,4,Jackie Robinson,robinja02,1951,1952,2,18.05,9.03,9.6 / 8.4,Hitter,2B,LAD,NL,32,FALSE,0,18.05,0
+Position,2B,5,Nap Lajoie,lajoina01,1906,1907,2,17.64,8.82,10.0 / 7.6,Hitter,2B,CLE,AL,31,FALSE,0,17.64,0
+Position,3B,1,Ron Santo,santoro01,1966,1967,2,18.65,9.32,8.9 / 9.8,Hitter,3B,CHC,NL,26,FALSE,0,18.65,0
+Position,3B,2,George Brett,brettge01,1979,1980,2,18.01,9,8.6 / 9.4,Hitter,3B,KCR,AL,26,FALSE,0,18.01,0
+Position,3B,3,Mike Schmidt,schmimi01,1974,1975,2,17.41,8.7,9.7 / 7.7,Hitter,3B,PHI,NL,24,FALSE,0,17.41,0
+Position,3B,4,Home Run Baker,bakerfr01,1912,1913,2,17.29,8.64,9.0 / 8.2,Hitter,3B,OAK,AL,26,FALSE,0,17.29,0
+Position,3B,5,Wade Boggs,boggswa01,1985,1986,2,17.13,8.57,9.1 / 8.1,Hitter,3B,BOS,AL,27,FALSE,0,17.13,0
+Position,C,1,Gary Carter,cartega01,1982,1983,2,15.73,7.86,8.6 / 7.1,Hitter,C,WSN,NL,28,FALSE,0,15.73,0
+Position,C,2,Mike Piazza,piazzmi01,1997,1998,2,14.94,7.47,8.7 / 6.3,Hitter,C,LAD,NL,28,FALSE,0,14.94,0
+Position,C,3,Johnny Bench,benchjo01,1974,1975,2,14.47,7.23,7.8 / 6.6,Hitter,C,CIN,NL,26,FALSE,0,14.47,0
+Position,C,4,Joe Mauer,mauerjo01,2009,2010,2,13.69,6.85,7.8 / 5.9,Hitter,C,MIN,AL,26,FALSE,0,13.69,0
+Position,C,5,Yadier Molina,molinya01,2012,2013,2,13.36,6.68,7.2 / 6.2,Hitter,C,STL,NL,29,FALSE,0,13.36,0
+Position,DH,1,Frank Thomas,thomafr04,1991,1992,2,13.96,6.98,7.0 / 7.0,Hitter,DH,CHW,AL,23,FALSE,0,13.96,0
+Position,DH,2,Edgar Martinez,martied01,1995,1996,2,13.57,6.78,7.0 / 6.5,Hitter,DH,SEA,AL,32,TRUE,0,13.57,0
+Position,DH,3,David Ortiz,ortizda01,2006,2007,2,12.13,6.06,5.8 / 6.4,Hitter,DH,BOS,AL,30,FALSE,0,12.13,0
+Position,DH,4,Yordan Alvarez,alvaryo01,2022,2023,2,11.37,5.69,6.8 / 4.5,Hitter,DH,HOU,AL,25,FALSE,0,11.37,0
+Position,DH,5,Travis Hafner,hafnetr01,2005,2006,2,11.33,5.66,5.4 / 5.9,Hitter,DH,CLE,AL,28,FALSE,0,11.33,0
+Position,OF,1,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+Position,OF,2,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Position,OF,3,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+Position,OF,4,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+Position,OF,5,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+Position,P,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Position,P,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Position,P,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Position,P,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Position,P,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Position,SS,1,Honus Wagner,wagneho01,1908,1909,2,20.68,10.34,11.5 / 9.2,Hitter,SS,PIT,NL,34,FALSE,0,20.68,0
+Position,SS,2,Ernie Banks,bankser01,1958,1959,2,19.56,9.78,9.3 / 10.2,Hitter,SS,CHC,NL,27,FALSE,0,19.56,0
+Position,SS,3,Cal Ripken,ripkeca01,1990,1991,2,19.04,9.52,7.5 / 11.5,Hitter,SS,BAL,AL,29,FALSE,0,19.04,0
+Position,SS,4,Alex Rodriguez,rodrial01,2000,2001,2,18.7,9.35,10.4 / 8.3,Hitter,SS,SEA,AL,24,FALSE,0,18.7,0
+Position,SS,5,Robin Yount,yountro01,1982,1983,2,17.79,8.89,10.5 / 7.2,Hitter,SS,MIL,AL,26,FALSE,0,17.79,0
+Position,Two-way,1,Bob Caruthers,carutbo01,1886,1887,2,22.24,11.12,11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),22,FALSE,0,7.84,14.4
+Position,Two-way,2,Jim Whitney,whitnji01,1883,1884,2,21.83,10.91,13.4 / 8.4,Two-way / mixed,Two-way,ATL,NL,25,FALSE,0,3.08,18.75
+Position,Two-way,3,Tony Mullane,mullato01,1883,1884,2,19.63,9.81,6.4 / 13.2,Two-way / mixed,Two-way,TOL,Other (AA/UA/PL/FL),24,FALSE,0,1.59,18.04
+Position,Two-way,4,Shohei Ohtani,ohtansh01,2022,2023,2,19.56,9.78,9.6 / 9.9,Two-way / mixed,Two-way,ANA,AL,27,FALSE,0,9.51,10.05
+Position,Two-way,5,Babe Ruth,ruthba01,1918,1919,2,17.01,8.5,7.0 / 10.0,Two-way / mixed,Two-way,BOS,AL,23,TRUE,0,13.92,3.09
+Decade (start year),1870s,1,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Decade (start year),1870s,2,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+Decade (start year),1870s,3,Jim McCormick,mccorji01,1879,1880,2,20.57,10.29,9.8 / 10.8,Pitcher,P,CBL,NL,22,FALSE,0,0.13,20.44
+Decade (start year),1870s,4,John Ward,wardjo01,1879,1880,2,16.8,8.4,9.2 / 7.6,Pitcher,P,PRO,NL,19,FALSE,0,2.82,13.98
+Decade (start year),1870s,5,George Bradley,bradlge01,1876,1877,2,11.92,5.96,9.1 / 2.8,Pitcher,P,SBS,NL,23,FALSE,0,0.32,11.6
+Decade (start year),1880s,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Decade (start year),1880s,2,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Decade (start year),1880s,3,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Decade (start year),1880s,4,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+Decade (start year),1880s,5,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+Decade (start year),1890s,1,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+Decade (start year),1890s,2,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+Decade (start year),1890s,3,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+Decade (start year),1890s,4,Theodore Breitenstein,breitte01,1893,1894,2,20.13,10.07,11.0 / 9.1,Pitcher,P,STL,NL,24,FALSE,0,-0.67,20.8
+Decade (start year),1890s,5,Sadie McMahon,mcmahsa01,1890,1891,2,19.99,10,10.6 / 9.4,Pitcher,P,PHA,Other (AA/UA/PL/FL),22,FALSE,0,-0.39,20.38
+Decade (start year),1900s,1,Cy Young,youngcy01,1901,1902,2,22.53,11.27,12.4 / 10.1,Pitcher,P,BOS,AL,34,FALSE,0,0.04,22.49
+Decade (start year),1900s,2,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+Decade (start year),1900s,3,Joe McGinnity,mcginjo01,1903,1904,2,21.19,10.59,11.9 / 9.3,Pitcher,P,SFG,NL,32,FALSE,0,-0.6,21.79
+Decade (start year),1900s,4,Honus Wagner,wagneho01,1908,1909,2,20.68,10.34,11.5 / 9.2,Hitter,SS,PIT,NL,34,FALSE,0,20.68,0
+Decade (start year),1900s,5,Ty Cobb,cobbty01,1909,1910,2,20.18,10.09,9.9 / 10.3,Hitter,OF,DET,AL,22,FALSE,0,20.18,0
+Decade (start year),1910s,1,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Decade (start year),1910s,2,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+Decade (start year),1910s,3,Ed Walsh,walshed01,1911,1912,2,22.53,11.27,9.7 / 12.8,Pitcher,P,CHW,AL,30,FALSE,0,0.77,21.76
+Decade (start year),1910s,4,Babe Ruth,ruthba01,1919,1920,2,21.77,10.88,10.0 / 11.8,Two-way / mixed,OF,NYY,AL,24,TRUE,0,21.11,0.66
+Decade (start year),1910s,5,Ty Cobb,cobbty01,1910,1911,2,20.84,10.42,10.3 / 10.5,Hitter,OF,DET,AL,23,FALSE,0,20.84,0
+Decade (start year),1920s,1,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+Decade (start year),1920s,2,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+Decade (start year),1920s,3,Lou Gehrig,gehrilo01,1927,1928,2,21.34,10.67,11.8 / 9.5,Hitter,1B,NYY,AL,24,FALSE,0,21.34,0
+Decade (start year),1920s,4,Red Faber,faberre01,1921,1922,2,20.6,10.3,11.1 / 9.5,Pitcher,P,CHW,AL,32,FALSE,0,-0.4,21
+Decade (start year),1920s,5,Pete Alexander,alexape01,1920,1921,2,18.13,9.06,12.7 / 5.4,Pitcher,P,CHC,NL,33,FALSE,0,1.44,16.69
+Decade (start year),1930s,1,Babe Ruth,ruthba01,1930,1931,2,21.04,10.52,10.5 / 10.6,Hitter,OF,NYY,AL,35,FALSE,0,20.82,0.22
+Decade (start year),1930s,2,Lefty Grove,grovele01,1930,1931,2,20.37,10.19,10.3 / 10.0,Pitcher,P,OAK,AL,30,FALSE,0,-0.38,20.75
+Decade (start year),1930s,3,Bob Feller,fellebo01,1939,1940,2,19.51,9.75,9.7 / 9.8,Pitcher,P,CLE,AL,20,FALSE,0,0.4,19.11
+Decade (start year),1930s,4,Jimmie Foxx,foxxji01,1932,1933,2,19.3,9.65,10.3 / 9.0,Hitter,1B,OAK,AL,24,FALSE,0,19.3,0
+Decade (start year),1930s,5,Lou Gehrig,gehrilo01,1934,1935,2,18.31,9.16,10.0 / 8.3,Hitter,1B,NYY,AL,31,FALSE,0,18.31,0
+Decade (start year),1940s,1,Hal Newhouser,newhoha01,1945,1946,2,21.71,10.86,12.2 / 9.6,Pitcher,P,DET,AL,24,FALSE,0,0.71,21
+Decade (start year),1940s,2,Ted Williams,willite01,1941,1942,2,20.8,10.4,10.4 / 10.4,Hitter,OF,BOS,AL,22,FALSE,0,20.8,0
+Decade (start year),1940s,3,Stan Musial,musiast01,1948,1949,2,20.36,10.18,11.3 / 9.1,Hitter,OF,STL,NL,27,FALSE,0,20.36,0
+Decade (start year),1940s,4,Bob Feller,fellebo01,1940,1941,2,18.07,9.04,9.8 / 8.2,Pitcher,P,CLE,AL,21,FALSE,0,-0.05,18.12
+Decade (start year),1940s,5,Lou Boudreau,boudrlo01,1947,1948,2,17.63,8.81,7.3 / 10.4,Hitter,SS,CLE,AL,29,FALSE,0,17.63,0
+Decade (start year),1950s,1,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+Decade (start year),1950s,2,Willie Mays,mayswi01,1954,1955,2,19.62,9.81,10.4 / 9.2,Hitter,OF,SFG,NL,23,FALSE,0,19.62,0
+Decade (start year),1950s,3,Ernie Banks,bankser01,1958,1959,2,19.56,9.78,9.3 / 10.2,Hitter,SS,CHC,NL,27,FALSE,0,19.56,0
+Decade (start year),1950s,4,Robin Roberts,roberro01,1953,1954,2,18.57,9.29,9.9 / 8.7,Pitcher,P,PHI,NL,26,FALSE,0,-0.26,18.83
+Decade (start year),1950s,5,Jackie Robinson,robinja02,1951,1952,2,18.05,9.03,9.6 / 8.4,Hitter,2B,LAD,NL,32,FALSE,0,18.05,0
+Decade (start year),1960s,1,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+Decade (start year),1960s,2,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+Decade (start year),1960s,3,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+Decade (start year),1960s,4,Juan Marichal,maricju01,1965,1966,2,20.24,10.12,10.5 / 9.8,Pitcher,P,SFG,NL,27,FALSE,0,0.86,19.38
+Decade (start year),1960s,5,Ron Santo,santoro01,1966,1967,2,18.65,9.32,8.9 / 9.8,Hitter,3B,CHC,NL,26,FALSE,0,18.65,0
+Decade (start year),1970s,1,Wilbur Wood,woodwi01,1971,1972,2,21.33,10.66,11.0 / 10.3,Pitcher,P,CHW,AL,29,FALSE,0,-1.14,22.47
+Decade (start year),1970s,2,Joe Morgan,morgajo02,1975,1976,2,20.61,10.3,11.0 / 9.6,Hitter,2B,CIN,NL,31,FALSE,0,20.61,0
+Decade (start year),1970s,3,Phil Niekro,niekrph01,1977,1978,2,18.85,9.43,8.5 / 10.4,Pitcher,P,ATL,NL,38,FALSE,0,-0.07,18.92
+Decade (start year),1970s,4,Gaylord Perry,perryga01,1972,1973,2,18.79,9.39,11.0 / 7.8,Pitcher,P,CLE,AL,33,FALSE,0,0.2,18.59
+Decade (start year),1970s,5,Fergie Jenkins,jenkife01,1970,1971,2,18.68,9.34,6.9 / 11.8,Pitcher,P,CHC,NL,27,FALSE,0,1.25,17.43
+Decade (start year),1980s,1,Dwight Gooden,goodedw01,1984,1985,2,19.06,9.53,5.8 / 13.3,Pitcher,P,NYM,NL,19,FALSE,0,1.41,17.65
+Decade (start year),1980s,2,Rickey Henderson,henderi01,1989,1990,2,18.6,9.3,8.7 / 9.9,Hitter,OF,OAK,AL,30,FALSE,0,18.6,0
+Decade (start year),1980s,3,Roger Clemens,clemero02,1986,1987,2,18.24,9.12,8.8 / 9.4,Pitcher,P,BOS,AL,23,FALSE,0,0,18.24
+Decade (start year),1980s,4,Cal Ripken,ripkeca01,1983,1984,2,18.22,9.11,8.2 / 10.0,Hitter,SS,BAL,AL,22,FALSE,0,18.22,0
+Decade (start year),1980s,5,Robin Yount,yountro01,1982,1983,2,17.79,8.89,10.5 / 7.2,Hitter,SS,MIL,AL,26,FALSE,0,17.79,0
+Decade (start year),1990s,1,Pedro Martinez,martipe02,1999,2000,2,21.46,10.73,9.8 / 11.7,Pitcher,P,BOS,AL,27,FALSE,0,-0.03,21.49
+Decade (start year),1990s,2,Roger Clemens,clemero02,1997,1998,2,20.23,10.12,12.1 / 8.1,Pitcher,P,TOR,AL,34,FALSE,0,0.17,20.06
+Decade (start year),1990s,3,Cal Ripken,ripkeca01,1990,1991,2,19.04,9.52,7.5 / 11.5,Hitter,SS,BAL,AL,29,FALSE,0,19.04,0
+Decade (start year),1990s,4,Barry Bonds,bondsba01,1992,1993,2,18.95,9.47,9.0 / 9.9,Hitter,OF,SFG,NL,27,FALSE,0,18.95,0
+Decade (start year),1990s,5,Ken Griffey,griffke02,1996,1997,2,18.81,9.4,9.7 / 9.1,Hitter,OF,SEA,AL,26,FALSE,0,18.81,0
+Decade (start year),2000s,1,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Decade (start year),2000s,2,Randy Johnson,johnsra05,2001,2002,2,19.97,9.98,9.5 / 10.5,Pitcher,P,ARI,NL,37,FALSE,0,-0.9,20.87
+Decade (start year),2000s,3,Albert Pujols,pujolal01,2008,2009,2,18.97,9.48,9.2 / 9.7,Hitter,1B,STL,NL,28,FALSE,0,18.97,0
+Decade (start year),2000s,4,Alex Rodriguez,rodrial01,2000,2001,2,18.7,9.35,10.4 / 8.3,Hitter,SS,SEA,AL,24,FALSE,0,18.7,0
+Decade (start year),2000s,5,Chase Utley,utleych01,2008,2009,2,17.27,8.63,9.0 / 8.2,Hitter,2B,PHI,NL,29,FALSE,0,17.27,0
+Decade (start year),2010s,1,Mike Trout,troutmi01,2015,2016,2,19.92,9.96,9.5 / 10.4,Hitter,OF,ANA,AL,23,FALSE,0,19.92,0
+Decade (start year),2010s,2,Mookie Betts,bettsmo01,2018,2019,2,17.97,8.98,10.7 / 7.2,Hitter,OF,BOS,AL,25,FALSE,0,17.97,0
+Decade (start year),2010s,3,Jacob deGrom,degroja01,2018,2019,2,17.63,8.81,9.9 / 7.7,Pitcher,P,NYM,NL,30,FALSE,0,1.01,16.62
+Decade (start year),2010s,4,Roy Halladay,hallaro01,2010,2011,2,16.83,8.41,8.3 / 8.6,Pitcher,P,PHI,NL,33,FALSE,0,-0.46,17.29
+Decade (start year),2010s,5,Clayton Kershaw,kershcl01,2013,2014,2,16.82,8.41,8.6 / 8.2,Pitcher,P,LAD,NL,25,FALSE,0,0.98,15.84
+Decade (start year),2020s,1,Shohei Ohtani,ohtansh01,2022,2023,2,19.56,9.78,9.6 / 9.9,Two-way / mixed,Two-way,ANA,AL,27,FALSE,0,9.51,10.05
+Decade (start year),2020s,2,Aaron Judge,judgeaa01,2021,2022,2,16.66,8.33,5.9 / 10.8,Hitter,OF,NYY,AL,29,FALSE,0,16.66,0
+Decade (start year),2020s,3,Mookie Betts,bettsmo01,2022,2023,2,15.29,7.64,6.7 / 8.6,Hitter,OF,LAD,NL,29,FALSE,0,15.29,0
+Decade (start year),2020s,4,Gunnar Henderson,hendegu01,2023,2024,2,14.86,7.43,6.1 / 8.8,Hitter,SS,BAL,AL,22,FALSE,0,14.86,0
+Decade (start year),2020s,5,Bobby Witt,wittbo02,2023,2024,2,13.91,6.96,4.3 / 9.6,Hitter,SS,KCR,AL,23,FALSE,0,13.91,0
+Age at start,25-27,1,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Age at start,25-27,2,Walter Johnson,johnswa01,1913,1914,2,29.69,14.84,16.6 / 13.1,Pitcher,P,MIN,AL,25,FALSE,0,2.47,27.22
+Age at start,25-27,3,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Age at start,25-27,4,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Age at start,25-27,5,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+Age at start,28-30,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Age at start,28-30,2,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+Age at start,28-30,3,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+Age at start,28-30,4,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+Age at start,28-30,5,Walter Johnson,johnswa01,1918,1919,2,22.81,11.41,11.8 / 11.0,Pitcher,P,MIN,AL,30,TRUE,0,1.55,21.26
+Age at start,31+,1,Babe Ruth,ruthba01,1926,1927,2,23.96,11.98,11.4 / 12.6,Hitter,OF,NYY,AL,31,FALSE,0,23.96,0
+Age at start,31+,2,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Age at start,31+,3,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+Age at start,31+,4,Cy Young,youngcy01,1901,1902,2,22.53,11.27,12.4 / 10.1,Pitcher,P,BOS,AL,34,FALSE,0,0.04,22.49
+Age at start,31+,5,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+Age at start,<=24,1,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Age at start,<=24,2,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+Age at start,<=24,3,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+Age at start,<=24,4,Silver King,kingsi01,1888,1889,2,24.56,12.28,16.0 / 8.5,Pitcher,P,STL,Other (AA/UA/PL/FL),20,FALSE,0,1.61,22.95
+Age at start,<=24,5,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+League,AL,1,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+League,AL,2,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+League,AL,3,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+League,AL,4,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+League,AL,5,Cy Young,youngcy01,1901,1902,2,22.53,11.27,12.4 / 10.1,Pitcher,P,BOS,AL,34,FALSE,0,0.04,22.49
+League,Mixed,1,Tim Keefe,keefeti01,1882,1883,2,25.42,12.71,5.2 / 20.2,Pitcher,P,NYP,Mixed,25,FALSE,0,1.01,24.41
+League,Mixed,2,Silver King,kingsi01,1889,1890,2,20.93,10.46,8.5 / 12.4,Pitcher,P,CHP,Mixed,21,FALSE,0,-0.55,21.48
+League,Mixed,3,Joe McGinnity,mcginjo01,1902,1903,2,20.7,10.35,8.8 / 11.9,Pitcher,P,SFG,Mixed,31,FALSE,0,-0.45,21.15
+League,Mixed,4,Cy Young,youngcy01,1900,1901,2,19.51,9.75,7.1 / 12.4,Pitcher,P,BOS,Mixed,33,FALSE,0,-0.27,19.78
+League,Mixed,5,Shohei Ohtani,ohtansh01,2023,2024,2,18.95,9.47,9.9 / 9.0,Two-way / mixed,Two-way,ANA,Mixed,28,FALSE,0,15.15,3.8
+League,NL,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+League,NL,2,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+League,NL,3,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+League,NL,4,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+League,NL,5,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+League,Other (AA/UA/PL/FL),1,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+League,Other (AA/UA/PL/FL),2,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+League,Other (AA/UA/PL/FL),3,Silver King,kingsi01,1888,1889,2,24.56,12.28,16.0 / 8.5,Pitcher,P,STL,Other (AA/UA/PL/FL),20,FALSE,0,1.61,22.95
+League,Other (AA/UA/PL/FL),4,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+League,Other (AA/UA/PL/FL),5,Bob Caruthers,carutbo01,1886,1887,2,22.24,11.12,11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),22,FALSE,0,7.84,14.4
+Franchise (one-team windows only),ANA,1,Mike Trout,troutmi01,2015,2016,2,19.92,9.96,9.5 / 10.4,Hitter,OF,ANA,AL,23,FALSE,0,19.92,0
+Franchise (one-team windows only),ANA,2,Shohei Ohtani,ohtansh01,2022,2023,2,19.56,9.78,9.6 / 9.9,Two-way / mixed,Two-way,ANA,AL,27,FALSE,0,9.51,10.05
+Franchise (one-team windows only),ANA,3,Frank Tanana,tananfr01,1976,1977,2,15.79,7.89,7.5 / 8.3,Pitcher,P,ANA,AL,22,FALSE,0,0.01,15.78
+Franchise (one-team windows only),ANA,4,Nolan Ryan,ryanno01,1972,1973,2,14.07,7.04,6.3 / 7.7,Pitcher,P,ANA,AL,25,FALSE,0,0.16,13.91
+Franchise (one-team windows only),ANA,5,Andrelton Simmons,simmoan01,2017,2018,2,13.45,6.72,8.0 / 5.5,Hitter,SS,ANA,AL,27,FALSE,0,13.45,0
+Franchise (one-team windows only),ARI,1,Randy Johnson,johnsra05,2001,2002,2,19.97,9.98,9.5 / 10.5,Pitcher,P,ARI,NL,37,FALSE,0,-0.9,20.87
+Franchise (one-team windows only),ARI,2,Curt Schilling,schilcu01,2001,2002,2,16.99,8.49,8.5 / 8.5,Pitcher,P,ARI,NL,34,FALSE,0,-0.39,17.38
+Franchise (one-team windows only),ARI,3,Dan Haren,harenda01,2008,2009,2,13.51,6.75,6.5 / 7.0,Pitcher,P,ARI,NL,27,FALSE,0,0.94,12.57
+Franchise (one-team windows only),ARI,4,Paul Goldschmidt,goldspa01,2015,2016,2,13.24,6.62,8.3 / 4.9,Hitter,1B,ARI,NL,27,FALSE,0,13.24,0
+Franchise (one-team windows only),ARI,5,Brandon Webb,webbbr01,2006,2007,2,12.84,6.42,6.9 / 5.9,Pitcher,P,ARI,NL,27,FALSE,0,-0.56,13.4
+Franchise (one-team windows only),ATL,1,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+Franchise (one-team windows only),ATL,2,John Clarkson,clarkjo01,1889,1890,2,25.04,12.52,16.2 / 8.9,Pitcher,P,ATL,NL,27,FALSE,0,-0.27,25.31
+Franchise (one-team windows only),ATL,3,Kid Nichols,nichoki01,1897,1898,2,22.94,11.47,11.1 / 11.8,Pitcher,P,ATL,NL,27,FALSE,0,0.5,22.44
+Franchise (one-team windows only),ATL,4,Charlie Buffinton,buffich01,1884,1885,2,22.34,11.17,16.3 / 6.1,Two-way / mixed,P,ATL,NL,23,FALSE,0,1.39,20.95
+Franchise (one-team windows only),ATL,5,Jim Whitney,whitnji01,1883,1884,2,21.83,10.91,13.4 / 8.4,Two-way / mixed,Two-way,ATL,NL,25,FALSE,0,3.08,18.75
+Franchise (one-team windows only),BAL,1,Cal Ripken,ripkeca01,1990,1991,2,19.04,9.52,7.5 / 11.5,Hitter,SS,BAL,AL,29,FALSE,0,19.04,0
+Franchise (one-team windows only),BAL,2,Brooks Robinson,robinbr01,1967,1968,2,16.12,8.06,7.7 / 8.4,Hitter,3B,BAL,AL,30,FALSE,0,16.12,0
+Franchise (one-team windows only),BAL,3,George Sisler,sislege01,1919,1920,2,16.08,8.04,6.2 / 9.8,Hitter,1B,BAL,AL,26,TRUE,0,16.04,0.04
+Franchise (one-team windows only),BAL,4,Urban Shocker,shockur01,1921,1922,2,15.96,7.98,8.6 / 7.3,Pitcher,P,BAL,AL,30,FALSE,0,0.93,15.03
+Franchise (one-team windows only),BAL,5,Ken Williams,willike01,1922,1923,2,15.66,7.83,8.0 / 7.7,Hitter,OF,BAL,AL,32,FALSE,0,15.66,0
+Franchise (one-team windows only),BLO,1,Matt Kilroy,kilroma01,1886,1887,2,18.3,9.15,6.2 / 12.1,Pitcher,P,BLO,Other (AA/UA/PL/FL),20,FALSE,0,0.95,17.35
+Franchise (one-team windows only),BLO,2,John McGraw,mcgrajo01,1898,1899,2,16.57,8.29,7.9 / 8.7,Hitter,3B,BLO,NL,25,FALSE,0,16.57,0
+Franchise (one-team windows only),BLO,3,Bill Hoffer,hoffebi01,1895,1896,2,16.16,8.08,7.9 / 8.2,Pitcher,P,BLO,NL,24,FALSE,0,0.68,15.48
+Franchise (one-team windows only),BLO,4,Hughie Jennings,jennihu01,1895,1896,2,15.82,7.91,7.5 / 8.3,Hitter,SS,BLO,NL,26,FALSE,0,15.82,0
+Franchise (one-team windows only),BLO,5,Hardie Henderson,hendeha01,1884,1885,2,14.16,7.08,6.4 / 7.8,Pitcher,P,BLO,Other (AA/UA/PL/FL),21,FALSE,0,0.42,13.74
+Franchise (one-team windows only),BLT,1,Jack Quinn,quinnja01,1914,1915,2,8.56,4.28,6.7 / 1.9,Pitcher,P,BLT,Other (AA/UA/PL/FL),30,FALSE,0,1.92,6.64
+Franchise (one-team windows only),BLT,2,George Suggs,suggsge01,1914,1915,2,6.19,3.1,6.7 / -0.5,Pitcher,P,BLT,Other (AA/UA/PL/FL),31,FALSE,0,1.03,5.16
+Franchise (one-team windows only),BOS,1,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+Franchise (one-team windows only),BOS,2,Cy Young,youngcy01,1901,1902,2,22.53,11.27,12.4 / 10.1,Pitcher,P,BOS,AL,34,FALSE,0,0.04,22.49
+Franchise (one-team windows only),BOS,3,Pedro Martinez,martipe02,1999,2000,2,21.46,10.73,9.8 / 11.7,Pitcher,P,BOS,AL,27,FALSE,0,-0.03,21.49
+Franchise (one-team windows only),BOS,4,Ted Williams,willite01,1941,1942,2,20.8,10.4,10.4 / 10.4,Hitter,OF,BOS,AL,22,FALSE,0,20.8,0
+Franchise (one-team windows only),BOS,5,Lefty Grove,grovele01,1936,1937,2,19.82,9.91,10.6 / 9.2,Pitcher,P,BOS,AL,36,FALSE,0,-1.13,20.95
+Franchise (one-team windows only),BRS,1,Dan Brouthers,broutda01,1890,1891,2,9.65,4.82,4.0 / 5.6,Hitter,1B,BRS,Mixed,32,FALSE,0,9.65,0
+Franchise (one-team windows only),BRS,2,King Kelly,kellyki01,1890,1891,2,6.02,3.01,3.2 / 2.8,Hitter,C,BRS,Mixed,32,FALSE,0,6.18,-0.16
+Franchise (one-team windows only),BUF,1,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Franchise (one-team windows only),BUF,2,Dan Brouthers,broutda01,1882,1883,2,11.42,5.71,5.9 / 5.5,Hitter,1B,BUF,NL,24,FALSE,0,11.73,-0.31
+Franchise (one-team windows only),BUF,3,Hardy Richardson,richaha01,1883,1884,2,7.79,3.9,4.1 / 3.7,Hitter,2B,BUF,NL,28,FALSE,0,7.79,0
+Franchise (one-team windows only),BUF,4,Jim O'Rourke,orourji01,1883,1884,2,7.46,3.73,2.6 / 4.9,Hitter,OF,BUF,NL,32,FALSE,0,7.33,0.13
+Franchise (one-team windows only),BUF,5,Deacon White,whitede01,1884,1885,2,7.04,3.52,4.9 / 2.1,Hitter,3B,BUF,NL,36,FALSE,0,7.04,0
+Franchise (one-team windows only),CBK,1,John Richmond,richmjo01,1883,1884,2,6.77,3.38,3.4 / 3.4,Hitter,SS,CBK,Other (AA/UA/PL/FL),28,FALSE,0,6.77,0
+Franchise (one-team windows only),CBK,2,Pop Smith,smithpo01,1883,1884,2,6.42,3.21,2.3 / 4.1,Hitter,2B,CBK,Other (AA/UA/PL/FL),26,FALSE,0,6.68,-0.26
+Franchise (one-team windows only),CBL,1,Jim McCormick,mccorji01,1883,1884,2,23.01,11.51,8.2 / 14.8,Pitcher,P,CBL,NL,26,FALSE,0,0.02,22.99
+Franchise (one-team windows only),CBL,2,Jack Glasscock,glassja01,1882,1883,2,9.39,4.7,4.9 / 4.5,Hitter,SS,CBL,NL,24,FALSE,0,9.39,0
+Franchise (one-team windows only),CBL,3,Fred Dunlap,dunlafr01,1882,1883,2,7.77,3.88,3.3 / 4.5,Hitter,2B,CBL,NL,23,FALSE,0,7.77,0
+Franchise (one-team windows only),CHC,1,John Clarkson,clarkjo01,1886,1887,2,21.81,10.91,6.8 / 15.0,Pitcher,P,CHC,NL,24,FALSE,0,-0.34,22.15
+Franchise (one-team windows only),CHC,2,Pete Alexander,alexape01,1919,1920,2,20.22,10.11,7.5 / 12.7,Pitcher,P,CHC,NL,32,TRUE,0,0.82,19.4
+Franchise (one-team windows only),CHC,3,Ernie Banks,bankser01,1958,1959,2,19.56,9.78,9.3 / 10.2,Hitter,SS,CHC,NL,27,FALSE,0,19.56,0
+Franchise (one-team windows only),CHC,4,Mordecai Brown,brownmo01,1908,1909,2,18.74,9.37,9.1 / 9.6,Pitcher,P,CHC,NL,31,FALSE,0,0,18.74
+Franchise (one-team windows only),CHC,5,Fergie Jenkins,jenkife01,1970,1971,2,18.68,9.34,6.9 / 11.8,Pitcher,P,CHC,NL,27,FALSE,0,1.25,17.43
+Franchise (one-team windows only),CHH,1,Art Wilson,wilsoar01,1914,1915,2,10.2,5.1,6.3 / 3.9,Hitter,C,CHH,Other (AA/UA/PL/FL),28,FALSE,0,10.2,0
+Franchise (one-team windows only),CHH,2,Claude Hendrix,hendrcl01,1914,1915,2,9.73,4.86,8.0 / 1.7,Pitcher,P,CHH,Other (AA/UA/PL/FL),25,FALSE,0,2.29,7.44
+Franchise (one-team windows only),CHH,3,Dutch Zwilling,zwilldu01,1914,1915,2,8.81,4.4,4.9 / 3.9,Hitter,OF,CHH,Other (AA/UA/PL/FL),25,FALSE,0,8.81,0
+Franchise (one-team windows only),CHW,1,Ed Walsh,walshed01,1911,1912,2,22.53,11.27,9.7 / 12.8,Pitcher,P,CHW,AL,30,FALSE,0,0.77,21.76
+Franchise (one-team windows only),CHW,2,Wilbur Wood,woodwi01,1971,1972,2,21.33,10.66,11.0 / 10.3,Pitcher,P,CHW,AL,29,FALSE,0,-1.14,22.47
+Franchise (one-team windows only),CHW,3,Red Faber,faberre01,1921,1922,2,20.6,10.3,11.1 / 9.5,Pitcher,P,CHW,AL,32,FALSE,0,-0.4,21
+Franchise (one-team windows only),CHW,4,Eddie Collins,collied01,1915,1916,2,16.14,8.07,9.1 / 7.0,Hitter,2B,CHW,AL,28,FALSE,0,16.14,0
+Franchise (one-team windows only),CHW,5,Eddie Cicotte,cicoted01,1917,1918,2,15.89,7.94,12.1 / 3.8,Pitcher,P,CHW,AL,33,TRUE,0,0.4,15.49
+Franchise (one-team windows only),CIN,1,Joe Morgan,morgajo02,1975,1976,2,20.61,10.3,11.0 / 9.6,Hitter,2B,CIN,NL,31,FALSE,0,20.61,0
+Franchise (one-team windows only),CIN,2,Will White,whitewi01,1882,1883,2,20.55,10.28,11.3 / 9.2,Pitcher,P,CIN,Other (AA/UA/PL/FL),27,FALSE,0,0.47,20.08
+Franchise (one-team windows only),CIN,3,Bucky Walters,waltebu01,1939,1940,2,16.68,8.34,9.8 / 6.9,Pitcher,P,CIN,NL,30,FALSE,0,1.96,14.72
+Franchise (one-team windows only),CIN,4,Jim Maloney,malonji01,1965,1966,2,16.39,8.2,9.0 / 7.4,Pitcher,P,CIN,NL,25,FALSE,0,1.12,15.27
+Franchise (one-team windows only),CIN,5,Frank Robinson,robinfr02,1961,1962,2,16.37,8.19,7.6 / 8.7,Hitter,OF,CIN,NL,25,FALSE,0,16.37,0
+Franchise (one-team windows only),CLE,1,Bob Feller,fellebo01,1939,1940,2,19.51,9.75,9.7 / 9.8,Pitcher,P,CLE,AL,20,FALSE,0,0.4,19.11
+Franchise (one-team windows only),CLE,2,Gaylord Perry,perryga01,1972,1973,2,18.79,9.39,11.0 / 7.8,Pitcher,P,CLE,AL,33,FALSE,0,0.2,18.59
+Franchise (one-team windows only),CLE,3,Shoeless Joe Jackson,jacksjo01,1911,1912,2,18.42,9.21,9.1 / 9.3,Hitter,OF,CLE,AL,23,FALSE,0,18.42,0
+Franchise (one-team windows only),CLE,4,Nap Lajoie,lajoina01,1906,1907,2,17.64,8.82,10.0 / 7.6,Hitter,2B,CLE,AL,31,FALSE,0,17.64,0
+Franchise (one-team windows only),CLE,5,Lou Boudreau,boudrlo01,1947,1948,2,17.63,8.81,7.3 / 10.4,Hitter,SS,CLE,AL,29,FALSE,0,17.63,0
+Franchise (one-team windows only),CLS,1,Jack Crooks,crookja01,1890,1891,2,6.69,3.34,2.6 / 4.1,Hitter,2B,CLS,Other (AA/UA/PL/FL),24,FALSE,0,6.69,0
+Franchise (one-team windows only),CLS,2,Jack O'Connor,oconnja01,1889,1890,2,6.43,3.21,2.3 / 4.1,Hitter,C,CLS,Other (AA/UA/PL/FL),23,FALSE,0,6.43,0
+Franchise (one-team windows only),CLS,3,Jim McTamany,mctamji01,1889,1890,2,6.15,3.08,2.3 / 3.9,Hitter,OF,CLS,Other (AA/UA/PL/FL),25,FALSE,0,6.15,0
+Franchise (one-team windows only),CLV,1,Cy Young,youngcy01,1892,1893,2,23.62,11.81,13.0 / 10.6,Pitcher,P,CLV,NL,25,FALSE,0,-1.51,25.13
+Franchise (one-team windows only),CLV,2,George Cuppy,cuppyni01,1895,1896,2,18.86,9.43,8.5 / 10.3,Pitcher,P,CLV,NL,25,FALSE,0,1.36,17.5
+Franchise (one-team windows only),CLV,3,Cupid Childs,childcu01,1892,1893,2,11.78,5.89,7.1 / 4.7,Hitter,2B,CLV,NL,24,FALSE,0,11.78,0
+Franchise (one-team windows only),CLV,4,Jack Powell,powelja01,1897,1898,2,11,5.5,5.5 / 5.5,Pitcher,P,CLV,NL,22,FALSE,0,-1.26,12.26
+Franchise (one-team windows only),CLV,5,Jesse Burkett,burkeje01,1895,1896,2,10.65,5.32,5.3 / 5.3,Hitter,OF,CLV,NL,26,FALSE,0,10.65,0
+Franchise (one-team windows only),CNR,1,Deacon White,whitede01,1878,1879,2,6.14,3.07,2.4 / 3.7,Hitter,C,CNR,NL,30,FALSE,0,6.14,0
+Franchise (one-team windows only),COL,1,Todd Helton,heltoto01,2000,2001,2,16.62,8.31,8.9 / 7.8,Hitter,1B,COL,NL,26,FALSE,0,16.62,0
+Franchise (one-team windows only),COL,2,Larry Walker,walkela01,1997,1998,2,15.56,7.78,9.8 / 5.7,Hitter,OF,COL,NL,30,FALSE,0,15.56,0
+Franchise (one-team windows only),COL,3,Nolan Arenado,arenano01,2018,2019,2,13.42,6.71,6.3 / 7.1,Hitter,3B,COL,NL,27,FALSE,0,13.42,0
+Franchise (one-team windows only),COL,4,Ubaldo Jimenez,jimenub01,2009,2010,2,13.23,6.62,5.9 / 7.3,Pitcher,P,COL,NL,25,FALSE,0,0.17,13.06
+Franchise (one-team windows only),COL,5,Troy Tulowitzki,tulowtr01,2009,2010,2,13.23,6.62,6.5 / 6.7,Hitter,SS,COL,NL,24,FALSE,0,13.23,0
+Franchise (one-team windows only),DET,1,Hal Newhouser,newhoha01,1945,1946,2,21.71,10.86,12.2 / 9.6,Pitcher,P,DET,AL,24,FALSE,0,0.71,21
+Franchise (one-team windows only),DET,2,Ty Cobb,cobbty01,1910,1911,2,20.84,10.42,10.3 / 10.5,Hitter,OF,DET,AL,23,FALSE,0,20.84,0
+Franchise (one-team windows only),DET,3,Charlie Gehringer,gehrich01,1934,1935,2,17.42,8.71,8.9 / 8.6,Hitter,2B,DET,AL,31,FALSE,0,17.42,0
+Franchise (one-team windows only),DET,4,Justin Verlander,verlaju01,2011,2012,2,16.54,8.27,8.6 / 8.0,Pitcher,P,DET,AL,28,FALSE,0,-0.17,16.71
+Franchise (one-team windows only),DET,5,Dizzy Trout,troutdi01,1943,1944,2,16.28,8.14,5.4 / 10.9,Pitcher,P,DET,AL,28,FALSE,0,2.06,14.22
+Franchise (one-team windows only),DTN,1,Lady Baldwin,baldwla01,1885,1886,2,14.64,7.32,4.2 / 10.5,Pitcher,P,DTN,NL,26,FALSE,0,0.01,14.63
+Franchise (one-team windows only),DTN,2,Dan Brouthers,broutda01,1886,1887,2,13.49,6.75,8.2 / 5.3,Hitter,1B,DTN,NL,28,FALSE,0,13.49,0
+Franchise (one-team windows only),DTN,3,George Weidman,wiedmst01,1881,1882,2,13.06,6.53,3.3 / 9.8,Pitcher,P,DTN,NL,20,FALSE,0,-0.37,13.43
+Franchise (one-team windows only),DTN,4,Hardy Richardson,richaha01,1886,1887,2,10.71,5.36,6.9 / 3.8,Hitter,OF,DTN,NL,31,FALSE,0,10.76,-0.05
+Franchise (one-team windows only),DTN,5,Sam Thompson,thompsa01,1886,1887,2,9.43,4.72,4.1 / 5.3,Hitter,OF,DTN,NL,26,FALSE,0,9.43,0
+Franchise (one-team windows only),FLA,1,Kevin Brown,brownke01,1996,1997,2,14.61,7.3,7.8 / 6.8,Pitcher,P,FLA,NL,31,FALSE,0,-0.28,14.89
+Franchise (one-team windows only),FLA,2,Hanley Ramirez,ramirha01,2008,2009,2,14.09,7.04,6.7 / 7.4,Hitter,SS,FLA,NL,24,FALSE,0,14.09,0
+Franchise (one-team windows only),FLA,3,Josh Johnson,johnsjo09,2009,2010,2,13.91,6.96,7.4 / 6.6,Pitcher,P,FLA,NL,25,FALSE,0,0.27,13.64
+Franchise (one-team windows only),FLA,4,Dontrelle Willis,willido03,2005,2006,2,13,6.5,8.3 / 4.7,Pitcher,P,FLA,NL,23,FALSE,0,1.65,11.35
+Franchise (one-team windows only),FLA,5,Sandy Alcantara,alcansa01,2021,2022,2,11.93,5.96,3.9 / 8.0,Pitcher,P,FLA,NL,25,FALSE,0,-0.26,12.19
+Franchise (one-team windows only),HOU,1,Alex Bregman,bregmal01,2018,2019,2,16.49,8.24,7.5 / 8.9,Hitter,3B,HOU,AL,24,FALSE,0,16.49,0
+Franchise (one-team windows only),HOU,2,Craig Biggio,biggicr01,1997,1998,2,15.9,7.95,9.4 / 6.5,Hitter,2B,HOU,NL,31,FALSE,0,15.9,0
+Franchise (one-team windows only),HOU,3,Jose Altuve,altuvjo01,2016,2017,2,15.87,7.93,7.8 / 8.1,Hitter,2B,HOU,AL,26,FALSE,0,15.87,0
+Franchise (one-team windows only),HOU,4,Cesar Cedeno,cedence01,1972,1973,2,15.38,7.69,8.0 / 7.4,Hitter,OF,HOU,NL,21,FALSE,0,15.38,0
+Franchise (one-team windows only),HOU,5,Jeff Bagwell,bagweje01,1996,1997,2,15.16,7.58,7.5 / 7.7,Hitter,1B,HOU,NL,28,FALSE,0,15.16,0
+Franchise (one-team windows only),IND,1,Jack Glasscock,glassja01,1888,1889,2,9.37,4.68,2.8 / 6.6,Hitter,SS,IND,NL,30,FALSE,0,9.7,-0.33
+Franchise (one-team windows only),IND,2,Henry Boyle,boylehe01,1888,1889,2,8.82,4.41,2.6 / 6.3,Pitcher,P,IND,NL,27,FALSE,0,-0.09,8.91
+Franchise (one-team windows only),IND,3,Jerry Denny,dennyje01,1887,1888,2,6.66,3.33,4.4 / 2.2,Hitter,3B,IND,NL,28,FALSE,0,6.85,-0.19
+Franchise (one-team windows only),KCP,1,Duke Kenworthy,kenwobi01,1914,1915,2,6.67,3.34,4.8 / 1.9,Hitter,2B,KCP,Other (AA/UA/PL/FL),27,FALSE,0,6.67,0
+Franchise (one-team windows only),KCR,1,George Brett,brettge01,1979,1980,2,18.01,9,8.6 / 9.4,Hitter,3B,KCR,AL,26,FALSE,0,18.01,0
+Franchise (one-team windows only),KCR,2,Kevin Appier,appieke01,1992,1993,2,17.27,8.63,8.0 / 9.3,Pitcher,P,KCR,AL,24,FALSE,0,0,17.27
+Franchise (one-team windows only),KCR,3,Zack Greinke,greinza01,2008,2009,2,15.72,7.86,5.3 / 10.4,Pitcher,P,KCR,AL,24,FALSE,0,0.08,15.64
+Franchise (one-team windows only),KCR,4,Willie Wilson,wilsowi02,1979,1980,2,14.83,7.41,6.3 / 8.5,Hitter,OF,KCR,AL,23,FALSE,0,14.83,0
+Franchise (one-team windows only),KCR,5,David Cone,coneda01,1993,1994,2,14.09,7.04,7.2 / 6.9,Pitcher,P,KCR,AL,30,TRUE,0,0,14.09
+Franchise (one-team windows only),LAD,1,Sandy Koufax,koufasa01,1965,1966,2,18.29,9.14,8.6 / 9.7,Pitcher,P,LAD,NL,29,FALSE,0,-0.04,18.33
+Franchise (one-team windows only),LAD,2,Nap Rucker,ruckena01,1911,1912,2,18.07,9.04,9.4 / 8.7,Pitcher,P,LAD,NL,26,FALSE,0,0.48,17.59
+Franchise (one-team windows only),LAD,3,Jackie Robinson,robinja02,1951,1952,2,18.05,9.03,9.6 / 8.4,Hitter,2B,LAD,NL,32,FALSE,0,18.05,0
+Franchise (one-team windows only),LAD,4,Dazzy Vance,vanceda01,1927,1928,2,17.78,8.89,7.5 / 10.3,Pitcher,P,LAD,NL,36,FALSE,0,-0.04,17.82
+Franchise (one-team windows only),LAD,5,Duke Snider,snidedu01,1953,1954,2,17.26,8.63,9.1 / 8.1,Hitter,OF,LAD,NL,26,FALSE,0,17.26,0
+Franchise (one-team windows only),LGR,1,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Franchise (one-team windows only),LOU,1,Guy Hecker,heckegu01,1884,1885,2,25.97,12.98,17.8 / 8.2,Pitcher,P,LOU,Other (AA/UA/PL/FL),28,FALSE,0,3.1,22.87
+Franchise (one-team windows only),LOU,2,Toad Ramsey,ramseto01,1886,1887,2,20.3,10.15,12.5 / 7.8,Pitcher,P,LOU,Other (AA/UA/PL/FL),21,FALSE,0,-0.63,20.93
+Franchise (one-team windows only),LOU,3,Scott Stratton,stratsc01,1890,1891,2,12.47,6.24,10.8 / 1.7,Pitcher,P,LOU,Other (AA/UA/PL/FL),20,FALSE,0,1.65,10.82
+Franchise (one-team windows only),LOU,4,Bert Cunningham,cunnibe01,1898,1899,2,10.95,5.47,7.2 / 3.7,Pitcher,P,LOU,NL,32,FALSE,0,0.24,10.71
+Franchise (one-team windows only),LOU,5,Fred Clarke,clarkfr01,1897,1898,2,10.9,5.45,6.6 / 4.3,Hitter,OF,LOU,NL,24,FALSE,0,10.9,0
+Franchise (one-team windows only),MIL,1,Robin Yount,yountro01,1982,1983,2,17.79,8.89,10.5 / 7.2,Hitter,SS,MIL,AL,26,FALSE,0,17.79,0
+Franchise (one-team windows only),MIL,2,Teddy Higuera,higuete01,1986,1987,2,15.68,7.84,9.4 / 6.3,Pitcher,P,MIL,AL,28,FALSE,0,0,15.68
+Franchise (one-team windows only),MIL,3,Ryan Braun,braunry02,2011,2012,2,14.61,7.3,7.7 / 6.9,Hitter,OF,MIL,NL,27,FALSE,0,14.61,0
+Franchise (one-team windows only),MIL,4,Christian Yelich,yelicch01,2018,2019,2,14.45,7.22,7.3 / 7.1,Hitter,OF,MIL,NL,26,FALSE,0,14.45,0
+Franchise (one-team windows only),MIL,5,Mike Caldwell,caldwmi01,1978,1979,2,13.02,6.51,8.2 / 4.8,Pitcher,P,MIL,AL,29,FALSE,0,0,13.02
+Franchise (one-team windows only),MIN,1,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Franchise (one-team windows only),MIN,2,Bert Blyleven,blylebe01,1973,1974,2,17.57,8.79,9.7 / 7.8,Pitcher,P,MIN,AL,22,FALSE,0,0,17.57
+Franchise (one-team windows only),MIN,3,Rod Carew,carewro01,1976,1977,2,16.49,8.25,6.8 / 9.7,Hitter,1B,MIN,AL,30,FALSE,0,16.49,0
+Franchise (one-team windows only),MIN,4,Johan Santana,santajo01,2004,2005,2,15.97,7.98,8.8 / 7.2,Pitcher,P,MIN,AL,25,FALSE,0,0.06,15.91
+Franchise (one-team windows only),MIN,5,Frank Viola,violafr01,1987,1988,2,15.79,7.89,8.1 / 7.7,Pitcher,P,MIN,AL,27,FALSE,0,0,15.79
+Franchise (one-team windows only),NEW,1,Cy Falkenberg,falkecy01,1914,1915,2,8.22,4.11,8.3 / -0.1,Pitcher,P,NEW,Other (AA/UA/PL/FL),34,FALSE,0,-1.38,9.6
+Franchise (one-team windows only),NEW,2,Bill Rariden,raridbi01,1914,1915,2,6.5,3.25,1.7 / 4.8,Hitter,C,NEW,Other (AA/UA/PL/FL),26,FALSE,0,6.5,0
+Franchise (one-team windows only),NYM,1,Dwight Gooden,goodedw01,1984,1985,2,19.06,9.53,5.8 / 13.3,Pitcher,P,NYM,NL,19,FALSE,0,1.41,17.65
+Franchise (one-team windows only),NYM,2,Jacob deGrom,degroja01,2018,2019,2,17.63,8.81,9.9 / 7.7,Pitcher,P,NYM,NL,30,FALSE,0,1.01,16.62
+Franchise (one-team windows only),NYM,3,Tom Seaver,seaveto01,1970,1971,2,17.3,8.65,6.4 / 10.9,Pitcher,P,NYM,NL,25,FALSE,0,1.3,16
+Franchise (one-team windows only),NYM,4,David Wright,wrighda03,2007,2008,2,15.19,7.6,8.3 / 6.8,Hitter,3B,NYM,NL,24,FALSE,0,15.19,0
+Franchise (one-team windows only),NYM,5,Carlos Beltran,beltrca01,2006,2007,2,13.62,6.81,8.2 / 5.4,Hitter,OF,NYM,NL,29,FALSE,0,13.62,0
+Franchise (one-team windows only),NYP,1,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Franchise (one-team windows only),NYP,2,Dave Orr,orrda01,1885,1886,2,10.82,5.41,4.5 / 6.3,Hitter,1B,NYP,Other (AA/UA/PL/FL),25,FALSE,0,11.33,-0.51
+Franchise (one-team windows only),NYP,3,Candy Nelson,nelsoca01,1884,1885,2,7.51,3.76,3.6 / 3.9,Hitter,SS,NYP,Other (AA/UA/PL/FL),35,FALSE,0,7.51,0
+Franchise (one-team windows only),NYY,1,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+Franchise (one-team windows only),NYY,2,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+Franchise (one-team windows only),NYY,3,Lou Gehrig,gehrilo01,1927,1928,2,21.34,10.67,11.8 / 9.5,Hitter,1B,NYY,AL,24,FALSE,0,21.34,0
+Franchise (one-team windows only),NYY,4,Russ Ford,fordru01,1910,1911,2,19.28,9.64,11.7 / 7.5,Pitcher,P,NYY,AL,27,FALSE,0,0.16,19.12
+Franchise (one-team windows only),NYY,5,Snuffy Stirnweiss,stirnsn01,1944,1945,2,17.4,8.7,8.6 / 8.8,Hitter,2B,NYY,AL,25,FALSE,0,17.4,0
+Franchise (one-team windows only),OAK,1,Lefty Grove,grovele01,1930,1931,2,20.37,10.19,10.3 / 10.0,Pitcher,P,OAK,AL,30,FALSE,0,-0.38,20.75
+Franchise (one-team windows only),OAK,2,Rube Waddell,wadderu01,1904,1905,2,19.75,9.88,10.4 / 9.3,Pitcher,P,OAK,AL,27,FALSE,0,-0.88,20.63
+Franchise (one-team windows only),OAK,3,Eddie Collins,collied01,1909,1910,2,19.44,9.72,9.7 / 9.8,Hitter,2B,OAK,AL,22,FALSE,0,19.44,0
+Franchise (one-team windows only),OAK,4,Jimmie Foxx,foxxji01,1932,1933,2,19.3,9.65,10.3 / 9.0,Hitter,1B,OAK,AL,24,FALSE,0,19.3,0
+Franchise (one-team windows only),OAK,5,Home Run Baker,bakerfr01,1912,1913,2,17.29,8.64,9.0 / 8.2,Hitter,3B,OAK,AL,26,FALSE,0,17.29,0
+Franchise (one-team windows only),PHA,1,Ed Seward,sewared01,1887,1888,2,16.31,8.16,6.4 / 9.9,Pitcher,P,PHA,Other (AA/UA/PL/FL),20,FALSE,0,-0.75,17.06
+Franchise (one-team windows only),PHA,2,Sadie McMahon,mcmahsa01,1889,1890,2,11.26,5.63,0.6 / 10.6,Pitcher,P,PHA,Other (AA/UA/PL/FL),21,FALSE,0,-0.67,11.93
+Franchise (one-team windows only),PHA,3,Harry Stovey,stoveha01,1888,1889,2,10.8,5.4,5.4 / 5.4,Hitter,OF,PHA,Other (AA/UA/PL/FL),31,FALSE,0,10.8,0
+Franchise (one-team windows only),PHA,4,Denny Lyons,lyonsde01,1889,1890,2,10.06,5.03,5.4 / 4.7,Hitter,3B,PHA,Other (AA/UA/PL/FL),23,FALSE,0,10.06,0
+Franchise (one-team windows only),PHA,5,Bobby Mathews,mathebo01,1884,1885,2,9.24,4.62,3.6 / 5.7,Pitcher,P,PHA,Other (AA/UA/PL/FL),32,FALSE,0,-1.46,10.7
+Franchise (one-team windows only),PHI,1,Charlie Buffinton,buffich01,1888,1889,2,23.08,11.54,12.0 / 11.1,Pitcher,P,PHI,NL,27,FALSE,0,-0.3,23.38
+Franchise (one-team windows only),PHI,2,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+Franchise (one-team windows only),PHI,3,Charlie Ferguson,ferguch01,1886,1887,2,21.64,10.82,11.7 / 9.9,Two-way / mixed,P,PHI,NL,23,FALSE,0,3.45,18.19
+Franchise (one-team windows only),PHI,4,Kid Gleason,gleaski01,1890,1891,2,18.83,9.41,11.9 / 6.9,Pitcher,P,PHI,NL,24,FALSE,0,0.29,18.54
+Franchise (one-team windows only),PHI,5,Robin Roberts,roberro01,1953,1954,2,18.57,9.29,9.9 / 8.7,Pitcher,P,PHI,NL,26,FALSE,0,-0.26,18.83
+Franchise (one-team windows only),PHQ,1,Ben Sanders,sandebe01,1890,1891,2,7.48,3.74,5.8 / 1.6,Pitcher,P,PHQ,Mixed,25,FALSE,0,0.32,7.16
+Franchise (one-team windows only),PIT,1,Ed Morris,morried01,1885,1886,2,23.09,11.54,12.7 / 10.4,Pitcher,P,PIT,Other (AA/UA/PL/FL),22,FALSE,0,-1.18,24.27
+Franchise (one-team windows only),PIT,2,Honus Wagner,wagneho01,1908,1909,2,20.68,10.34,11.5 / 9.2,Hitter,SS,PIT,NL,34,FALSE,0,20.68,0
+Franchise (one-team windows only),PIT,3,Pink Hawley,hawlepi01,1895,1896,2,19.31,9.66,11.1 / 8.3,Pitcher,P,PIT,NL,22,FALSE,0,1.14,18.17
+Franchise (one-team windows only),PIT,4,Barry Bonds,bondsba01,1989,1990,2,17.73,8.87,8.0 / 9.7,Hitter,OF,PIT,NL,24,FALSE,0,17.73,0
+Franchise (one-team windows only),PIT,5,Arky Vaughan,vaughar01,1935,1936,2,17.68,8.84,9.7 / 7.9,Hitter,SS,PIT,NL,23,FALSE,0,17.68,0
+Franchise (one-team windows only),PRO,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Franchise (one-team windows only),PRO,2,John Ward,wardjo01,1879,1880,2,16.8,8.4,9.2 / 7.6,Pitcher,P,PRO,NL,19,FALSE,0,2.82,13.98
+Franchise (one-team windows only),PRO,3,Paul Hines,hinespa01,1879,1880,2,8.66,4.33,4.4 / 4.2,Hitter,OF,PRO,NL,24,FALSE,0,8.66,0
+Franchise (one-team windows only),PRO,4,Jack Farrell,farreja02,1883,1884,2,7.83,3.92,5.2 / 2.6,Hitter,2B,PRO,NL,25,FALSE,0,7.83,0
+Franchise (one-team windows only),PRO,5,Joe Start,startjo01,1881,1882,2,6.75,3.38,2.6 / 4.1,Hitter,1B,PRO,NL,38,FALSE,0,6.75,0
+Franchise (one-team windows only),SDP,1,Tony Gwynn,gwynnto01,1986,1987,2,15.22,7.61,6.7 / 8.6,Hitter,OF,SDP,NL,26,FALSE,0,15.22,0
+Franchise (one-team windows only),SDP,2,Ed Whitson,whitsed01,1989,1990,2,13.52,6.76,6.5 / 7.0,Pitcher,P,SDP,NL,34,FALSE,0,0.09,13.43
+Franchise (one-team windows only),SDP,3,Dave Winfield,winfida01,1978,1979,2,12.67,6.34,4.3 / 8.3,Hitter,OF,SDP,NL,26,FALSE,0,12.67,0
+Franchise (one-team windows only),SDP,4,Manny Machado,machama01,2021,2022,2,11.81,5.9,5.0 / 6.8,Hitter,3B,SDP,NL,28,FALSE,0,11.81,0
+Franchise (one-team windows only),SDP,5,Ken Caminiti,caminke01,1996,1997,2,11.65,5.82,7.6 / 4.0,Hitter,3B,SDP,NL,33,FALSE,0,11.65,0
+Franchise (one-team windows only),SEA,1,Ken Griffey,griffke02,1996,1997,2,18.81,9.4,9.7 / 9.1,Hitter,OF,SEA,AL,26,FALSE,0,18.81,0
+Franchise (one-team windows only),SEA,2,Alex Rodriguez,rodrial01,1999,2000,2,15.11,7.56,4.8 / 10.4,Hitter,SS,SEA,AL,23,FALSE,0,15.11,0
+Franchise (one-team windows only),SEA,3,Ichiro Suzuki,suzukic01,2003,2004,2,14.77,7.38,5.6 / 9.2,Hitter,OF,SEA,AL,29,FALSE,0,14.77,0
+Franchise (one-team windows only),SEA,4,Randy Johnson,johnsra05,1994,1995,2,14.05,7.03,5.4 / 8.6,Pitcher,P,SEA,AL,30,TRUE,0,0,14.05
+Franchise (one-team windows only),SEA,5,Edgar Martinez,martied01,1995,1996,2,13.57,6.78,7.0 / 6.5,Hitter,DH,SEA,AL,32,TRUE,0,13.57,0
+Franchise (one-team windows only),SFG,1,Amos Rusie,rusieam01,1893,1894,2,24.91,12.46,11.2 / 13.7,Pitcher,P,SFG,NL,22,FALSE,0,0.21,24.7
+Franchise (one-team windows only),SFG,2,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Franchise (one-team windows only),SFG,3,Mickey Welch,welchmi01,1884,1885,2,22.89,11.45,12.3 / 10.6,Pitcher,P,SFG,NL,24,FALSE,0,0.42,22.47
+Franchise (one-team windows only),SFG,4,Christy Mathewson,mathech01,1908,1909,2,22.45,11.22,11.8 / 10.6,Pitcher,P,SFG,NL,27,FALSE,0,1,21.45
+Franchise (one-team windows only),SFG,5,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+Franchise (one-team windows only),SLI,1,Dave Davenport,davenda01,1914,1915,2,9.97,4.99,2.5 / 7.5,Pitcher,P,SLI,Other (AA/UA/PL/FL),24,FALSE,0,-2.02,11.99
+Franchise (one-team windows only),SLI,2,Doc Crandall,cranddo01,1914,1915,2,8.65,4.32,3.2 / 5.5,Two-way / mixed,P,SLI,Other (AA/UA/PL/FL),26,FALSE,0,3.67,4.98
+Franchise (one-team windows only),SLM,1,Jack Glasscock,glassja01,1885,1886,2,12.17,6.08,5.1 / 7.0,Hitter,SS,SLM,NL,27,FALSE,0,12.17,0
+Franchise (one-team windows only),SLM,2,Fred Dunlap,dunlafr01,1884,1885,2,12.15,6.08,7.8 / 4.3,Hitter,2B,SLM,Mixed,25,FALSE,0,12.21,-0.06
+Franchise (one-team windows only),SLM,3,Charlie Sweeney,sweench01,1884,1885,2,10.51,5.26,11.2 / -0.7,Two-way / mixed,Two-way,SLM,Mixed,21,FALSE,0,1.35,9.16
+Franchise (one-team windows only),SLM,4,Henry Boyle,boylehe01,1885,1886,2,6.55,3.28,2.7 / 3.9,Two-way / mixed,P,SLM,NL,24,FALSE,0,0.06,6.49
+Franchise (one-team windows only),SLM,5,Alex McKinnon,mckinal01,1885,1886,2,6.15,3.08,2.7 / 3.4,Hitter,1B,SLM,NL,28,FALSE,0,6.15,0
+Franchise (one-team windows only),STL,1,Silver King,kingsi01,1888,1889,2,24.56,12.28,16.0 / 8.5,Pitcher,P,STL,Other (AA/UA/PL/FL),20,FALSE,0,1.61,22.95
+Franchise (one-team windows only),STL,2,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+Franchise (one-team windows only),STL,3,Rogers Hornsby,hornsro01,1924,1925,2,22.27,11.13,12.1 / 10.2,Hitter,2B,STL,NL,28,FALSE,0,22.27,0
+Franchise (one-team windows only),STL,4,Bob Caruthers,carutbo01,1886,1887,2,22.24,11.12,11.6 / 10.7,Two-way / mixed,Two-way,STL,Other (AA/UA/PL/FL),22,FALSE,0,7.84,14.4
+Franchise (one-team windows only),STL,5,Stan Musial,musiast01,1948,1949,2,20.36,10.18,11.3 / 9.1,Hitter,OF,STL,NL,27,FALSE,0,20.36,0
+Franchise (one-team windows only),TBD,1,Evan Longoria,longoev01,2010,2011,2,15.36,7.68,8.2 / 7.2,Hitter,3B,TBD,AL,24,FALSE,0,15.36,0
+Franchise (one-team windows only),TBD,2,Ben Zobrist,zobribe01,2011,2012,2,13.39,6.7,7.6 / 5.8,Hitter,2B,TBD,AL,30,FALSE,0,13.39,0
+Franchise (one-team windows only),TBD,3,Carlos Peña,penaca01,2007,2008,2,12.26,6.13,7.2 / 5.1,Hitter,1B,TBD,AL,29,FALSE,0,12.26,0
+Franchise (one-team windows only),TBD,4,Kevin Kiermaier,kiermke01,2015,2016,2,12.2,6.1,6.8 / 5.3,Hitter,OF,TBD,AL,25,FALSE,0,12.2,0
+Franchise (one-team windows only),TBD,5,Carl Crawford,crawfca02,2009,2010,2,11.99,5.99,5.0 / 7.0,Hitter,OF,TBD,AL,27,FALSE,0,11.99,0
+Franchise (one-team windows only),TEX,1,Alex Rodriguez,rodrial01,2002,2003,2,17.19,8.6,8.8 / 8.4,Hitter,SS,TEX,AL,26,FALSE,0,17.19,0
+Franchise (one-team windows only),TEX,2,Buddy Bell,bellbu01,1979,1980,2,13.43,6.72,6.9 / 6.5,Hitter,3B,TEX,AL,27,FALSE,0,13.43,0
+Franchise (one-team windows only),TEX,3,Marcus Semien,semiema01,2022,2023,2,13.39,6.7,5.7 / 7.7,Hitter,2B,TEX,AL,31,FALSE,0,13.39,0
+Franchise (one-team windows only),TEX,4,Julio Franco,francju01,1990,1991,2,13.01,6.51,6.8 / 6.2,Hitter,2B,TEX,AL,31,FALSE,0,13.01,0
+Franchise (one-team windows only),TEX,5,Ivan Rodriguez,rodriiv01,1997,1998,2,12.96,6.48,6.5 / 6.4,Hitter,C,TEX,AL,25,FALSE,0,12.96,0
+Franchise (one-team windows only),TOR,1,Roger Clemens,clemero02,1997,1998,2,20.23,10.12,12.1 / 8.1,Pitcher,P,TOR,AL,34,FALSE,0,0.17,20.06
+Franchise (one-team windows only),TOR,2,Jose Bautista,bautijo02,2010,2011,2,15.23,7.62,7.0 / 8.3,Hitter,OF,TOR,AL,29,FALSE,0,15.23,0
+Franchise (one-team windows only),TOR,3,Roy Halladay,hallaro01,2002,2003,2,15.19,7.59,7.1 / 8.0,Pitcher,P,TOR,AL,25,FALSE,0,-0.17,15.36
+Franchise (one-team windows only),TOR,4,Dave Stieb,stiebda01,1983,1984,2,14.89,7.44,7.0 / 7.9,Pitcher,P,TOR,AL,25,FALSE,0,0,14.89
+Franchise (one-team windows only),TOR,5,Josh Donaldson,donaljo02,2015,2016,2,14.69,7.35,7.4 / 7.3,Hitter,3B,TOR,AL,29,FALSE,0,14.69,0
+Franchise (one-team windows only),TRT,1,Mickey Welch,welchmi01,1880,1881,2,12.11,6.06,6.5 / 5.6,Pitcher,P,TRT,NL,20,FALSE,0,0.7,11.41
+Franchise (one-team windows only),TRT,2,Tim Keefe,keefeti01,1881,1882,2,8.49,4.24,3.3 / 5.2,Pitcher,P,TRT,NL,24,FALSE,0,1.11,7.38
+Franchise (one-team windows only),TRT,3,Roger Connor,connoro01,1881,1882,2,6.26,3.13,1.8 / 4.5,Hitter,1B,TRT,NL,23,FALSE,0,6.26,0
+Franchise (one-team windows only),WAS,1,Bill Joyce,joycebi01,1894,1895,2,9.26,4.63,5.2 / 4.1,Hitter,3B,WAS,NL,26,FALSE,0,9.26,0
+Franchise (one-team windows only),WAS,2,Win Mercer,mercewi01,1896,1897,2,8.66,4.33,3.6 / 5.1,Pitcher,P,WAS,NL,22,FALSE,0,0.91,7.75
+Franchise (one-team windows only),WAS,3,Kip Selbach,selbaki01,1897,1898,2,8.45,4.22,4.5 / 4.0,Hitter,OF,WAS,NL,25,FALSE,0,8.45,0
+Franchise (one-team windows only),WAS,4,Deacon McGuire,mcguide01,1895,1896,2,6.65,3.33,5.0 / 1.7,Hitter,C,WAS,NL,31,FALSE,0,6.65,0
+Franchise (one-team windows only),WAS,5,Gene DeMontreville,demonge01,1896,1897,2,6.11,3.06,3.5 / 2.6,Hitter,SS,WAS,NL,23,FALSE,0,6.11,0
+Franchise (one-team windows only),WNL,1,Jim Whitney,whitnji01,1887,1888,2,9.88,4.94,8.4 / 1.5,Pitcher,P,WNL,NL,29,FALSE,0,0.52,9.36
+Franchise (one-team windows only),WNL,2,Paul Hines,hinespa01,1886,1887,2,6.86,3.43,4.2 / 2.7,Hitter,OF,WNL,NL,31,FALSE,0,6.86,0
+Franchise (one-team windows only),WOR,1,Lee Richmond,richmle01,1880,1881,2,11.66,5.83,7.3 / 4.4,Pitcher,P,WOR,NL,23,FALSE,0,-0.92,12.58
+Franchise (one-team windows only),WSN,1,Max Scherzer,scherma01,2017,2018,2,16.17,8.08,7.5 / 8.7,Pitcher,P,WSN,NL,32,FALSE,0,1.08,15.09
+Franchise (one-team windows only),WSN,2,Gary Carter,cartega01,1982,1983,2,15.73,7.86,8.6 / 7.1,Hitter,C,WSN,NL,28,FALSE,0,15.73,0
+Franchise (one-team windows only),WSN,3,Andre Dawson,dawsoan01,1981,1982,2,15.34,7.67,7.4 / 7.9,Hitter,OF,WSN,NL,26,TRUE,0,15.34,0
+Franchise (one-team windows only),WSN,4,Tim Raines,raineti01,1984,1985,2,14.1,7.05,6.5 / 7.6,Hitter,OF,WSN,NL,24,FALSE,0,14.1,0
+Franchise (one-team windows only),WSN,5,Ryan Zimmerman,zimmery01,2009,2010,2,13.58,6.79,7.3 / 6.2,Hitter,3B,WSN,NL,24,FALSE,0,13.58,0
+Era cutoff 1901,1901+,1,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Era cutoff 1901,1901+,2,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+Era cutoff 1901,1901+,3,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Era cutoff 1901,1901+,4,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+Era cutoff 1901,1901+,5,Pete Alexander,alexape01,1915,1916,2,22.98,11.49,10.9 / 12.1,Pitcher,P,PHI,NL,28,FALSE,0,0.94,22.04
+Era cutoff 1901,Pre-1901,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Era cutoff 1901,Pre-1901,2,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Era cutoff 1901,Pre-1901,3,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Era cutoff 1901,Pre-1901,4,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Era cutoff 1901,Pre-1901,5,Tommy Bond,bondto01,1878,1879,2,27.78,13.89,13.4 / 14.3,Pitcher,P,ATL,NL,22,FALSE,0,-0.43,28.21
+Era cutoff 1920,1920+,1,Babe Ruth,ruthba01,1923,1924,2,25.46,12.73,14.1 / 11.3,Hitter,OF,NYY,AL,28,FALSE,0,25.46,0
+Era cutoff 1920,1920+,2,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Era cutoff 1920,1920+,3,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+Era cutoff 1920,1920+,4,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+Era cutoff 1920,1920+,5,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+Era cutoff 1920,Pre-1920,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Era cutoff 1920,Pre-1920,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Era cutoff 1920,Pre-1920,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Era cutoff 1920,Pre-1920,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Era cutoff 1920,Pre-1920,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Era cutoff 1947 (PRIMARY),1947+,1,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Era cutoff 1947 (PRIMARY),1947+,2,Bob Gibson,gibsobo01,1968,1969,2,23.16,11.58,11.9 / 11.3,Pitcher,P,STL,NL,32,FALSE,0,1.52,21.64
+Era cutoff 1947 (PRIMARY),1947+,3,Carl Yastrzemski,yastrca01,1967,1968,2,22.93,11.46,12.4 / 10.5,Hitter,OF,BOS,AL,27,FALSE,0,22.93,0
+Era cutoff 1947 (PRIMARY),1947+,4,Mickey Mantle,mantlmi01,1956,1957,2,22.57,11.29,11.2 / 11.3,Hitter,OF,NYY,AL,24,FALSE,0,22.57,0
+Era cutoff 1947 (PRIMARY),1947+,5,Willie Mays,mayswi01,1964,1965,2,22.25,11.12,11.0 / 11.2,Hitter,OF,SFG,NL,33,FALSE,0,22.25,0
+Era cutoff 1947 (PRIMARY),Pre-1947,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Era cutoff 1947 (PRIMARY),Pre-1947,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Era cutoff 1947 (PRIMARY),Pre-1947,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Era cutoff 1947 (PRIMARY),Pre-1947,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Era cutoff 1947 (PRIMARY),Pre-1947,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46
+Era cutoff 1969,1969+,1,Barry Bonds,bondsba01,2001,2002,2,23.59,11.8,11.9 / 11.7,Hitter,OF,SFG,NL,36,FALSE,0,23.59,0
+Era cutoff 1969,1969+,2,Pedro Martinez,martipe02,1999,2000,2,21.46,10.73,9.8 / 11.7,Pitcher,P,BOS,AL,27,FALSE,0,-0.03,21.49
+Era cutoff 1969,1969+,3,Bob Gibson,gibsobo01,1969,1970,2,21.34,10.67,11.3 / 10.1,Pitcher,P,STL,NL,33,FALSE,0,2.05,19.29
+Era cutoff 1969,1969+,4,Wilbur Wood,woodwi01,1971,1972,2,21.33,10.66,11.0 / 10.3,Pitcher,P,CHW,AL,29,FALSE,0,-1.14,22.47
+Era cutoff 1969,1969+,5,Joe Morgan,morgajo02,1975,1976,2,20.61,10.3,11.0 / 9.6,Hitter,2B,CIN,NL,31,FALSE,0,20.61,0
+Era cutoff 1969,Pre-1969,1,Old Hoss Radbourn,radboch01,1883,1884,2,33.75,16.88,14.3 / 19.4,Pitcher,P,PRO,NL,28,FALSE,0,1.5,32.25
+Era cutoff 1969,Pre-1969,2,Walter Johnson,johnswa01,1912,1913,2,32,16,15.4 / 16.6,Pitcher,P,MIN,AL,24,FALSE,0,2.53,29.47
+Era cutoff 1969,Pre-1969,3,Jim Devlin,devliji01,1876,1877,2,31.7,15.85,18.3 / 13.4,Pitcher,P,LGR,NL,27,FALSE,0,0.86,30.84
+Era cutoff 1969,Pre-1969,4,Tim Keefe,keefeti01,1883,1884,2,28.55,14.27,20.2 / 8.3,Pitcher,P,NYP,Other (AA/UA/PL/FL),26,FALSE,0,1.13,27.42
+Era cutoff 1969,Pre-1969,5,Pud Galvin,galvipu01,1883,1884,2,28.23,14.12,9.8 / 18.4,Pitcher,P,BUF,NL,26,FALSE,0,-3.23,31.46

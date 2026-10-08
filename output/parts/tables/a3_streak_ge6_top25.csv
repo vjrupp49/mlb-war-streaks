@@ -1,0 +1,26 @@
+rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit,threshold
+1,Cy Young,youngcy01,1891,1905,15,137.28,9.15,6.1 / 13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6 / 8.2 / 7.1 / 12.4 / 10.1 / 8.1 / 9.6 / 7.1,Pitcher,P,CLV,Mixed,24,FALSE,0,-1.52,138.8,6
+2,Hank Aaron,aaronha01,1955,1969,15,118.31,7.89,6.2 / 7.2 / 8.0 / 7.3 / 8.6 / 8.0 / 9.4 / 8.6 / 9.1 / 6.8 / 7.9 / 7.8 / 8.5 / 6.8 / 8.0,Hitter,OF,ATL,NL,21,FALSE,0,118.31,0,6
+3,Willie Mays,mayswi01,1954,1966,13,124.09,9.55,10.4 / 9.2 / 7.6 / 8.3 / 10.2 / 7.8 / 9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,23,FALSE,0,124.09,0,6
+4,Lou Gehrig,gehrilo01,1926,1937,12,105.48,8.79,6.9 / 11.8 / 9.5 / 7.5 / 9.6 / 8.6 / 8.2 / 7.1 / 10.0 / 8.3 / 9.7 / 8.2,Hitter,1B,NYY,AL,23,FALSE,0,105.48,0,6
+5,Honus Wagner,wagneho01,1899,1909,11,92.42,8.4,6.0 / 6.8 / 7.2 / 7.3 / 7.6 / 8.3 / 10.2 / 9.3 / 9.0 / 11.5 / 9.2,Hitter,SS,PIT,NL,25,FALSE,0,92.43,-0.01,6
+6,Barry Bonds,bondsba01,1988,1998,11,90.58,8.23,6.2 / 8.0 / 9.7 / 8.0 / 9.0 / 9.9 / 6.2 / 7.5 / 9.6 / 8.2 / 8.1,Hitter,OF,SFG,NL,23,TRUE,0,90.58,0,6
+7,Mike Schmidt,schmimi01,1974,1984,11,86.23,7.84,9.7 / 7.7 / 8.0 / 8.8 / 6.2 / 7.9 / 8.9 / 7.7 / 7.4 / 6.9 / 7.0,Hitter,3B,PHI,NL,24,TRUE,0,86.23,0,6
+8,Walter Johnson,johnswa01,1910,1919,10,120.26,12.03,11.0 / 9.0 / 15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8 / 11.0,Pitcher,P,MIN,AL,22,TRUE,0,8.85,111.41,6
+9,Kid Nichols,nichoki01,1890,1899,10,97.28,9.73,13.0 / 9.3 / 8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8 / 7.6,Pitcher,P,ATL,NL,20,FALSE,0,-1.52,98.8,6
+10,Babe Ruth,ruthba01,1916,1924,9,92.22,10.25,10.4 / 8.6 / 7.0 / 10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3,Two-way / mixed,OF,NYY,AL,21,TRUE,0,74.18,18.04,6
+11,Tris Speaker,speaktr01,1909,1917,9,72.78,8.09,6.3 / 7.6 / 6.2 / 10.1 / 8.8 / 9.9 / 7.1 / 8.9 / 7.9,Hitter,OF,BOS,AL,21,FALSE,0,72.85,-0.07,6
+12,Mike Trout,troutmi01,2012,2019,8,71.67,8.96,10.5 / 8.9 / 7.7 / 9.5 / 10.4 / 6.9 / 9.9 / 7.8,Hitter,OF,ANA,AL,20,FALSE,0,71.67,0,6
+13,Mickey Mantle,mantlmi01,1954,1961,8,71.11,8.89,6.9 / 9.5 / 11.2 / 11.3 / 8.7 / 6.6 / 6.3 / 10.4,Hitter,OF,NYY,AL,22,FALSE,0,71.11,0,6
+14,Eddie Collins,collied01,1909,1916,8,69.42,8.68,9.7 / 9.8 / 6.7 / 8.8 / 9.4 / 8.9 / 9.1 / 7.0,Hitter,2B,OAK,AL,22,FALSE,0,69.42,0,6
+15,Albert Pujols,pujolal01,2003,2010,8,69.25,8.66,8.6 / 8.5 / 8.4 / 8.5 / 8.7 / 9.2 / 9.7 / 7.5,Hitter,1B,STL,NL,23,FALSE,0,69.25,0,6
+16,Stan Musial,musiast01,1948,1955,8,64.23,8.03,11.3 / 9.1 / 7.2 / 8.8 / 7.5 / 7.6 / 6.5 / 6.2,Hitter,OF,STL,NL,27,FALSE,0,64.23,0,6
+17,Rogers Hornsby,hornsro01,1919,1925,7,66.26,9.47,6.5 / 9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2,Hitter,2B,STL,NL,23,TRUE,0,66.26,0,6
+18,Christy Mathewson,mathech01,1907,1913,7,64.23,9.18,8.8 / 11.8 / 10.6 / 9.1 / 8.2 / 8.5 / 7.2,Pitcher,P,SFG,NL,26,FALSE,0,2.7,61.53,6
+19,Ty Cobb,cobbty01,1907,1913,7,59.54,8.51,6.8 / 6.2 / 9.9 / 10.3 / 10.5 / 8.8 / 7.0,Hitter,OF,DET,AL,20,FALSE,0,59.54,0,6
+20,Wade Boggs,boggswa01,1983,1989,7,56.27,8.04,7.8 / 6.3 / 9.1 / 8.1 / 8.3 / 8.3 / 8.4,Hitter,3B,BOS,AL,25,FALSE,0,56.27,0,6
+21,Rickey Henderson,henderi01,1980,1986,7,51.28,7.33,8.8 / 6.7 / 6.7 / 6.9 / 6.0 / 9.9 / 6.3,Hitter,OF,NYY,AL,21,TRUE,0,51.28,0,6
+22,Jim McCormick,mccorji01,1879,1884,6,61.52,10.25,9.8 / 10.8 / 7.0 / 10.9 / 8.2 / 14.8,Pitcher,P,CBL,NL,22,FALSE,0,0.52,61,6
+23,Tim Keefe,keefeti01,1883,1888,6,61.2,10.2,20.2 / 8.3 / 6.6 / 9.4 / 7.5 / 9.1,Pitcher,P,NYP,Mixed,26,FALSE,0,-0.51,61.71,6
+24,Ed Walsh,walshed01,1907,1912,6,59.41,9.9,7.6 / 10.7 / 6.8 / 11.8 / 9.7 / 12.8,Pitcher,P,CHW,AL,26,FALSE,0,2.11,57.3,6
+25,Amos Rusie,rusieam01,1890,1895,6,55.06,9.18,8.2 / 8.7 / 7.2 / 11.2 / 13.7 / 6.0,Pitcher,P,SFG,NL,19,FALSE,0,0.98,54.08,6

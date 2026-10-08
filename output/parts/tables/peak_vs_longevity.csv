@@ -1,0 +1,865 @@
+playerID,name,seasons,first_year,last_year,career_WAR,best_season,n_5plus,n_8plus,pos_group,best3,best5,longest_5plus,peak5_share,career_type
+ruthba01,Babe Ruth,22,1914,1935,182.62,14.12,17,14,OF,34.39,56.25,9,0.31,Longevity (<=35% of WAR in best 5 yrs)
+johnswa01,Walter Johnson,21,1907,1927,168.35,16.63,15,10,P,45.06,69.13,10,0.41,Balanced
+youngcy01,Cy Young,22,1890,1911,163.62,13,17,11,P,32.13,54.26,15,0.33,Longevity (<=35% of WAR in best 5 yrs)
+bondsba01,Barry Bonds,22,1986,2007,162.78,11.86,17,10,OF,32.76,51.12,12,0.31,Longevity (<=35% of WAR in best 5 yrs)
+mayswi01,Willie Mays,22,1951,1973,156.24,11.22,16,11,OF,32.86,52.32,13,0.33,Longevity (<=35% of WAR in best 5 yrs)
+cobbty01,Ty Cobb,24,1905,1928,149.84,10.99,18,7,OF,30.72,46.54,13,0.31,Longevity (<=35% of WAR in best 5 yrs)
+aaronha01,Hank Aaron,23,1954,1976,143.22,9.45,17,7,OF,27.15,43.8,17,0.31,Longevity (<=35% of WAR in best 5 yrs)
+clemero02,Roger Clemens,24,1984,2007,139.22,12.1,14,7,P,27.99,41.44,7,0.3,Longevity (<=35% of WAR in best 5 yrs)
+speaktr01,Tris Speaker,22,1907,1928,136.07,10.07,17,6,OF,28.73,44.74,15,0.33,Longevity (<=35% of WAR in best 5 yrs)
+wagneho01,Honus Wagner,21,1897,1917,132.75,11.49,15,7,SS,29.81,49.18,14,0.37,Balanced
+musiast01,Stan Musial,22,1941,1963,128.54,11.27,15,6,OF,27.61,43.91,12,0.34,Longevity (<=35% of WAR in best 5 yrs)
+hornsro01,Rogers Hornsby,23,1915,1937,127.4,12.1,13,9,2B,30.67,50.06,9,0.39,Balanced
+collied01,Eddie Collins,25,1906,1930,123.71,9.75,14,6,2B,27.43,44.37,9,0.36,Balanced
+willite01,Ted Williams,19,1939,1960,121.73,10.58,13,7,OF,28.42,41.27,4,0.34,Longevity (<=35% of WAR in best 5 yrs)
+alexape01,Pete Alexander,20,1911,1930,119.92,12.69,12,5,P,32.78,48.07,7,0.4,Balanced
+nichoki01,Kid Nichols,15,1890,1906,118.18,13,13,9,P,31.07,50.98,12,0.43,Balanced
+rodrial01,Alex Rodriguez,22,1994,2016,117.41,10.36,11,8,3B,27.51,43.48,6,0.37,Balanced
+gehrilo01,Lou Gehrig,17,1923,1939,113.51,11.85,12,9,1B,28.85,47.13,12,0.42,Balanced
+henderi01,Rickey Henderson,25,1979,2003,111.18,9.94,12,4,OF,24.94,36.17,7,0.33,Longevity (<=35% of WAR in best 5 yrs)
+ottme01,Mel Ott,22,1926,1947,110.71,8.84,14,2,OF,23.47,37.91,12,0.34,Longevity (<=35% of WAR in best 5 yrs)
+mantlmi01,Mickey Mantle,18,1951,1968,110.26,11.32,11,5,OF,32.1,47.71,11,0.43,Balanced
+seaveto01,Tom Seaver,20,1967,1986,109.87,10.96,12,4,P,27.49,41.47,11,0.38,Balanced
+lajoina01,Nap Lajoie,21,1896,1916,108.7,10.31,12,4,2B,25.55,42.32,5,0.39,Balanced
+robinfr02,Frank Robinson,21,1956,1976,107.24,8.72,11,1,OF,22.55,35.21,4,0.33,Longevity (<=35% of WAR in best 5 yrs)
+mathech01,Christy Mathewson,17,1900,1916,107.2,11.85,11,9,P,31.51,48.58,7,0.45,Balanced
+schmimi01,Mike Schmidt,18,1972,1989,106.88,9.74,14,4,3B,25.43,40.48,14,0.38,Balanced
+grovele01,Lefty Grove,17,1925,1941,106.76,10.62,12,6,P,29.62,44.33,8,0.42,Balanced
+maddugr01,Greg Maddux,23,1986,2008,106.57,9.61,11,3,P,25.51,40.6,7,0.38,Balanced
+pujolal01,Albert Pujols,22,2001,2022,101.17,9.73,11,7,1B,27.71,44.57,11,0.44,Balanced
+johnsra05,Randy Johnson,22,1988,2009,101.06,10.48,11,7,P,28.08,42.11,6,0.42,Balanced
+morgajo02,Joe Morgan,22,1963,1984,100.59,10.97,9,5,2B,29.23,47.79,7,0.48,Balanced
+spahnwa01,Warren Spahn,21,1942,1965,100.16,9.42,12,2,P,23.86,35.24,6,0.35,Balanced
+yastrca01,Carl Yastrzemski,23,1961,1983,96.41,12.45,8,3,OF,28.45,43.47,5,0.45,Balanced
+matheed01,Eddie Mathews,17,1952,1968,96.01,8.15,12,2,3B,23.02,36.59,11,0.38,Balanced
+ripkeca01,Cal Ripken,21,1981,2001,95.93,11.53,8,3,SS,25.69,35.49,4,0.37,Balanced
+niekrph01,Phil Niekro,24,1964,1987,95.9,10.39,9,3,P,26.58,40.32,6,0.42,Balanced
+clemero01,Roberto Clemente,18,1955,1972,94.96,8.94,10,3,OF,25.33,39.97,9,0.42,Balanced
+blylebe01,Bert Blyleven,22,1970,1992,94.52,9.74,11,1,P,23.61,35.94,7,0.38,Balanced
+beltrad01,Adrian Beltre,21,1998,2018,93.72,9.55,9,1,3B,20.67,32.48,5,0.35,Longevity (<=35% of WAR in best 5 yrs)
+kalinal01,Al Kaline,22,1953,1974,92.79,8.42,10,2,OF,20.29,32.74,5,0.35,Balanced
+foxxji01,Jimmie Foxx,20,1925,1945,92.72,10.34,9,3,1B,27.64,41.08,5,0.44,Balanced
+planked01,Eddie Plank,17,1901,1917,91.45,9.31,10,1,P,23.64,35.35,5,0.39,Balanced
+boggswa01,Wade Boggs,18,1982,1999,91.44,9.07,8,5,3B,25.46,42.18,7,0.46,Balanced
+carltst01,Steve Carlton,24,1965,1988,90.2,12.51,7,2,P,21.77,30.85,4,0.34,Longevity (<=35% of WAR in best 5 yrs)
+perryga01,Gaylord Perry,22,1962,1983,90.04,11.03,10,2,P,27.32,38.87,5,0.43,Balanced
+gibsobo01,Bob Gibson,17,1959,1975,89.21,11.87,9,3,P,33.21,46.04,5,0.52,Balanced
+brettge01,George Brett,21,1973,1993,88.61,9.4,9,3,3B,23.38,38.53,6,0.43,Balanced
+keefeti01,Tim Keefe,14,1880,1893,86.89,20.2,8,4,P,35.18,52.09,7,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+roberro01,Robin Roberts,19,1948,1966,86.17,9.88,7,4,P,27.15,42.74,6,0.5,Balanced
+troutmi01,Mike Trout,14,2011,2024,85.93,10.54,9,5,OF,27.63,47.07,8,0.55,Balanced
+jonesch06,Chipper Jones,19,1993,2012,85.26,7.59,8,0,3B,19.63,31.34,5,0.37,Balanced
+ansonca01,Cap Anson,22,1876,1897,84.77,6.95,7,0,1B,19.03,30.85,5,0.36,Balanced
+gehrich01,Charlie Gehringer,19,1924,1942,84.6,8.87,10,2,2B,25.35,40.43,8,0.48,Balanced
+davisge01,George Davis,20,1890,1909,84.35,7.22,7,0,SS,20.77,27.42,3,0.33,Longevity (<=35% of WAR in best 5 yrs)
+connoro01,Roger Connor,18,1880,1897,84.24,8.16,8,1,1B,21.45,34.61,8,0.41,Balanced
+jenkife01,Fergie Jenkins,19,1965,1983,84.14,11.76,8,1,P,25.72,38.15,6,0.45,Balanced
+martipe02,Pedro Martinez,18,1992,2009,83.9,11.71,9,3,P,28.6,42.44,9,0.51,Balanced
+griffke02,Ken Griffey,22,1989,2010,83.82,9.7,9,3,OF,25.44,37.77,5,0.45,Balanced
+clarkjo01,John Clarkson,12,1882,1894,83.21,16.18,7,5,P,35.37,55,4,0.66,Peak-heavy (>=55% of WAR in best 5 yrs)
+mussimi01,Mike Mussina,18,1991,2008,82.81,8.22,9,1,P,18.25,28.28,2,0.34,Longevity (<=35% of WAR in best 5 yrs)
+ryanno01,Nolan Ryan,27,1966,1993,81.29,7.83,7,0,P,19.95,27.53,3,0.34,Longevity (<=35% of WAR in best 5 yrs)
+carewro01,Rod Carew,19,1967,1985,81.19,9.66,7,1,1B,24.32,38.78,6,0.48,Balanced
+glavito02,Tom Glavine,22,1987,2008,80.72,9.24,6,1,P,19.87,28.23,4,0.35,Longevity (<=35% of WAR in best 5 yrs)
+verlaju01,Justin Verlander,19,2005,2024,80.67,8.56,8,1,P,20.91,30.66,4,0.38,Balanced
+bagweje01,Jeff Bagwell,15,1991,2005,79.88,8.19,8,1,1B,21.48,34.52,6,0.43,Balanced
+rosepe01,Pete Rose,24,1963,1986,79.61,8.28,8,1,1B,20.24,31.35,4,0.39,Balanced
+schilcu01,Curt Schilling,20,1988,2007,79.51,8.52,9,2,P,22.67,35.64,5,0.45,Balanced
+kershcl01,Clayton Kershaw,17,2008,2024,79.28,8.59,8,2,P,24.1,38.32,8,0.48,Balanced
+dimagjo01,Joe DiMaggio,13,1936,1951,78.92,9.31,9,3,OF,24.63,38.64,6,0.49,Balanced
+broutda01,Dan Brouthers,19,1879,1904,78.66,8.82,10,2,1B,20.08,31.56,8,0.4,Balanced
+robinbr01,Brooks Robinson,23,1955,1977,78.32,8.41,6,2,3B,20.7,33.28,2,0.42,Balanced
+vaughar01,Arky Vaughan,14,1932,1948,77.71,9.74,9,2,SS,24.97,39.53,8,0.51,Balanced
+greinza01,Zack Greinke,20,2004,2023,77.41,10.43,7,2,P,20.37,29.17,3,0.38,Balanced
+yountro01,Robin Yount,20,1974,1993,77.36,10.54,7,1,SS,23.71,35.72,3,0.46,Balanced
+applilu01,Luke Appling,20,1930,1950,76.95,7.29,9,0,SS,20.16,27.56,3,0.36,Balanced
+smithoz01,Ozzie Smith,19,1978,1996,76.92,7.3,9,0,SS,20.33,32.33,5,0.42,Balanced
+wallabo01,Bobby Wallace,25,1894,1918,76.43,7.84,8,0,SS,17.69,28.71,5,0.38,Balanced
+mccorji01,Jim McCormick,10,1878,1887,76.19,14.76,7,5,P,33.95,51.71,6,0.68,Peak-heavy (>=55% of WAR in best 5 yrs)
+crawfsa01,Sam Crawford,19,1899,1917,75.93,6.15,8,0,OF,16.61,26.12,3,0.34,Longevity (<=35% of WAR in best 5 yrs)
+molitpa01,Paul Molitor,21,1978,1998,75.7,6.22,7,0,DH,16.91,25.41,3,0.34,Longevity (<=35% of WAR in best 5 yrs)
+radboch01,Old Hoss Radbourn,12,1880,1891,75.4,19.41,5,3,P,42.25,54.88,4,0.73,Peak-heavy (>=55% of WAR in best 5 yrs)
+scherma01,Max Scherzer,17,2008,2024,75.31,8.68,9,1,P,22.56,35.67,7,0.47,Balanced
+benchjo01,Johnny Bench,17,1967,1983,75.14,8.57,6,1,C,21.16,32.63,2,0.43,Balanced
+whitalo01,Lou Whitaker,19,1977,1995,75.1,6.75,4,0,2B,16.47,25.39,2,0.34,Longevity (<=35% of WAR in best 5 yrs)
+dahlebi01,Bill Dahlen,21,1891,1911,74.94,7.11,6,0,SS,15.92,23.74,2,0.32,Longevity (<=35% of WAR in best 5 yrs)
+wanerpa01,Paul Waner,20,1926,1945,74.55,7.14,8,0,OF,19.32,28.87,4,0.39,Balanced
+jacksre01,Reggie Jackson,21,1967,1987,74.03,9.26,8,1,OF,20.22,32.28,6,0.44,Balanced
+thomafr04,Frank Thomas,19,1990,2008,73.82,7.27,8,0,DH,20.16,31.81,7,0.43,Balanced
+galvipu01,Pud Galvin,14,1879,1892,73.33,18.41,7,3,P,32.11,42.27,3,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+thomeji01,Jim Thome,22,1991,2012,72.94,7.52,5,0,1B,18.88,26.93,3,0.37,Balanced
+walkela01,Larry Walker,17,1989,2005,72.74,9.84,6,1,OF,20.67,30.11,3,0.41,Balanced
+heilmha01,Harry Heilmann,17,1914,1932,72.35,9.34,7,1,OF,22.62,34.97,7,0.48,Balanced
+palmera01,Rafael Palmeiro,20,1986,2005,71.87,6.91,5,0,1B,16.76,26.29,2,0.37,Balanced
+friscfr01,Frankie Frisch,19,1919,1937,71.7,9.34,4,1,2B,19.03,32.7,2,0.46,Balanced
+jeterde01,Derek Jeter,20,1995,2014,71.29,8,5,1,SS,20.49,30.25,2,0.42,Balanced
+grichbo01,Bobby Grich,17,1970,1986,71.08,8.33,7,1,2B,22.93,34.97,5,0.49,Balanced
+lyonste01,Ted Lyons,21,1923,1946,70.66,7.95,5,0,P,18.63,26.11,2,0.37,Balanced
+trammal01,Alan Trammell,20,1977,1996,70.64,8.21,6,1,SS,20.48,30.89,3,0.44,Balanced
+santoro01,Ron Santo,15,1960,1974,70.54,9.77,7,3,3B,26.33,41.9,7,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+larkiba01,Barry Larkin,19,1986,2004,70.53,7.19,8,0,SS,17.41,28.29,3,0.4,Balanced
+delahed01,Ed Delahanty,16,1888,1903,70.43,8.41,9,1,OF,20.75,34.93,7,0.5,Balanced
+mizejo01,Johnny Mize,15,1936,1953,70.39,7.54,9,0,1B,21.12,33.02,6,0.47,Balanced
+bettsmo01,Mookie Betts,11,2014,2024,70.2,10.74,7,3,OF,27.02,40.26,5,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+rolensc01,Scott Rolen,17,1996,2012,70.12,9.16,6,1,3B,20.25,30.36,2,0.43,Balanced
+cartega01,Gary Carter,19,1974,1992,70.11,8.61,8,1,C,23.16,33.89,4,0.48,Balanced
+beltrca01,Carlos Beltran,20,1998,2017,70.03,8.2,6,1,OF,20.58,30.33,3,0.43,Balanced
+reuscri01,Rick Reuschel,19,1972,1991,69.5,9.63,7,1,P,20.92,31.85,5,0.46,Balanced
+raineti01,Tim Raines,23,1979,2002,69.46,7.6,6,0,OF,20.07,32.34,5,0.47,Balanced
+ramirma02,Manny Ramirez,19,1993,2011,69.33,7.33,6,0,OF,17.38,28.74,3,0.41,Balanced
+gwynnto01,Tony Gwynn,20,1982,2001,69.15,8.55,5,1,OF,20.41,30.13,4,0.44,Balanced
+clarkfr01,Fred Clarke,21,1894,1915,69.06,6.59,5,0,OF,15.83,23.59,2,0.34,Longevity (<=35% of WAR in best 5 yrs)
+smoltjo01,John Smoltz,21,1988,2009,68.96,7.73,5,0,P,17.13,26.17,2,0.38,Balanced
+canoro01,Robinson Cano,17,2005,2022,68.72,8.44,7,2,2B,22.38,35.36,5,0.51,Balanced
+rodriiv01,Ivan Rodriguez,21,1991,2011,68.71,6.54,5,0,C,19.37,30.28,4,0.44,Balanced
+murraed02,Eddie Murray,21,1977,1997,68.67,7.1,5,0,1B,19.41,28.71,4,0.42,Balanced
+ruffire01,Red Ruffing,22,1924,1947,68.57,7.84,5,0,P,17.15,27.22,3,0.4,Balanced
+palmeji01,Jim Palmer,19,1965,1984,68.5,8.44,7,1,P,22.3,30.78,4,0.45,Balanced
+hubbeca01,Carl Hubbell,16,1928,1943,68.46,10.06,5,2,P,23.62,38.88,5,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+fiskca01,Carlton Fisk,24,1969,1993,68.45,7.3,3,0,C,17.2,23.19,2,0.34,Longevity (<=35% of WAR in best 5 yrs)
+reesepe01,Pee Wee Reese,16,1940,1958,68.44,7.44,9,0,SS,18.5,28.73,4,0.42,Balanced
+martied01,Edgar Martinez,18,1987,2004,68.42,7.05,8,0,DH,19.79,30.24,4,0.44,Balanced
+loftoke01,Kenny Lofton,17,1991,2007,68.39,7.6,6,0,OF,21.43,31,3,0.45,Balanced
+simmoal01,Al Simmons,20,1924,1944,68.24,7.85,6,0,OF,23.04,33.57,3,0.49,Balanced
+nettlgr01,Graig Nettles,22,1967,1988,67.97,8,6,1,3B,19.16,28.73,3,0.42,Balanced
+sandbry01,Ryne Sandberg,16,1981,1997,67.95,8.52,6,1,2B,21.95,32.74,4,0.48,Balanced
+bankser01,Ernie Banks,19,1953,1971,67.8,10.23,6,3,1B,27.43,39.66,6,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+brownke01,Kevin Brown,19,1986,2005,67.77,9.07,5,1,P,23.68,35.9,5,0.53,Balanced
+walshed01,Ed Walsh,14,1904,1917,67.24,12.81,6,4,P,34.31,51.77,6,0.77,Peak-heavy (>=55% of WAR in best 5 yrs)
+cabremi01,Miguel Cabrera,21,2003,2023,67.23,7.62,8,0,1B,22.25,33.81,6,0.5,Balanced
+evansdw01,Dwight Evans,20,1972,1991,67.16,6.69,4,0,OF,16.12,23.87,2,0.36,Balanced
+drysddo01,Don Drysdale,14,1956,1969,67.12,8.26,7,1,P,19.42,31.95,4,0.48,Balanced
+alomaro01,Roberto Alomar,17,1988,2004,67.01,7.42,6,0,2B,20.31,27.51,3,0.41,Balanced
+suttodo01,Don Sutton,23,1966,1988,66.7,6.31,4,0,P,16.79,22.4,3,0.34,Longevity (<=35% of WAR in best 5 yrs)
+mullato01,Tony Mullane,13,1881,1894,66.64,13.24,7,1,P,25.84,26.54,3,0.4,Balanced
+bellbu01,Buddy Bell,18,1972,1989,66.34,6.91,5,0,3B,19.61,30.01,4,0.45,Balanced
+tiantlu01,Luis Tiant,19,1964,1982,66.06,7.89,7,0,P,19.12,27.87,3,0.42,Balanced
+snidedu01,Duke Snider,18,1947,1964,65.99,9.13,7,3,OF,25.81,38.44,5,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+randowi01,Willie Randolph,18,1975,1992,65.94,6.58,4,0,2B,17.69,27.35,3,0.41,Balanced
+gosligo01,Goose Goslin,18,1921,1938,65.78,7.5,7,0,OF,19.78,32.4,5,0.49,Balanced
+biggicr01,Craig Biggio,20,1988,2007,65.49,9.38,5,1,2B,21.38,32.76,5,0.5,Balanced
+rusieam01,Amos Rusie,10,1889,1901,65.37,13.72,7,5,P,32.11,49.02,6,0.75,Peak-heavy (>=55% of WAR in best 5 yrs)
+dawsoan01,Andre Dawson,21,1976,1996,64.82,7.89,4,0,OF,22.21,32.65,4,0.5,Balanced
+cronijo01,Joe Cronin,20,1926,1945,64.64,8.54,5,1,SS,21.72,32.62,4,0.5,Balanced
+utleych01,Chase Utley,16,2003,2018,64.62,9.04,6,2,2B,25.1,39.66,6,0.61,Peak-heavy (>=55% of WAR in best 5 yrs)
+smithre06,Reggie Smith,17,1966,1982,64.58,6.73,5,0,OF,17.18,26.92,2,0.42,Balanced
+mccovwi01,Willie McCovey,22,1959,1980,64.52,8.07,7,1,1B,21.63,32.52,6,0.5,Balanced
+ashburi01,Richie Ashburn,15,1948,1962,64.31,7.08,7,0,OF,19.83,31.4,6,0.49,Balanced
+hallaro01,Roy Halladay,16,1998,2013,64.24,8.56,8,3,P,23.74,33.52,4,0.52,Balanced
+winfida01,Dave Winfield,22,1973,1995,64.2,8.33,5,1,OF,17.98,27,2,0.42,Balanced
+hamilbi01,Billy Hamilton,14,1888,1901,63.93,8.18,6,1,OF,20.05,31.95,3,0.5,Balanced
+faberre01,Red Faber,20,1914,1933,63.78,11.13,3,2,P,25.7,31.91,3,0.5,Balanced
+willibi01,Billy Williams,18,1959,1976,63.65,7.73,5,0,OF,19.35,28.5,3,0.45,Balanced
+vottojo01,Joey Votto,17,2007,2023,63.64,7.85,6,0,1B,19.85,30.95,4,0.49,Balanced
+willivi01,Vic Willis,13,1898,1910,63.44,10.67,5,3,P,21.89,32.97,3,0.52,Balanced
+fellebo01,Bob Feller,18,1936,1956,63.41,9.83,6,4,P,27.75,35.94,4,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+griffcl01,Clark Griffith,21,1891,1914,63.2,10.29,6,2,P,21.62,36.8,3,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+boudrlo01,Lou Boudreau,15,1938,1952,63.01,10.36,5,2,SS,21.67,33.37,2,0.53,Balanced
+boyerke01,Ken Boyer,15,1955,1969,62.83,7.96,8,0,3B,22.23,33.83,7,0.54,Balanced
+maricju01,Juan Marichal,16,1960,1975,62.82,10.49,6,3,P,26.3,38.67,4,0.62,Peak-heavy (>=55% of WAR in best 5 yrs)
+newhoha01,Hal Newhouser,17,1939,1955,62.81,12.15,6,3,P,30.08,43.09,6,0.69,Peak-heavy (>=55% of WAR in best 5 yrs)
+goldspa01,Paul Goldschmidt,14,2011,2024,62.75,8.33,6,1,1B,19.37,30.36,2,0.48,Balanced
+jonesan01,Andruw Jones,17,1996,2012,62.71,8.16,6,1,OF,22.66,34.09,3,0.54,Balanced
+bakerfr01,Home Run Baker,13,1908,1922,62.61,9.04,6,2,3B,24.68,36.63,6,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+wardjo01,John Ward,17,1878,1894,62.31,9.19,3,1,SS,21.49,27.51,2,0.44,Balanced
+coneda01,David Cone,17,1986,2003,62.28,7.22,6,0,P,21.07,30.61,3,0.49,Balanced
+welchmi01,Mickey Welch,13,1880,1892,62.28,12.3,7,2,P,27.01,39.91,3,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+sabatcc01,CC Sabathia,19,2001,2019,62.25,7.16,4,0,P,19.74,30.87,3,0.5,Balanced
+mcgwima01,Mark McGwire,16,1986,2001,62.15,7.49,8,0,1B,19.07,29.77,5,0.48,Balanced
+eckerde01,Dennis Eckersley,24,1975,1998,62.07,7.32,4,0,P,19.55,27.76,3,0.45,Balanced
+covelst01,Stan Coveleski,14,1912,1928,61.93,9.5,7,2,P,25.73,40.16,6,0.65,Peak-heavy (>=55% of WAR in best 5 yrs)
+robinja02,Jackie Robinson,10,1947,1956,61.82,9.65,6,3,2B,26.35,41.65,6,0.67,Peak-heavy (>=55% of WAR in best 5 yrs)
+heltoto01,Todd Helton,17,1997,2013,61.77,8.86,5,2,1B,22.96,37.5,5,0.61,Peak-heavy (>=55% of WAR in best 5 yrs)
+glassja01,Jack Glasscock,17,1879,1895,61.57,7.08,5,0,SS,17.49,28.8,3,0.47,Balanced
+johnto01,Tommy John,26,1963,1989,61.55,5.91,3,0,P,16.38,21.04,1,0.34,Longevity (<=35% of WAR in best 5 yrs)
+bandosa01,Sal Bando,16,1966,1981,61.51,8.27,7,1,3B,20.82,32.94,5,0.54,Balanced
+jacksjo01,Shoeless Joe Jackson,13,1908,1920,61.47,9.29,7,2,OF,26.4,34.25,3,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+becklja01,Jake Beckley,20,1888,1907,61.36,4.66,0,0,1B,13.16,19.78,0,0.32,Longevity (<=35% of WAR in best 5 yrs)
+wynnea01,Early Wynn,23,1939,1963,60.92,8.35,4,1,P,19.85,26.44,3,0.43,Balanced
+burkeje01,Jesse Burkett,16,1890,1905,60.82,7.24,5,0,OF,19.04,27.61,3,0.45,Balanced
+daviswi02,Willie Davis,18,1960,1979,60.77,8.34,4,1,OF,16.89,24.77,2,0.41,Balanced
+buffich01,Charlie Buffinton,11,1882,1892,60.7,16.26,5,3,P,26.65,36.94,2,0.61,Peak-heavy (>=55% of WAR in best 5 yrs)
+freemfr01,Freddie Freeman,15,2010,2024,60.58,6.79,5,0,1B,17.77,25.57,2,0.42,Balanced
+sheffga01,Gary Sheffield,22,1988,2009,60.54,6.83,4,0,OF,15.63,25.88,1,0.43,Balanced
+killeha01,Harmon Killebrew,22,1954,1975,60.44,6.46,4,0,1B,16.71,25.91,2,0.43,Balanced
+edmonji01,Jim Edmonds,17,1993,2010,60.4,7.2,6,0,OF,19.91,32.07,5,0.53,Balanced
+hernake01,Keith Hernandez,17,1974,1990,60.35,7.59,6,0,1B,18.42,28.57,4,0.47,Balanced
+vanceda01,Dazzy Vance,16,1915,1935,60.35,10.31,5,2,P,22.66,36.31,2,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+pettian01,Andy Pettitte,18,1995,2013,60.22,8.36,3,1,P,16.87,22.21,2,0.37,Balanced
+wheatza01,Zack Wheat,19,1909,1927,60.22,6.72,3,0,OF,14.28,21.45,2,0.36,Balanced
+abreubo01,Bobby Abreu,18,1996,2014,60.19,6.56,7,0,OF,18.66,29.69,7,0.49,Balanced
+ferrewe01,Wes Ferrell,15,1927,1941,60.12,10.58,6,2,P,24.57,35.38,4,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+mageesh01,Sherry Magee,16,1904,1919,59.97,6.91,4,0,OF,17.7,27.64,3,0.46,Balanced
+suzukic01,Ichiro Suzuki,19,2001,2019,59.97,9.16,6,1,OF,18.67,29.94,3,0.5,Balanced
+piazzmi01,Mike Piazza,16,1992,2007,59.56,8.67,6,1,C,20.33,30.92,4,0.52,Balanced
+berrayo01,Yogi Berra,19,1946,1965,59.54,6.21,5,0,C,17.07,27.32,3,0.46,Balanced
+carutbo01,Bob Caruthers,10,1884,1893,59.51,11.57,5,4,Two-way,32.26,47.26,5,0.79,Peak-heavy (>=55% of WAR in best 5 yrs)
+bunniji01,Jim Bunning,17,1955,1971,59.49,8.96,7,2,P,25.23,31.62,4,0.53,Balanced
+guerrvl01,Vladimir Guerrero,16,1996,2011,59.46,7.41,5,0,OF,17.92,29.76,2,0.5,Balanced
+mcginjo01,Joe McGinnity,10,1899,1908,59.25,11.86,6,4,P,30.03,42.73,6,0.72,Peak-heavy (>=55% of WAR in best 5 yrs)
+buehrma01,Mark Buehrle,16,2000,2015,59.03,6.02,4,0,P,15.91,23.47,2,0.4,Balanced
+shockur01,Urban Shocker,13,1916,1928,59,8.62,5,1,P,22.79,34.22,4,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+hamelco01,Cole Hamels,15,2006,2020,58.95,6.6,5,0,P,16.97,27.7,3,0.47,Balanced
+longoev01,Evan Longoria,16,2008,2023,58.93,8.16,4,1,3B,22.4,30.7,3,0.52,Balanced
+saberbr01,Bret Saberhagen,16,1984,2001,58.86,9.67,5,1,P,21.42,30.54,1,0.52,Balanced
+allendi01,Dick Allen,15,1963,1977,58.79,8.78,6,2,1B,22.7,31.54,4,0.54,Balanced
+cicoted01,Eddie Cicotte,14,1905,1920,58.76,12.08,3,2,P,25.64,34.05,1,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+evansda01,Darrell Evans,21,1969,1989,58.72,9.03,2,1,3B,20.12,24.65,2,0.42,Balanced
+sosasa01,Sammy Sosa,18,1989,2007,58.6,10.28,6,1,OF,21.77,33.06,3,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+brownmo01,Mordecai Brown,14,1903,1916,58.48,9.61,4,2,P,24.26,36.6,4,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+quinnja01,Jack Quinn,23,1909,1933,58.42,6.68,1,0,P,14.14,19.62,1,0.34,Longevity (<=35% of WAR in best 5 yrs)
+wadderu01,Rube Waddell,13,1897,1910,58.32,10.43,5,3,P,27.7,42.56,5,0.73,Peak-heavy (>=55% of WAR in best 5 yrs)
+olerujo01,John Olerud,17,1989,2005,58.14,7.76,5,0,1B,17.29,27.18,2,0.47,Balanced
+finlech01,Chuck Finley,17,1986,2002,57.9,7.69,3,0,P,16.67,25.93,1,0.45,Balanced
+hudsoti01,Tim Hudson,17,1999,2015,57.87,7.45,4,0,P,18.85,27.03,2,0.47,Balanced
+bondsbo01,Bobby Bonds,14,1968,1981,57.86,7.78,7,0,OF,19.48,30.94,5,0.53,Balanced
+machama01,Manny Machado,13,2012,2024,57.67,7.4,6,0,3B,18.73,27.43,2,0.48,Balanced
+sislege01,George Sisler,15,1915,1930,57.65,9.83,7,2,1B,24.26,37.15,7,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+torrejo01,Joe Torre,18,1960,1977,57.65,6.38,5,0,C,16.03,25.8,2,0.45,Balanced
+stargwi01,Willie Stargell,21,1962,1982,57.64,7.91,4,0,OF,19.02,27.99,2,0.49,Balanced
+hermabi01,Billy Herman,15,1931,1947,57.41,7.2,3,0,2B,20.75,29.34,3,0.51,Balanced
+slaugen01,Enos Slaughter,19,1938,1959,57.35,6.75,3,0,OF,15.24,22.16,2,0.39,Balanced
+tananfr01,Frank Tanana,21,1973,1993,57.14,8.27,3,1,P,23.14,30.78,3,0.54,Balanced
+fordwh01,Whitey Ford,16,1950,1967,57.06,6.78,2,0,P,16.07,24.19,1,0.42,Balanced
+arenano01,Nolan Arenado,12,2013,2024,56.66,7.85,6,0,3B,20.04,32.09,5,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+clarkwi02,Will Clark,15,1986,2000,56.48,8.61,3,1,1B,19.48,28.21,2,0.5,Balanced
+terrybi01,Bill Terry,14,1923,1936,56.46,7.93,6,0,1B,22.2,32.36,3,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+stiebda01,Dave Stieb,16,1979,1998,56.39,7.93,5,0,P,22.52,33.68,4,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+damonjo01,Johnny Damon,18,1995,2012,56.33,6.15,2,0,OF,13.95,22.16,2,0.39,Balanced
+riverma01,Mariano Rivera,19,1995,2013,56.26,4.96,0,0,P,12.14,18.38,0,0.33,Longevity (<=35% of WAR in best 5 yrs)
+dickebi01,Bill Dickey,17,1928,1946,56.23,6.53,4,0,C,17.37,25.67,4,0.46,Balanced
+venturo01,Robin Ventura,16,1989,2004,56.1,6.72,5,0,3B,16.57,24.25,3,0.43,Balanced
+hershor01,Orel Hershiser,18,1983,2000,56.02,7.31,4,0,P,21.71,30.84,3,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+whitnji01,Jim Whitney,10,1881,1890,56.01,13.45,5,5,P,30.47,41.58,4,0.74,Peak-heavy (>=55% of WAR in best 5 yrs)
+wynnji01,Jim Wynn,15,1963,1977,55.93,7.72,6,0,OF,17.86,28.63,3,0.51,Balanced
+rixeyep01,Eppa Rixey,21,1912,1933,55.91,6.33,3,0,P,16.92,25.13,3,0.45,Balanced
+aparilu01,Luis Aparicio,18,1956,1973,55.86,5.55,2,0,SS,13.34,19.14,1,0.34,Longevity (<=35% of WAR in best 5 yrs)
+powelja01,Jack Powell,16,1897,1912,55.78,6.29,5,0,P,17.29,20.98,3,0.38,Balanced
+careyma01,Max Carey,20,1910,1929,55.68,5.56,4,0,OF,14.65,23.07,2,0.41,Balanced
+uhlege01,George Uhle,17,1919,1936,55.64,9.2,5,1,P,18.14,27.28,2,0.49,Balanced
+lemonch01,Chet Lemon,16,1975,1990,55.63,6.23,4,0,OF,16.53,24.75,2,0.44,Balanced
+mauerjo01,Joe Mauer,15,2004,2018,55.59,7.83,5,0,C,19.26,28.93,3,0.52,Balanced
+gordojo01,Joe Gordon,11,1938,1950,55.5,7.67,7,0,2B,19.34,31.55,5,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+johnsbo01,Bob Johnson,13,1933,1945,55.47,6.49,3,0,OF,16.12,23.44,1,0.42,Balanced
+kentje01,Jeff Kent,17,1992,2008,55.43,7.16,3,0,2B,19.47,27.44,3,0.5,Balanced
+greenha01,Hank Greenberg,13,1930,1947,55.37,7.48,7,0,1B,19.37,28.19,4,0.51,Balanced
+hartnga01,Gabby Hartnett,20,1922,1941,55.28,5.15,1,0,C,12.64,20.13,1,0.36,Balanced
+keelewi01,Willie Keeler,19,1892,1910,55.28,7.14,6,0,OF,17.78,28.01,5,0.51,Balanced
+ortizda01,David Ortiz,20,1997,2016,55.04,6.37,4,0,DH,17.36,24.98,3,0.45,Balanced
+hackst01,Stan Hack,16,1932,1947,54.95,6.5,5,0,3B,16.44,24.5,3,0.45,Balanced
+seweljo01,Joe Sewell,14,1920,1933,54.86,7.53,4,0,SS,16.66,26.13,2,0.48,Balanced
+ricesa01,Sam Rice,20,1915,1934,54.7,4.85,0,0,OF,13.59,20.56,0,0.38,Balanced
+appieke01,Kevin Appier,16,1989,2004,54.5,9.27,5,2,P,21.78,32.27,2,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+cruzjo01,Jose Cruz,19,1970,1988,54.43,6.34,3,0,OF,15.63,23.82,2,0.44,Balanced
+medwijo01,Joe Medwick,17,1932,1948,54.22,8.43,3,1,OF,21.61,30.72,3,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+pinsova01,Vada Pinson,18,1958,1975,54.09,7.51,5,0,OF,19.61,30.61,3,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+perezto01,Tony Perez,23,1964,1986,53.94,7.18,4,0,1B,19.08,27.85,3,0.52,Balanced
+kinslia01,Ian Kinsler,14,2006,2019,53.82,7.01,5,0,2B,16.96,25.74,3,0.48,Balanced
+ceyro01,Ron Cey,17,1971,1987,53.71,6.72,5,0,3B,17.63,26.76,3,0.5,Balanced
+koosmje01,Jerry Koosman,19,1967,1985,53.62,7.21,4,0,P,13.65,20.11,2,0.38,Balanced
+waltebu01,Bucky Walters,19,1931,1950,53.58,9.75,4,1,P,23.72,29.49,3,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+coopewi01,Wilbur Cooper,15,1912,1926,53.52,7.51,5,0,P,18.76,29.63,2,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+wellsda01,David Wells,21,1987,2007,53.45,5.23,1,0,P,12.54,20.11,1,0.38,Balanced
+flickel01,Elmer Flick,13,1898,1910,53.42,6.59,7,0,OF,17.98,27.89,4,0.52,Balanced
+piercbi02,Billy Pierce,18,1945,1964,53.34,7.41,4,0,P,17.82,25.48,2,0.48,Balanced
+salech01,Chris Sale,14,2010,2024,53.32,6.53,6,0,P,18.24,26.85,3,0.5,Balanced
+colliji01,Jimmy Collins,14,1895,1908,53.25,6.78,5,0,3B,16.34,26.32,2,0.49,Balanced
+hoopeha01,Harry Hooper,17,1909,1925,53.16,5.25,1,0,OF,13.39,20.33,1,0.38,Balanced
+clarkja01,Jack Clark,18,1975,1992,53.08,5.94,2,0,OF,14.15,21.23,1,0.4,Balanced
+campabe01,Bert Campaneris,19,1964,1983,53.06,6.61,4,0,SS,16.09,24.84,1,0.47,Balanced
+grimebu01,Burleigh Grimes,19,1916,1934,53.04,8.41,4,1,P,18.15,25.16,2,0.47,Balanced
+cedence01,Cesar Cedeno,17,1970,1986,53.03,8.01,5,1,OF,21.14,31.41,3,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+goodedw01,Dwight Gooden,16,1984,2000,53.03,13.31,2,1,P,23.34,31.22,2,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+altuvjo01,Jose Altuve,14,2011,2024,52.79,8.12,5,1,2B,20.95,30.42,3,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+mcphebi01,Bid McPhee,18,1882,1899,52.75,5.22,2,0,2B,14.81,21.99,1,0.42,Balanced
+tinkejo01,Joe Tinker,15,1902,1916,52.65,7.85,1,0,SS,16.05,23.53,1,0.45,Balanced
+judgeaa01,Aaron Judge,9,2016,2024,52.62,10.9,6,3,OF,26.22,33.25,3,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+mcgrifr01,Fred McGriff,19,1986,2004,52.6,6.63,4,0,1B,18.04,26.59,3,0.51,Balanced
+adamsba01,Babe Adams,19,1906,1926,52.54,9.29,4,1,P,17.98,25.59,2,0.49,Balanced
+hoytwa01,Waite Hoyt,21,1918,1938,52.38,6.08,5,0,P,13.58,22.04,2,0.42,Balanced
+cashno01,Norm Cash,17,1958,1974,52.05,9.18,2,1,1B,16.99,25.35,1,0.49,Balanced
+jacksla01,Larry Jackson,14,1955,1968,51.99,6.85,4,0,P,16.3,24.55,2,0.47,Balanced
+berkmla01,Lance Berkman,15,1999,2013,51.96,6.85,5,0,1B,16.54,25.76,2,0.5,Balanced
+pedrodu01,Dustin Pedroia,14,2006,2019,51.83,7.95,6,0,2B,19.11,28.78,3,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+ramirjo01,Jose Ramirez,12,2013,2024,51.83,7.63,5,0,3B,19.32,26.75,2,0.52,Balanced
+santajo01,Johan Santana,12,2000,2012,51.68,8.79,5,1,P,23.55,35.91,5,0.69,Peak-heavy (>=55% of WAR in best 5 yrs)
+gonzalu01,Luis Gonzalez,19,1990,2008,51.67,7.94,3,0,OF,18.54,24.94,1,0.48,Balanced
+downibr01,Brian Downing,20,1973,1992,51.52,5.59,2,0,C,11.34,17.17,1,0.33,Longevity (<=35% of WAR in best 5 yrs)
+averiea01,Earl Averill,13,1929,1941,51.45,6.81,5,0,OF,17.48,26.9,2,0.52,Balanced
+harrato01,Toby Harrah,17,1969,1986,51.43,7.07,3,0,3B,16.26,23.68,1,0.46,Balanced
+maysca01,Carl Mays,15,1915,1929,51.25,7.46,4,0,P,18.19,29.45,2,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+doerrbo01,Bobby Doerr,14,1937,1951,51.24,6.34,6,0,2B,16.92,23.58,3,0.46,Balanced
+puckeki01,Kirby Puckett,12,1984,1995,51.13,7.75,3,0,OF,17.67,26.9,1,0.53,Balanced
+gilesbr02,Brian Giles,15,1995,2009,51.09,6.66,4,0,OF,18.42,27.73,4,0.54,Balanced
+orthal01,Al Orth,15,1895,1909,51.06,9.08,3,1,P,16.6,21.91,2,0.43,Balanced
+phillto02,Tony Phillips,18,1982,1999,50.91,5.58,3,0,2B,15.85,25.29,3,0.5,Balanced
+elliobo01,Bob Elliott,15,1939,1953,50.81,6.45,3,0,3B,17.87,25.94,3,0.51,Balanced
+harpebr03,Bryce Harper,13,2012,2024,50.71,9.74,3,1,OF,15.99,22.22,1,0.44,Balanced
+hunteto01,Torii Hunter,19,1997,2015,50.64,5.35,2,0,OF,12.65,20.68,1,0.41,Balanced
+kellejo01,Joe Kelley,17,1891,1908,50.57,7.02,4,0,OF,19.46,28.72,4,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+teixema01,Mark Teixeira,14,2003,2016,50.52,7.81,3,0,1B,17.67,29.29,2,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+giambja01,Jason Giambi,20,1995,2014,50.5,9.15,4,1,1B,23.96,34.71,4,0.69,Peak-heavy (>=55% of WAR in best 5 yrs)
+rogerke01,Kenny Rogers,20,1989,2008,50.47,7.48,4,0,P,15.45,20.59,1,0.41,Balanced
+kaatji01,Jim Kaat,25,1959,1983,50.46,7.7,3,0,P,17.29,22.59,2,0.45,Balanced
+bridgto01,Tommy Bridges,16,1930,1946,50.44,6.32,2,0,P,14.58,23.4,1,0.46,Balanced
+bancrda01,Dave Bancroft,16,1915,1930,50.43,7.48,4,0,SS,20.61,25.78,3,0.51,Balanced
+kingsi01,Silver King,10,1886,1897,50.4,16.02,4,3,P,36.95,45,4,0.89,Peak-heavy (>=55% of WAR in best 5 yrs)
+simmote01,Ted Simmons,21,1968,1988,50.37,5.51,4,0,C,14.35,22.95,2,0.46,Balanced
+minosmi01,Minnie Minoso,17,1949,1980,50.26,8.17,5,1,OF,18.01,28.37,2,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+cepedor01,Orlando Cepeda,17,1958,1974,50.18,6.8,3,0,1B,14.56,23.46,1,0.47,Balanced
+lynnfr01,Fred Lynn,17,1974,1990,50.17,8.85,2,1,OF,17.95,26.63,1,0.53,Balanced
+breitte01,Theodore Breitenstein,11,1891,1901,50.15,11.01,4,2,P,27.64,39.62,3,0.79,Peak-heavy (>=55% of WAR in best 5 yrs)
+langsma01,Mark Langston,16,1984,1999,50.05,8.52,5,1,P,18.99,26.86,3,0.54,Balanced
+woodwi01,Wilbur Wood,17,1961,1978,50.04,10.99,5,2,P,28.87,37.96,4,0.76,Peak-heavy (>=55% of WAR in best 5 yrs)
+oswalro01,Roy Oswalt,13,2001,2013,50.01,6.88,5,0,P,18.51,26.5,3,0.53,Balanced
+troutdi01,Dizzy Trout,15,1939,1957,49.93,10.86,3,1,P,21.38,30.98,2,0.62,Peak-heavy (>=55% of WAR in best 5 yrs)
+burksel01,Ellis Burks,18,1987,2004,49.81,7.92,2,0,OF,12.15,19.71,1,0.4,Balanced
+moyerja01,Jamie Moyer,25,1986,2012,49.81,6.61,3,0,P,15.87,20.91,2,0.42,Balanced
+rommeed01,Eddie Rommel,13,1920,1932,49.77,7.2,5,0,P,18.08,27.51,4,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+cochrmi01,Mickey Cochrane,13,1925,1937,49.75,6.24,5,0,C,17.71,27.49,4,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+hernafe02,Felix Hernandez,15,2005,2019,49.75,7.12,5,0,P,17.23,27.4,3,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+butlebr01,Brett Butler,17,1981,1997,49.73,6.83,2,0,OF,15.72,24.03,1,0.48,Balanced
+lindofr01,Francisco Lindor,10,2015,2024,49.73,7.32,6,0,SS,18.37,27.03,3,0.54,Balanced
+willibe02,Bernie Williams,16,1991,2006,49.59,6.43,6,0,OF,16.21,26.66,5,0.54,Balanced
+sheckji01,Jimmy Sheckard,17,1897,1913,49.58,7.05,3,0,OF,17.2,23.03,1,0.46,Balanced
+foxne01,Nellie Fox,19,1947,1965,49.34,7.89,4,0,2B,17.84,24.8,2,0.5,Balanced
+dobyla01,Larry Doby,13,1947,1959,49.17,6.99,4,0,OF,20.04,29.95,3,0.61,Peak-heavy (>=55% of WAR in best 5 yrs)
+wrighda03,David Wright,14,2004,2018,49.13,8.34,4,1,3B,19.27,27.22,2,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+veachbo01,Bobby Veach,14,1912,1925,49.1,6.8,5,0,OF,16.71,26.57,2,0.54,Balanced
+mccutan01,Andrew McCutchen,16,2009,2024,49.01,7.81,4,0,OF,21.13,31.44,4,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+leonadu02,Dutch Leonard,20,1933,1953,48.96,6.58,2,0,P,14.4,19.54,2,0.4,Balanced
+keyji01,Jimmy Key,15,1984,1998,48.9,7.38,2,0,P,17.06,20.79,1,0.43,Balanced
+koufasa01,Sandy Koufax,12,1955,1966,48.89,9.91,5,3,P,25.42,39.05,4,0.8,Peak-heavy (>=55% of WAR in best 5 yrs)
+bondto01,Tommy Bond,8,1876,1884,48.72,14.34,4,4,P,39.23,50.58,4,1.04,Peak-heavy (>=55% of WAR in best 5 yrs)
+fregoji01,Jim Fregosi,18,1961,1978,48.71,7.9,5,0,SS,18.69,28.34,4,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+martide01,Dennis Martinez,23,1976,1998,48.69,5.74,2,0,P,14.71,23.58,1,0.48,Balanced
+koneted01,Ed Konetchy,15,1907,1921,48.58,5.32,3,0,1B,15.07,23.92,1,0.49,Balanced
+whitedo01,Doc White,13,1901,1913,48.51,7.76,4,0,P,16.26,26.17,2,0.54,Balanced
+judgejo01,Joe Judge,20,1915,1934,48.38,4.11,0,0,1B,11.9,17.17,0,0.35,Balanced
+stiveja01,Jack Stivetts,11,1889,1899,48.38,9.14,5,1,P,23.89,34.26,4,0.71,Peak-heavy (>=55% of WAR in best 5 yrs)
+ruckena01,Nap Rucker,10,1907,1916,48.33,9.38,5,2,P,24.8,37.42,5,0.77,Peak-heavy (>=55% of WAR in best 5 yrs)
+schanwa01,Wally Schang,19,1913,1931,48.32,4.7,0,0,C,12.14,17.53,0,0.36,Balanced
+myerbu01,Buddy Myer,17,1925,1941,48.29,6.53,2,0,2B,15.56,23.11,1,0.48,Balanced
+luquedo01,Dolf Luque,20,1914,1935,48.25,10.9,3,1,P,20.3,28.48,1,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+lemonbo01,Bob Lemon,15,1941,1958,48.22,7.04,4,0,P,17.94,27.14,2,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+leachto01,Tommy Leach,19,1898,1918,48.13,5.92,2,0,OF,13.7,18.17,1,0.38,Balanced
+kinerra01,Ralph Kiner,10,1946,1955,48.11,8.12,5,2,OF,22.31,35.48,5,0.74,Peak-heavy (>=55% of WAR in best 5 yrs)
+manushe01,Heinie Manush,17,1923,1939,48.09,7.32,3,0,OF,15.77,23.66,1,0.49,Balanced
+lolicmi01,Mickey Lolich,16,1963,1979,48.01,8.55,3,1,P,21.05,29.94,3,0.62,Peak-heavy (>=55% of WAR in best 5 yrs)
+cuyleki01,Kiki Cuyler,18,1921,1938,47.99,6.85,3,0,OF,16.08,21.53,2,0.45,Balanced
+eversjo01,Johnny Evers,18,1902,1929,47.95,6.02,4,0,2B,14.97,22.64,2,0.47,Balanced
+rolliji01,Jimmy Rollins,17,2000,2016,47.93,6.09,2,0,SS,16.16,25.69,2,0.54,Balanced
+bendech01,Charles Bender,16,1903,1925,47.92,5.9,4,0,P,16.71,25.57,3,0.53,Balanced
+ewingbu01,Buck Ewing,18,1880,1897,47.92,4.93,0,0,C,13.55,19.34,0,0.4,Balanced
+guidrro01,Ron Guidry,14,1975,1988,47.83,9.57,3,1,P,20.87,27.15,2,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+newsobo01,Bobo Newsom,20,1929,1953,47.81,7.71,3,0,P,19.93,26.06,2,0.55,Balanced
+grohhe01,Heinie Groh,16,1912,1927,47.68,6.56,4,0,3B,17.29,27.34,3,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+mcgrajo01,John McGraw,17,1891,1907,47.67,8.71,4,1,3B,22.4,30.43,3,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+riceji01,Jim Rice,16,1974,1989,47.66,7.57,5,0,OF,19.14,24.44,3,0.51,Balanced
+lazzeto01,Tony Lazzeri,14,1926,1939,47.49,7.77,2,0,2B,18.83,25.36,1,0.53,Balanced
+grandcu01,Curtis Granderson,16,2004,2019,47.47,7.56,3,0,OF,15.8,26.31,1,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+whitede03,Devon White,17,1985,2001,47.25,6.34,4,0,OF,18.8,24.51,3,0.52,Balanced
+braunry02,Ryan Braun,14,2007,2020,47.17,7.74,4,0,OF,20.31,31.05,4,0.66,Peak-heavy (>=55% of WAR in best 5 yrs)
+gardnla01,Larry Gardner,17,1908,1924,47.16,5.57,1,0,3B,12.87,19.61,1,0.42,Balanced
+mullige01,George Mullin,14,1902,1915,47.16,6.45,4,0,P,15.54,24.52,1,0.52,Balanced
+vaughhi01,Hippo Vaughn,13,1908,1921,47.15,8.22,6,1,P,22.2,33.97,5,0.72,Peak-heavy (>=55% of WAR in best 5 yrs)
+tejadmi01,Miguel Tejada,16,1997,2013,47.13,7.37,3,0,SS,18.12,28.27,2,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+shawkbo01,Bob Shawkey,15,1913,1927,47.04,8.09,3,1,P,17.65,24.48,1,0.52,Balanced
+violafr01,Frank Viola,15,1982,1996,46.96,8.09,4,1,P,19.89,28.77,2,0.61,Peak-heavy (>=55% of WAR in best 5 yrs)
+donaljo02,Josh Donaldson,13,2010,2023,46.81,7.41,5,0,3B,21.63,33.42,4,0.71,Peak-heavy (>=55% of WAR in best 5 yrs)
+tenacge01,Gene Tenace,15,1969,1983,46.81,5.95,3,0,C,15.87,25.37,2,0.54,Balanced
+whitero01,Roy White,15,1965,1979,46.78,6.82,4,0,OF,18.84,27.47,3,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+wilheho01,Hoyt Wilhelm,21,1952,1972,46.77,6.83,1,0,P,10.94,15.82,1,0.34,Longevity (<=35% of WAR in best 5 yrs)
+chancfr01,Frank Chance,17,1898,1914,46.73,7.33,4,0,1B,18.84,29.35,4,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+camermi01,Mike Cameron,17,1995,2011,46.68,5.89,2,0,OF,15.45,23.9,1,0.51,Balanced
+willima04,Matt Williams,17,1987,2003,46.6,5.82,2,0,3B,15.19,22.82,1,0.49,Balanced
+murphda05,Dale Murphy,18,1976,1993,46.51,7.73,6,0,OF,18.79,28.01,4,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+gracema01,Mark Grace,16,1988,2003,46.43,5.04,1,0,1B,13.08,19.78,1,0.43,Balanced
+prattde01,Del Pratt,13,1912,1924,46.4,5.46,1,0,2B,14.18,21.68,1,0.47,Balanced
+kleinch01,Chuck Klein,17,1928,1944,46.31,7.97,5,0,OF,20.69,32.21,5,0.7,Peak-heavy (>=55% of WAR in best 5 yrs)
+stephve01,Vern Stephens,15,1941,1955,46.29,6.87,3,0,SS,16.11,24.44,2,0.53,Balanced
+semiema01,Marcus Semien,12,2013,2024,46.26,8.43,4,1,SS,20.53,29.32,3,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+colonba01,Bartolo Colon,21,1997,2018,46.25,6.86,3,0,P,16.42,25.53,2,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+dicksmu01,Murry Dickson,18,1939,1959,46.21,5.24,2,0,P,14.62,23.71,1,0.51,Balanced
+fletcar01,Art Fletcher,13,1909,1922,46.2,7.17,3,0,SS,17.96,27.65,2,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+deandi01,Dizzy Dean,12,1930,1947,46.19,9.47,5,1,P,24.61,36.81,5,0.8,Peak-heavy (>=55% of WAR in best 5 yrs)
+wilsowi02,Willie Wilson,19,1976,1994,46.12,8.53,3,1,OF,18.98,26.89,2,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+munsoth01,Thurman Munson,11,1969,1979,46.04,7.23,4,0,C,16.83,26.99,2,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+kellyki01,King Kelly,16,1878,1893,45.95,7.29,1,0,OF,15.58,23.1,1,0.5,Balanced
+roushed01,Edd Roush,18,1913,1931,45.88,6.03,2,0,OF,15.68,24.17,2,0.53,Balanced
+crossla01,Lave Cross,21,1887,1907,45.87,5,1,0,3B,10.59,17.81,1,0.39,Balanced
+warnelo01,Lon Warneke,15,1930,1945,45.77,7.85,2,0,P,19.73,27.31,2,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+staubru01,Rusty Staub,23,1963,1985,45.75,6.34,4,0,OF,18.52,26.77,3,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+vazquja01,Javier Vazquez,14,1998,2011,45.6,6.42,5,0,P,15.58,22.99,2,0.5,Balanced
+vizquom01,Omar Vizquel,24,1989,2012,45.59,6.04,1,0,SS,12.93,19.07,1,0.42,Balanced
+peckiro01,Roger Peckinpaugh,17,1910,1927,45.54,6.49,1,0,SS,13.74,21.99,1,0.48,Balanced
+tanneje01,Jesse Tannehill,15,1894,1911,45.45,7.25,4,0,P,18.9,27.83,2,0.61,Peak-heavy (>=55% of WAR in best 5 yrs)
+galanau01,Augie Galan,16,1934,1949,45.44,6.26,4,0,OF,18.16,25.22,3,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+frencla01,Larry French,14,1929,1942,45.41,5.2,2,0,P,12.66,19.83,1,0.44,Balanced
+jossad01,Addie Joss,9,1902,1910,45.35,8.82,4,1,P,20.02,31.18,3,0.69,Peak-heavy (>=55% of WAR in best 5 yrs)
+brocklo01,Lou Brock,19,1961,1979,45.34,5.87,3,0,OF,14.83,24.9,2,0.55,Balanced
+radkebr01,Brad Radke,12,1995,2006,45.33,6.51,4,0,P,17.89,26.91,3,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+fernato01,Tony Fernandez,17,1983,2001,45.3,5.09,1,0,SS,14.47,23.21,1,0.51,Balanced
+wainwad01,Adam Wainwright,18,2005,2023,45.29,6.65,4,0,P,15.99,21.04,2,0.46,Balanced
+orourji01,Jim O'Rourke,19,1876,1904,45.24,4.87,0,0,OF,12.55,17.42,0,0.39,Balanced
+donovbi01,Bill Donovan,18,1898,1918,45.21,8.01,3,1,P,17.68,26.6,1,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+passecl01,Claude Passeau,13,1935,1947,45.1,7.5,4,0,P,17.62,24.52,2,0.54,Balanced
+bluevi01,Vida Blue,17,1969,1986,45.09,8.52,3,1,P,17.37,24.07,1,0.53,Balanced
+poseybu01,Buster Posey,12,2009,2021,45.03,7.56,4,0,C,17.97,28.61,4,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+stantmi03,Giancarlo Stanton,15,2010,2024,45.01,8.1,3,1,OF,14.96,25.24,1,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+degroja01,Jacob deGrom,11,2014,2024,44.98,9.89,4,1,P,22.22,31.17,2,0.69,Peak-heavy (>=55% of WAR in best 5 yrs)
+pennohe01,Herb Pennock,22,1912,1934,44.95,7.88,4,0,P,20.46,26.93,3,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+stoveha01,Harry Stovey,14,1880,1893,44.95,5.42,2,0,OF,14.16,21.65,2,0.48,Balanced
+combsea01,Earle Combs,12,1924,1935,44.94,7.13,4,0,OF,16.82,26.88,2,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+drewjd01,J. D. Drew,14,1998,2011,44.86,8.29,2,1,OF,15.46,22.81,1,0.51,Balanced
+walkedi02,Dixie Walker,18,1931,1949,44.86,5.79,3,0,OF,15.06,23.23,2,0.52,Balanced
+colavro01,Rocky Colavito,14,1955,1968,44.84,7.63,4,0,OF,16.23,25.78,2,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+schoere01,Red Schoendienst,19,1945,1963,44.78,6.69,3,0,2B,16.84,23.37,2,0.52,Balanced
+tulowtr01,Troy Tulowitzki,13,2006,2019,44.78,6.75,6,0,SS,19.43,26.97,3,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+freehbi01,Bill Freehan,15,1961,1976,44.74,6.92,3,0,C,15.33,22.47,2,0.5,Balanced
+lucasre01,Red Lucas,16,1923,1938,44.72,6.04,3,0,P,15.48,22.04,1,0.49,Balanced
+zobribe01,Ben Zobrist,14,2006,2019,44.71,8.61,4,1,2B,20.8,31.76,3,0.71,Peak-heavy (>=55% of WAR in best 5 yrs)
+rogerst01,Steve Rogers,13,1973,1985,44.69,7.71,3,0,P,15.26,23.86,1,0.53,Balanced
+doylela01,Larry Doyle,14,1907,1920,44.65,5.04,1,0,2B,13.66,20.69,1,0.46,Balanced
+knoblch01,Chuck Knoblauch,12,1991,2002,44.59,8.65,4,1,2B,22.09,29.78,3,0.67,Peak-heavy (>=55% of WAR in best 5 yrs)
+ryanji01,Jimmy Ryan,18,1885,1903,44.48,5.14,2,0,OF,12.91,19.34,2,0.43,Balanced
+hollima01,Matt Holliday,15,2004,2018,44.44,5.99,4,0,OF,17.14,26.87,4,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+freylo01,Lonny Frey,14,1933,1948,44.41,6.82,4,0,2B,17.88,28.76,2,0.65,Peak-heavy (>=55% of WAR in best 5 yrs)
+thompsa01,Sam Thompson,15,1885,1906,44.38,5.97,3,0,OF,15.39,23.75,2,0.54,Balanced
+delgaca01,Carlos Delgado,17,1993,2009,44.36,7.27,3,0,1B,16.61,26.13,1,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+garcino01,Nomar Garciaparra,14,1996,2009,44.28,7.42,6,0,SS,21.07,28.33,4,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+gardnbr01,Brett Gardner,14,2008,2021,44.28,7.35,1,0,OF,13.72,19.88,1,0.45,Balanced
+hardeme01,Mel Harder,20,1928,1947,44.28,7.72,4,0,P,20.27,28.19,4,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+correca01,Carlos Correa,10,2015,2024,44.27,7.28,4,0,SS,18.39,25.06,2,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+finlest01,Steve Finley,19,1989,2007,44.24,5.76,3,0,OF,13.55,18.23,2,0.41,Balanced
+fostege01,George Foster,18,1969,1986,44.2,8.4,3,1,OF,19.19,29.1,2,0.66,Peak-heavy (>=55% of WAR in best 5 yrs)
+maranra01,Rabbit Maranville,23,1912,1935,44.19,5.08,2,0,SS,13.66,20.4,1,0.46,Balanced
+childcu01,Cupid Childs,13,1888,1901,44.15,7.08,3,0,2B,16.84,25.91,1,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+tennefr02,Fred Tenney,17,1894,1911,44.05,5.19,2,0,1B,11.95,19,1,0.43,Balanced
+jackstr01,Travis Jackson,15,1922,1936,44.04,5.86,4,0,SS,16.5,26.76,3,0.61,Peak-heavy (>=55% of WAR in best 5 yrs)
+hahnno01,Noodles Hahn,8,1899,1906,43.93,8.52,6,1,P,23.76,37.05,6,0.84,Peak-heavy (>=55% of WAR in best 5 yrs)
+darkal01,Al Dark,14,1946,1960,43.91,6.31,3,0,SS,17.35,25.86,3,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+zambrca01,Carlos Zambrano,12,2001,2012,43.88,7.24,5,0,P,19.78,29.32,4,0.67,Peak-heavy (>=55% of WAR in best 5 yrs)
+hodgegi01,Gil Hodges,18,1943,1963,43.84,6.24,3,0,1B,15.93,25.78,2,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+pappami01,Milt Pappas,17,1957,1973,43.76,5.77,1,0,P,14.24,17.03,1,0.39,Balanced
+welchbo01,Bob Welch,17,1978,1994,43.7,7.38,1,0,P,15.67,21.97,1,0.5,Balanced
+gonzaad01,Adrian Gonzalez,15,2004,2018,43.64,6.93,2,0,1B,18.2,25.69,1,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+oliveal01,Al Oliver,18,1968,1985,43.64,5.25,1,0,OF,12.22,19.38,1,0.44,Balanced
+ohtansh01,Shohei Ohtani,7,2018,2024,43.63,9.91,4,4,Two-way,28.6,37.15,4,0.85,Peak-heavy (>=55% of WAR in best 5 yrs)
+francju01,Julio Franco,23,1982,2007,43.56,6.78,3,0,1B,18.32,24.11,3,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+kellech01,Charlie Keller,13,1939,1952,43.53,6.71,5,0,OF,19.92,30.4,4,0.7,Peak-heavy (>=55% of WAR in best 5 yrs)
+morrija02,Jack Morris,18,1977,1994,43.51,5.83,3,0,P,15.1,21.56,2,0.5,Balanced
+lestejo01,Jon Lester,16,2006,2021,43.38,6.09,4,0,P,17.28,22.39,3,0.52,Balanced
+bresnro01,Roger Bresnahan,17,1897,1915,43.31,5.94,2,0,C,14.8,22.71,1,0.52,Balanced
+simmocu01,Curt Simmons,20,1947,1967,43.24,4.88,0,0,P,12.79,17.93,0,0.41,Balanced
+leecl02,Cliff Lee,13,2002,2014,43.17,8.95,5,1,P,20.1,30.59,4,0.71,Peak-heavy (>=55% of WAR in best 5 yrs)
+duffyhu01,Hugh Duffy,17,1888,1906,43.14,6.84,1,0,OF,14.43,22.5,1,0.52,Balanced
+colege01,Gerrit Cole,12,2013,2024,43.12,7.39,4,0,P,15.68,24.39,2,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+stottme01,Mel Stottlemyre,11,1964,1974,43.11,6.94,3,0,P,16.03,23.98,2,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+olivato01,Tony Oliva,15,1962,1976,43.07,7.03,5,0,OF,18.56,26.51,3,0.62,Peak-heavy (>=55% of WAR in best 5 yrs)
+garvene01,Ned Garver,14,1948,1961,43.03,8.08,3,1,P,18.99,27.14,2,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+camildo01,Dolph Camilli,12,1933,1945,42.98,6.84,5,0,1B,18.56,29.16,3,0.68,Peak-heavy (>=55% of WAR in best 5 yrs)
+chesbja01,Jack Chesbro,11,1899,1909,42.89,11.42,5,1,P,21.51,32.2,2,0.75,Peak-heavy (>=55% of WAR in best 5 yrs)
+otisam01,Amos Otis,17,1967,1984,42.78,7.37,2,0,OF,13.41,21.43,1,0.5,Balanced
+jonesfi01,Fielder Jones,15,1896,1915,42.76,4.91,0,0,OF,13.12,21.38,0,0.5,Balanced
+posadjo01,Jorge Posada,17,1995,2011,42.68,5.92,3,0,C,13.82,23.16,1,0.54,Balanced
+jonessa01,Sad Sam Jones,22,1914,1935,42.62,7.25,2,0,P,12.44,17.6,1,0.41,Balanced
+willike01,Ken Williams,14,1915,1929,42.58,7.95,3,0,OF,21.16,29.45,3,0.69,Peak-heavy (>=55% of WAR in best 5 yrs)
+smithel01,Elmer Smith,14,1886,1901,42.56,10.8,3,1,OF,15.96,20.03,1,0.47,Balanced
+rowesc01,Schoolboy Rowe,15,1933,1949,42.51,6.93,4,0,P,16.88,18.06,2,0.42,Balanced
+chapmbe01,Ben Chapman,15,1930,1946,42.46,5.87,2,0,OF,15.17,23.18,1,0.55,Balanced
+jennihu01,Hughie Jennings,18,1891,1918,42.4,8.3,4,1,SS,23.54,35.82,4,0.84,Peak-heavy (>=55% of WAR in best 5 yrs)
+dykstle01,Lenny Dykstra,12,1985,1996,42.38,8.91,2,1,OF,14.8,23.37,1,0.55,Peak-heavy (>=55% of WAR in best 5 yrs)
+mattido01,Don Mattingly,14,1982,1995,42.37,7.22,4,0,1B,19.95,28.76,4,0.68,Peak-heavy (>=55% of WAR in best 5 yrs)
+cansejo01,Jose Canseco,17,1985,2001,42.35,7.27,3,0,OF,14.93,22.5,2,0.53,Balanced
+lopesda01,Davey Lopes,16,1972,1987,42.35,5.27,1,0,2B,14.22,23.05,1,0.54,Balanced
+bergewa01,Wally Berger,11,1930,1940,42.34,6.94,4,0,OF,17.7,27.58,3,0.65,Peak-heavy (>=55% of WAR in best 5 yrs)
+aloufe01,Felipe Alou,17,1958,1974,42.32,6.54,5,0,OF,13.83,24.39,2,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+brechha01,Harry Brecheen,12,1940,1953,42.25,8.48,3,1,P,18.55,26.4,3,0.62,Peak-heavy (>=55% of WAR in best 5 yrs)
+strawda01,Darryl Strawberry,17,1983,1999,42.15,6.42,3,0,OF,16.61,26.57,2,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+gaettga01,Gary Gaetti,20,1981,2000,42.07,5.8,1,0,3B,12.47,18.27,1,0.43,Balanced
+yelicch01,Christian Yelich,12,2013,2024,42.05,7.33,2,0,OF,18.1,26.61,2,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+heywaja01,Jason Heyward,15,2010,2024,42.04,6.97,4,0,OF,16.05,23.51,2,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+rizzuph01,Phil Rizzuto,13,1941,1956,42.04,6.78,3,0,SS,15.76,22.69,1,0.54,Balanced
+cruzne02,Nelson Cruz,19,2005,2023,42,5.05,1,0,OF,14.36,21.5,1,0.51,Balanced
+nichobi01,Bill Nicholson,16,1936,1953,41.94,6.67,3,0,OF,18.65,26.77,3,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+candejo01,John Candelaria,19,1975,1993,41.91,7.93,1,0,P,15.79,20.08,1,0.48,Balanced
+floodcu01,Curt Flood,15,1956,1971,41.89,5.81,2,0,OF,15.23,23.37,1,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+polanpl01,Placido Polanco,16,1998,2013,41.87,6.11,2,0,2B,14.11,20.95,1,0.5,Balanced
+mcdowsa01,Sam McDowell,15,1961,1975,41.81,7.92,5,0,P,19.58,26.27,3,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+thomaro01,Roy Thomas,13,1899,1911,41.81,5.65,3,0,OF,15.86,22.98,1,0.55,Balanced
+singlke01,Ken Singleton,15,1970,1984,41.8,5.68,4,0,OF,15.62,24.09,1,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+decindo01,Doug DeCinces,15,1973,1987,41.74,7.58,2,0,3B,14.05,23.61,1,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+kendaja01,Jason Kendall,15,1996,2010,41.66,5.62,1,0,C,14.24,19.95,1,0.48,Balanced
+perryji01,Jim Perry,17,1959,1975,41.6,6.48,1,0,P,15.22,22.07,1,0.53,Balanced
+molinya01,Yadier Molina,19,2004,2022,41.59,7.19,2,0,C,16.59,22.64,2,0.54,Balanced
+stanked01,Eddie Stanky,11,1943,1953,41.55,8.22,4,1,2B,17.99,27.09,2,0.65,Peak-heavy (>=55% of WAR in best 5 yrs)
+cliftha01,Harlond Clift,12,1934,1945,41.5,7.06,3,0,3B,19.32,26.68,3,0.64,Peak-heavy (>=55% of WAR in best 5 yrs)
+tiernmi01,Mike Tiernan,13,1887,1899,41.46,5.53,3,0,OF,14.88,22.8,1,0.55,Balanced
+seymocy01,Cy Seymour,16,1896,1913,41.45,7.95,2,0,OF,16.36,23.79,1,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+valenfe01,Fernando Valenzuela,17,1980,1997,41.45,6.09,4,0,P,16.19,24.45,2,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+bartedi01,Dick Bartell,18,1927,1946,41.39,6.57,2,0,SS,17.03,22.63,2,0.55,Balanced
+vanslan01,Andy Van Slyke,13,1983,1995,41.34,6.44,3,0,OF,15.44,24,2,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+gleaski01,Kid Gleason,22,1888,1912,41.21,11.95,3,1,2B,25.08,34.54,3,0.84,Peak-heavy (>=55% of WAR in best 5 yrs)
+osteecl01,Claude Osteen,18,1957,1975,41.17,6.68,2,0,P,11.4,18.47,1,0.45,Balanced
+fournja01,Jack Fournier,15,1912,1927,41.14,6.29,4,0,1B,17.45,22.85,3,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+gossari01,Rich Gossage,22,1972,1994,41.14,8.19,2,1,P,17.12,22.12,1,0.54,Balanced
+candito01,Tom Candiotti,16,1983,1999,41.1,7.05,2,0,P,15.87,24.21,1,0.59,Peak-heavy (>=55% of WAR in best 5 yrs)
+dwyerfr01,Frank Dwyer,12,1888,1899,41.06,7.6,3,0,P,17.48,26.97,2,0.66,Peak-heavy (>=55% of WAR in best 5 yrs)
+richaha01,Hardy Richardson,14,1879,1892,40.98,6.9,1,0,2B,14.05,21.84,1,0.53,Balanced
+belanma01,Mark Belanger,18,1965,1982,40.93,6.52,2,0,SS,15.98,22.25,2,0.54,Balanced
+pascuca02,Camilo Pascual,18,1954,1971,40.91,8.56,4,1,P,18.12,29.86,3,0.73,Peak-heavy (>=55% of WAR in best 5 yrs)
+griffmi01,Mike Griffin,12,1887,1898,40.87,5.61,1,0,OF,13.15,20.8,1,0.51,Balanced
+hunteca01,Catfish Hunter,15,1965,1979,40.86,8.07,4,1,P,16.83,26.96,2,0.66,Peak-heavy (>=55% of WAR in best 5 yrs)
+frienbo01,Bob Friend,16,1951,1966,40.85,5.88,4,0,P,14.34,21.13,2,0.52,Balanced
+mcdougi01,Gil McDougald,10,1951,1960,40.85,5.81,3,0,2B,16.01,23.82,3,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+porteda02,Darrell Porter,17,1971,1987,40.85,7.63,1,0,C,14.38,18.48,1,0.45,Balanced
+gilliji01,Jim Gilliam,14,1953,1966,40.83,6.14,2,0,2B,12.57,18.56,1,0.45,Balanced
+mcmahsa01,Sadie McMahon,9,1889,1897,40.82,10.63,4,2,P,23.74,35.91,2,0.88,Peak-heavy (>=55% of WAR in best 5 yrs)
+milancl01,Clyde Milan,16,1907,1922,40.79,5.14,2,0,OF,14.82,22.21,2,0.54,Balanced
+daussho01,Hooks Dauss,15,1912,1926,40.68,5.67,2,0,P,12.9,18.64,1,0.46,Balanced
+woodjo02,Smoky Joe Wood,14,1908,1922,40.65,11.46,3,1,P,21.47,28.95,2,0.71,Peak-heavy (>=55% of WAR in best 5 yrs)
+justida01,David Justice,14,1989,2002,40.59,5.1,2,0,OF,13.7,19.7,1,0.49,Balanced
+salmoti01,Tim Salmon,14,1992,2006,40.59,6.6,2,0,OF,14.49,22.04,1,0.54,Balanced
+rizzoan01,Anthony Rizzo,14,2011,2024,40.47,6.44,3,0,1B,17.89,25.63,3,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+sundbji01,Jim Sundberg,16,1974,1989,40.47,5.36,2,0,C,13.72,21.28,2,0.53,Balanced
+lansfca01,Carney Lansford,15,1978,1992,40.43,5.17,1,0,3B,12.71,17.79,1,0.44,Balanced
+brownpe01,Pete Browning,13,1882,1894,40.42,6.03,3,0,OF,13.53,20.51,1,0.51,Balanced
+truckvi01,Virgil Trucks,17,1941,1958,40.42,6.38,2,0,P,13,16.63,1,0.41,Balanced
+hinespa01,Paul Hines,16,1876,1891,40.36,4.68,0,0,OF,11.44,17.37,0,0.43,Balanced
+bushdo01,Donie Bush,16,1908,1923,40.23,6.48,3,0,SS,14.27,22.69,2,0.56,Peak-heavy (>=55% of WAR in best 5 yrs)
+priceda01,David Price,14,2008,2022,40.22,6.63,2,0,P,14.58,22.97,1,0.57,Peak-heavy (>=55% of WAR in best 5 yrs)
+dinnebi01,Bill Dinneen,12,1898,1909,40.15,7.63,5,0,P,18.65,30.43,5,0.76,Peak-heavy (>=55% of WAR in best 5 yrs)
+messean01,Andy Messersmith,12,1968,1979,40.15,6.84,4,0,P,18.99,25.43,3,0.63,Peak-heavy (>=55% of WAR in best 5 yrs)
+conceda01,Dave Concepcion,19,1970,1988,40.13,5.51,1,0,SS,13.8,20.38,1,0.51,Balanced
+parkeda01,Dave Parker,19,1973,1991,40.12,7.38,4,0,OF,21.07,31.09,3,0.77,Peak-heavy (>=55% of WAR in best 5 yrs)
+leevesa01,Sam Leever,13,1898,1910,40.11,6.56,3,0,P,14.3,21.04,2,0.52,Balanced
+zimmery01,Ryan Zimmerman,16,2005,2021,40.11,7.34,2,0,3B,16.33,23.88,2,0.6,Peak-heavy (>=55% of WAR in best 5 yrs)
+belleal01,Albert Belle,12,1989,2000,40.06,7.07,4,0,OF,18.34,26.93,3,0.67,Peak-heavy (>=55% of WAR in best 5 yrs)
+vanhage01,George Van Haltren,17,1887,1903,40.06,4.38,0,0,OF,10.98,15.65,0,0.39,Balanced
+leiteal01,Al Leiter,19,1987,2005,40.04,6.8,3,0,P,13.34,20.92,2,0.52,Balanced
+bogaexa01,Xander Bogaerts,12,2013,2024,40,6.26,3,0,SS,15.01,23.22,2,0.58,Peak-heavy (>=55% of WAR in best 5 yrs)
+zachato01,Tom Zachary,19,1918,1936,39.99,5.3,1,0,P,11.91,16.9,1,0.42,NA
+gorege01,George Gore,14,1879,1892,39.94,4.9,0,0,OF,13.57,20.67,0,0.52,NA
+aloumo01,Moises Alou,17,1990,2008,39.88,6.17,2,0,OF,10.86,17.12,1,0.43,NA
+sandere02,Reggie Sanders,17,1991,2007,39.82,6.6,1,0,OF,12.63,17.77,1,0.45,NA
+darwida01,Danny Darwin,21,1978,1998,39.79,5.69,2,0,P,9.67,16.19,1,0.41,NA
+daubeja01,Jake Daubert,15,1910,1924,39.77,4.17,0,0,1B,10.66,17.8,0,0.45,NA
+willsma01,Maury Wills,14,1959,1972,39.69,6.01,2,0,SS,12.72,20.22,1,0.51,NA
+hermaba01,Babe Herman,13,1926,1945,39.5,6.89,2,0,OF,16.7,25.09,1,0.64,NA
+hawlepi01,Pink Hawley,10,1892,1901,39.48,11.05,4,2,P,25.67,33.53,3,0.85,NA
+parrila02,Lance Parrish,19,1977,1995,39.48,5.04,1,0,C,12.56,19.45,1,0.49,NA
+furcara01,Rafael Furcal,14,2000,2014,39.47,6.46,1,0,SS,14.75,21.97,1,0.56,NA
+bregmal01,Alex Bregman,9,2016,2024,39.45,8.94,2,1,3B,20.76,24.24,2,0.61,NA
+barfije01,Jesse Barfield,12,1981,1992,39.44,7.58,3,0,OF,19.14,26.42,2,0.67,NA
+matlajo01,Jon Matlack,13,1971,1983,39.41,8.67,3,1,P,19.27,26.02,1,0.66,NA
+henrito01,Tommy Henrich,11,1937,1950,39.39,5.52,3,0,OF,14.94,19.41,2,0.49,NA
+cuppyni01,George Cuppy,10,1892,1901,39.35,10.33,3,2,P,23,30.47,2,0.77,NA
+burnsge01,George Burns,15,1911,1925,39.34,6.44,2,0,OF,15.34,23.05,1,0.59,NA
+ehmkeho01,Howard Ehmke,15,1915,1930,39.34,8.18,2,1,P,19.17,25.11,2,0.64,NA
+peavyja01,Jake Peavy,15,2002,2016,39.2,6.83,2,0,P,14.1,23.78,1,0.61,NA
+daviscu01,Curt Davis,13,1934,1946,39.18,8.58,2,1,P,18.68,22.8,2,0.58,NA
+crawfca02,Carl Crawford,15,2002,2016,39.16,6.97,2,0,OF,14.5,22.94,2,0.59,NA
+petrori01,Rico Petrocelli,13,1963,1976,39.12,9.99,1,1,SS,19.71,27.66,1,0.71,NA
+powelbo01,Boog Powell,17,1961,1977,39.1,5.86,3,0,1B,14.51,19.37,2,0.5,NA
+hutchbi01,Bill Hutchison,9,1884,1897,38.93,9.43,3,3,P,26.77,33.47,3,0.86,NA
+oneilpa01,Paul O'Neill,17,1985,2001,38.8,5.82,1,0,OF,12.08,19.17,1,0.49,NA
+ordonma01,Magglio Ordonez,15,1997,2011,38.79,7.28,4,0,OF,14.2,22.66,2,0.58,NA
+baineha01,Harold Baines,22,1980,2001,38.77,4.33,0,0,DH,9.87,15.08,0,0.39,NA
+bennech01,Charlie Bennett,15,1878,1893,38.77,4.92,0,0,C,13.54,21.96,0,0.57,NA
+turneju01,Justin Turner,16,2009,2024,38.71,5.77,2,0,3B,15.78,23.49,2,0.61,NA
+pfeffje01,Jeff Pfeffer,13,1911,1924,38.7,7.76,3,0,P,21.51,26.56,3,0.69,NA
+wilsoha01,Hack Wilson,12,1923,1934,38.69,7.41,5,0,OF,18.98,30.59,5,0.79,NA
+gomezle01,Lefty Gomez,14,1930,1943,38.68,9,3,1,P,15.86,25.42,1,0.66,NA
+gonzaju03,Juan Gonzalez,17,1989,2005,38.68,6.49,1,0,OF,11.58,17.9,1,0.46,NA
+traynpi01,Pie Traynor,17,1920,1937,38.67,4.58,0,0,3B,11.24,18.5,0,0.48,NA
+martiru01,Russell Martin,14,2006,2019,38.66,5.66,2,0,C,12.75,16.96,1,0.44,NA
+hrbekke01,Kent Hrbek,14,1981,1994,38.63,5.56,1,0,1B,12.29,19.93,1,0.52,NA
+whitebi03,Bill White,13,1956,1969,38.61,6,4,0,1B,16.74,26.35,4,0.68,NA
+wallati01,Tim Wallach,17,1980,1996,38.52,6.1,1,0,3B,13.71,20.52,1,0.53,NA
+smithlo01,Lonnie Smith,17,1978,1994,38.51,8.81,2,1,OF,15.2,18.91,1,0.49,NA
+davisha01,Harry Davis,22,1895,1917,38.47,5.92,1,0,1B,15.21,22.15,1,0.58,NA
+mckeaed01,Ed McKean,13,1887,1899,38.45,5.27,1,0,SS,13.88,18.12,1,0.47,NA
+callijo01,Johnny Callison,16,1958,1973,38.43,8.07,4,1,OF,20.25,29.45,4,0.77,NA
+houghch01,Charlie Hough,25,1970,1994,38.42,6.31,1,0,P,15.52,21.58,1,0.56,NA
+gibsoki01,Kirk Gibson,17,1979,1995,38.41,6.53,3,0,OF,14.52,25.04,2,0.65,NA
+davisch01,Chili Davis,19,1981,1999,38.36,5.17,1,0,DH,12.1,15.62,1,0.41,NA
+morried01,Ed Morris,7,1884,1890,38.36,12.69,3,3,P,31.59,37.92,3,0.99,NA
+ramirha01,Hanley Ramirez,15,2005,2019,38.28,7.36,3,0,SS,18.47,26.17,2,0.68,NA
+chaveer01,Eric Chavez,17,1998,2014,38.25,6.05,3,0,3B,15.62,25.93,2,0.68,NA
+martest01,Starling Marte,13,2012,2024,38.24,5.05,1,0,OF,14.5,20.49,1,0.54,NA
+marisro01,Roger Maris,12,1957,1968,38.23,7.54,2,0,OF,18.1,25.45,2,0.67,NA
+madlobi01,Bill Madlock,15,1973,1987,38.22,6.2,1,0,3B,12.01,18.15,1,0.47,NA
+cainlo01,Lorenzo Cain,13,2010,2022,38.19,6.9,3,0,OF,15.4,26.6,2,0.7,NA
+lankfra01,Ray Lankford,14,1990,2004,38.19,6.23,2,0,OF,16.48,24.01,2,0.63,NA
+santaca01,Carlos Santana,15,2010,2024,38.17,4.69,0,0,1B,12.21,16.95,0,0.44,NA
+gordosi01,Sid Gordon,13,1941,1955,38.15,6.35,3,0,OF,17.17,27.03,3,0.71,NA
+turnete01,Terry Turner,17,1901,1919,38.15,9.33,1,1,3B,16.96,19.84,1,0.52,NA
+garvest01,Steve Garvey,19,1969,1987,38.1,5.13,1,0,1B,14.31,22.86,1,0.6,NA
+glaustr01,Troy Glaus,13,1998,2010,38.06,7.84,2,0,3B,17.44,21.87,2,0.57,NA
+bishoma01,Max Bishop,12,1924,1935,38.02,6.04,2,0,2B,14.38,21.38,1,0.56,NA
+blairpa01,Paul Blair,17,1964,1980,37.74,7.07,4,0,OF,16.08,24.79,2,0.66,NA
+newcodo01,Don Newcombe,10,1949,1960,37.66,6.56,4,0,P,14.14,22.95,2,0.61,NA
+bluelu01,Lu Blue,13,1921,1933,37.64,5.3,1,0,1B,10.71,17.32,1,0.46,NA
+chapmma01,Matt Chapman,8,2017,2024,37.63,7.43,3,0,3B,18,22.95,2,0.61,NA
+heathje01,Jeff Heath,14,1936,1949,37.63,5.25,1,0,OF,13.01,18.2,1,0.48,NA
+rootch01,Charlie Root,17,1923,1941,37.61,4.82,0,0,P,11.6,17.66,0,0.47,NA
+howarfr01,Frank Howard,16,1958,1973,37.57,5.69,1,0,OF,14.91,21.62,1,0.58,NA
+kellge01,George Kell,15,1943,1957,37.57,4.87,0,0,3B,13.85,19.99,0,0.53,NA
+lombaer01,Ernie Lombardi,17,1931,1947,37.57,4.76,0,0,C,10.61,16.55,0,0.44,NA
+malonji01,Jim Maloney,12,1960,1971,37.54,9.02,3,1,P,21.24,30.48,2,0.81,NA
+mcauldi01,Dick McAuliffe,16,1960,1975,37.54,5.99,3,0,2B,16.64,23.47,3,0.63,NA
+gubicma01,Mark Gubicza,14,1984,1997,37.38,7.74,2,0,P,18.96,24.52,2,0.66,NA
+springe01,George Springer,11,2014,2024,37.34,6.46,3,0,OF,14.41,23.69,2,0.63,NA
+leonadu01,Dutch Leonard,11,1913,1925,37.27,9.58,2,1,P,19.48,28.23,1,0.76,NA
+heckegu01,Guy Hecker,9,1882,1890,37.25,17.79,3,2,Two-way,31.87,37.28,3,1,NA
+bumgama01,Madison Bumgarner,15,2009,2023,37.22,5.91,2,0,P,16.41,24,2,0.64,NA
+weyhigu01,Gus Weyhing,14,1887,1901,37.21,7.85,3,0,P,22.09,29.38,3,0.79,NA
+lackejo01,John Lackey,15,2002,2017,37.19,6.22,2,0,P,14.91,20.34,1,0.55,NA
+bellja01,Jay Bell,18,1986,2003,37.16,6.19,2,0,SS,14.22,20,1,0.54,NA
+seageco01,Corey Seager,10,2015,2024,37.08,7.18,4,0,SS,16.19,21.59,2,0.58,NA
+cavarph01,Phil Cavarretta,22,1934,1955,37.03,6.01,1,0,1B,14.92,21.4,1,0.58,NA
+bakerdu01,Dusty Baker,19,1968,1986,37,5.14,1,0,OF,12.69,15.89,1,0.43,NA
+reyesjo01,Jose Reyes,16,2003,2018,36.99,5.86,2,0,SS,15.79,18.95,2,0.51,NA
+seageky01,Kyle Seager,11,2011,2021,36.99,6.85,3,0,3B,18.53,26.04,3,0.7,NA
+dunlafr01,Fred Dunlap,12,1880,1891,36.98,7.82,1,0,2B,16.66,23.91,1,0.65,NA
+longhe01,Herman Long,16,1889,1904,36.93,4.74,0,0,SS,12.36,16.73,0,0.45,NA
+selbaki01,Kip Selbach,13,1894,1906,36.91,5.01,1,0,OF,12.61,20.31,1,0.55,NA
+willicy01,Cy Williams,19,1912,1930,36.86,5.89,1,0,OF,12.04,19.11,1,0.52,NA
+whiteea01,Earl Whitehill,17,1923,1939,36.85,5,1,0,P,12.06,17.95,1,0.49,NA
+groatdi01,Dick Groat,14,1952,1967,36.81,7.08,2,0,SS,12.51,20.61,1,0.56,NA
+maddoga01,Garry Maddox,15,1972,1986,36.8,6.36,3,0,OF,15.2,23.77,2,0.65,NA
+bautijo02,Jose Bautista,15,2004,2018,36.78,8.28,3,1,OF,19.04,30.43,2,0.83,NA
+bushjo01,Bullet Joe Bush,17,1912,1928,36.75,5.77,3,0,P,16.32,24.38,2,0.66,NA
+walberu01,Rube Walberg,15,1923,1937,36.75,6.36,1,0,P,13.95,20.87,1,0.57,NA
+devliar01,Art Devlin,10,1904,1913,36.71,7.92,1,0,3B,16.66,25.39,1,0.69,NA
+bradlbi01,Bill Bradley,14,1899,1915,36.58,7.04,3,0,3B,20.09,28.14,3,0.77,NA
+pafkoan01,Andy Pafko,17,1943,1959,36.56,6.34,2,0,OF,15.75,22.07,1,0.6,NA
+mazerbi01,Bill Mazeroski,17,1956,1972,36.53,4.74,0,0,2B,11.76,17.58,0,0.48,NA
+scottge02,George Scott,14,1966,1979,36.53,6.66,1,0,1B,15.74,22.52,1,0.62,NA
+rijojo01,Jose Rijo,14,1984,2002,36.5,10.1,4,1,P,21.8,30.92,4,0.85,NA
+simmoan01,Andrelton Simmons,11,2012,2022,36.5,7.98,3,0,SS,17.9,25.05,2,0.69,NA
+murphda02,Danny Murphy,16,1900,1915,36.49,5.3,2,0,OF,13.77,19.75,2,0.54,NA
+caldwra02,Ray Caldwell,12,1910,1921,36.48,7.08,3,0,P,17.26,25.07,2,0.69,NA
+moneydo01,Don Money,16,1968,1983,36.47,5.11,2,0,3B,13.54,20.62,1,0.57,NA
+moseswa01,Wally Moses,17,1935,1951,36.45,5.24,1,0,OF,11.9,17.63,1,0.48,NA
+sotoju01,Juan Soto,7,2018,2024,36.44,8,5,1,OF,18.76,28.34,4,0.78,NA
+wiseri01,Rick Wise,18,1964,1982,36.3,5.27,1,0,P,13.35,20.71,1,0.57,NA
+cuetojo01,Johnny Cueto,17,2008,2024,36.29,6.56,2,0,P,15.72,21.74,1,0.6,NA
+turnetr01,Trea Turner,10,2015,2024,36.26,6.5,2,0,SS,15.22,23.42,2,0.65,NA
+kiermke01,Kevin Kiermaier,12,2013,2024,36.21,6.85,2,0,OF,16.97,22.8,2,0.63,NA
+bufordo01,Don Buford,10,1963,1972,36.17,6.93,2,0,OF,14.42,23.85,1,0.66,NA
+daviser01,Eric Davis,17,1984,2001,36.13,7.91,2,0,OF,17.6,23.75,2,0.66,NA
+realmjt01,J. T. Realmuto,11,2014,2024,36.1,6.54,1,0,C,13.55,20.29,1,0.56,NA
+derripa01,Paul Derringer,15,1931,1945,36.07,5.37,1,0,P,13.32,19.02,1,0.53,NA
+huggimi01,Miller Huggins,13,1904,1916,36.02,4.23,0,0,2B,11.08,17.54,0,0.49,NA
+coopece01,Cecil Cooper,17,1971,1987,36,6.81,2,0,1B,16.68,24.39,1,0.68,NA
+rushbo01,Bob Rush,13,1948,1960,35.99,6.13,3,0,P,14.57,22.51,2,0.63,NA
+osterfr01,Fritz Ostermueller,15,1934,1948,35.95,6.43,3,0,P,12.97,16.89,1,0.47,NA
+fitzsfr01,Freddie Fitzsimmons,19,1925,1943,35.87,4.54,0,0,P,10,0,0,0,NA
+bottoji01,Jim Bottomley,16,1922,1937,35.85,5.62,2,0,1B,13.46,22.27,1,0.62,NA
+joynewa01,Wally Joyner,16,1986,2001,35.81,4.14,0,0,1B,10.55,15.83,0,0.44,NA
+parenfr01,Freddy Parent,12,1899,1911,35.75,6.4,3,0,SS,15.79,23.05,2,0.64,NA
+willine01,Ed Williamson,13,1878,1890,35.7,5.83,1,0,3B,13.07,20.38,1,0.57,NA
+beckejo02,Josh Beckett,14,2001,2014,35.67,6.54,3,0,P,14.82,21.64,1,0.61,NA
+camparo01,Roy Campanella,10,1948,1957,35.65,6.87,3,0,C,17.67,26.9,1,0.75,NA
+hootobu01,Burt Hooton,15,1971,1985,35.57,5.43,2,0,P,14.27,19.1,2,0.54,NA
+kammwi01,Willie Kamm,13,1923,1935,35.54,5.12,1,0,3B,12.1,18.87,1,0.53,NA
+lyonsde01,Denny Lyons,13,1885,1897,35.52,5.39,3,0,3B,14.54,23.22,1,0.65,NA
+mcinnst01,Stuffy McInnis,19,1909,1927,35.52,5.78,2,0,1B,15.1,19.52,2,0.55,NA
+wheelza01,Zack Wheeler,10,2013,2024,35.5,7.66,2,0,P,16.62,25.92,1,0.73,NA
+nolaaa01,Aaron Nola,10,2015,2024,35.48,9.18,2,1,P,17.28,23.72,1,0.67,NA
+foutzda01,Dave Foutz,13,1884,1896,35.42,11.04,3,1,Two-way,19.89,25.96,2,0.73,NA
+holmeto01,Tommy Holmes,11,1942,1952,35.41,8.32,1,1,OF,17.9,25.5,1,0.72,NA
+ritchcl01,Claude Ritchey,13,1897,1909,35.41,4.52,0,0,2B,11.63,19.15,0,0.54,NA
+reulbed01,Ed Reulbach,13,1905,1917,35.38,8.21,2,1,P,15.36,25.53,1,0.72,NA
+rhoderi01,Rick Rhoden,16,1974,1989,35.38,7.58,2,0,P,14.58,22.42,1,0.63,NA
+phillde01,Deacon Phillippe,13,1899,1911,35.36,5.9,2,0,P,15.12,23.67,1,0.67,NA
+perezsa02,Salvador Perez,13,2011,2024,35.32,5.27,1,0,C,10.71,15.93,1,0.45,NA
+encared01,Edwin Encarnacion,16,2005,2020,35.26,5.03,1,0,DH,12.95,21.55,1,0.61,NA
+vernomi01,Mickey Vernon,20,1939,1960,35.23,5.73,2,0,1B,11.29,15.62,1,0.44,NA
+reussje01,Jerry Reuss,22,1969,1990,35.12,5.7,2,0,P,13.49,18.2,1,0.52,NA
+yosted01,Eddie Yost,18,1944,1962,35.11,5.38,2,0,3B,12.36,20.06,1,0.57,NA
+fairlro01,Ron Fairly,21,1958,1978,35.08,4.52,0,0,1B,9.99,16.2,0,0.46,NA
+harenda01,Dan Haren,13,2003,2015,35.04,7.02,2,0,P,18.04,26.37,2,0.75,NA
+alexado01,Doyle Alexander,19,1971,1989,35.03,6.17,2,0,P,14.22,21.3,1,0.61,NA
+kendrho01,Howie Kendrick,15,2006,2020,35.02,6.1,1,0,2B,12.62,19.6,1,0.56,NA
+kennebr01,Brickyard Kennedy,12,1892,1903,35,5.98,3,0,P,14.56,20.36,2,0.58,NA
+anderbr01,Brady Anderson,15,1988,2002,34.98,6.92,3,0,OF,13.64,21.01,1,0.6,NA
+hadlebu01,Bump Hadley,16,1926,1941,34.98,6.9,2,0,P,12.63,20.88,1,0.6,NA
+gordoto01,Tom Gordon,21,1988,2009,34.95,4,0,0,P,8.19,13.96,0,0.4,NA
+whitewi01,Will White,10,1877,1886,34.93,11.3,3,2,P,26.53,30.32,3,0.87,NA
+whitede01,Deacon White,15,1876,1890,34.9,4.94,0,0,3B,9.78,15.54,0,0.45,NA
+burnsge02,George Burns,16,1914,1929,34.8,5.66,2,0,1B,10,16.55,1,0.48,NA
+gordoal01,Alex Gordon,14,2007,2020,34.8,7.26,3,0,OF,17.7,26.29,2,0.76,NA
+whitefr01,Frank White,18,1973,1990,34.79,4.08,0,0,2B,10.58,15.87,0,0.46,NA
+greensh01,Shawn Green,15,1993,2007,34.73,6.98,3,0,OF,17,27.44,2,0.79,NA
+dykesji01,Jimmy Dykes,22,1918,1939,34.71,4.13,0,0,3B,0,0,0,0,NA
+mcganda01,Dan McGann,12,1896,1908,34.7,5.52,1,0,1B,12.35,17.38,1,0.5,NA
+choosh01,Shin-Soo Choo,16,2005,2020,34.68,5.9,2,0,OF,14.97,21.22,2,0.61,NA
+furilca01,Carl Furillo,15,1946,1960,34.64,5.06,1,0,OF,12.05,16.08,1,0.46,NA
+weaveje02,Jered Weaver,12,2006,2017,34.63,6.87,2,0,P,16.51,23.65,2,0.68,NA
+cravaga01,Gavvy Cravath,11,1908,1920,34.62,7.1,2,0,OF,17.14,25.43,1,0.73,NA
+shantbo01,Bobby Shantz,16,1949,1964,34.59,9.36,1,1,P,14.83,19.24,1,0.56,NA
+leede02,Derrek Lee,15,1997,2011,34.58,7.74,2,0,1B,13.34,19.29,1,0.56,NA
+sallesl01,Slim Sallee,14,1908,1921,34.55,6.36,3,0,P,18.02,23.34,3,0.68,NA
+fordru01,Russ Ford,7,1909,1915,34.54,11.74,4,1,P,25.01,35.58,3,1.03,NA
+griffke01,Ken Griffey,19,1973,1991,34.54,4.59,0,0,OF,11.93,17.67,0,0.51,NA
+andruel01,Elvis Andrus,15,2009,2023,34.53,5.67,1,0,SS,11.53,16.25,1,0.47,NA
+cirilje01,Jeff Cirillo,14,1994,2007,34.53,5.9,2,0,3B,16.06,23.97,2,0.69,NA
+guerrpe01,Pedro Guerrero,15,1978,1992,34.45,7.96,3,0,OF,15.71,25.36,2,0.74,NA
+polleho01,Howie Pollet,14,1941,1956,34.43,6.81,2,0,P,11.6,19.92,1,0.58,NA
+surhobj01,B. J. Surhoff,19,1987,2005,34.4,5.14,1,0,OF,10.01,16,1,0.47,NA
+wakefti01,Tim Wakefield,19,1992,2011,34.38,5,1,0,P,10.38,16.05,1,0.47,NA
+frymatr01,Travis Fryman,13,1990,2002,34.37,5.2,1,0,3B,13.32,19.25,1,0.56,NA
+leeth01,Thornton Lee,16,1933,1948,34.33,9.03,2,1,P,16.96,27.28,1,0.79,NA
+mcgeewi01,Willie McGee,18,1982,1999,34.3,8.21,2,1,OF,15.36,19.28,1,0.56,NA
+tayloja02,Jack Taylor,10,1898,1907,34.29,9.99,3,1,P,21.4,30.4,1,0.89,NA
+lowede01,Derek Lowe,17,1997,2013,34.28,7.3,1,0,P,12.92,19.13,1,0.56,NA
+garcifr02,Freddy Garcia,15,1999,2013,34.18,5.38,1,0,P,12.1,16.67,1,0.49,NA
+carpech01,Chris Carpenter,15,1997,2012,34.17,6.76,2,0,P,13.14,17.32,1,0.51,NA
+rendoan01,Anthony Rendon,12,2013,2024,34.16,7.25,4,0,3B,18.6,25.09,3,0.73,NA
+tudorjo01,John Tudor,12,1979,1990,34.16,8.24,1,1,P,15.61,22.04,1,0.65,NA
+hurstbr01,Bruce Hurst,15,1980,1994,34.13,6.22,1,0,P,14.22,22.62,1,0.66,NA
+howelha01,Harry Howell,13,1898,1910,34.12,6.7,2,0,P,16.41,25.38,2,0.74,NA
+mcmanma01,Marty McManus,15,1920,1934,34.12,4.47,0,0,2B,11.56,16.57,0,0.49,NA
+allisbo01,Bob Allison,13,1958,1970,34.1,7.38,2,0,OF,18.43,24.76,2,0.73,NA
+brantmi02,Michael Brantley,15,2009,2023,34.1,6.95,1,0,OF,13.7,19.08,1,0.56,NA
+gantro01,Ron Gant,16,1987,2003,34.1,6.51,2,0,OF,12.04,16.91,1,0.5,NA
+peskyjo01,Johnny Pesky,10,1942,1954,34.05,7.18,2,0,SS,15.29,22.63,1,0.66,NA
+mcmulke01,Ken McMullen,16,1962,1977,34.03,5.88,1,0,3B,15.16,21.84,1,0.64,NA
+killefr01,Frank Killen,10,1891,1900,33.99,8.47,2,2,P,16.17,24.8,1,0.73,NA
+klubeco01,Corey Kluber,13,2011,2023,33.98,8.14,4,1,P,19.51,31.9,3,0.94,NA
+sutclri01,Rick Sutcliffe,18,1976,1994,33.89,6.52,2,0,P,14.03,20.27,1,0.6,NA
+cuccito01,Tony Cuccinello,15,1930,1945,33.87,5.64,2,0,2B,13.23,17.69,2,0.52,NA
+thompro01,Robby Thompson,11,1986,1996,33.85,6.34,3,0,2B,15.49,23.27,1,0.69,NA
+durhara01,Ray Durham,14,1995,2008,33.84,4.57,0,0,2B,12.07,18.87,0,0.56,NA
+grantge01,George Grantham,13,1922,1934,33.78,4.25,0,0,2B,11.32,18.46,0,0.55,NA
+thomsbo01,Bobby Thomson,15,1946,1960,33.78,6.38,2,0,OF,14.64,20.66,1,0.61,NA
+nashbi01,Billy Nash,15,1884,1898,33.75,5.34,1,0,3B,12.14,17.25,1,0.51,NA
+markani01,Nick Markakis,15,2006,2020,33.72,7.43,1,0,OF,14.51,19.53,1,0.58,NA
+olsonma02,Matt Olson,9,2016,2024,33.69,7.54,3,0,1B,16.77,23.12,1,0.69,NA
+adcocjo01,Joe Adcock,17,1950,1966,33.51,4.81,0,0,1B,11.28,15.35,0,0.46,NA
+ellisma01,Mark Ellis,12,2002,2014,33.5,4.78,0,0,2B,12.04,17.2,0,0.51,NA
+dimagdo01,Dom DiMaggio,11,1940,1953,33.49,5.32,1,0,OF,11.93,19.47,1,0.58,NA
+caminke01,Ken Caminiti,15,1987,2001,33.47,7.6,1,0,3B,14.8,21.31,1,0.64,NA
+schalra01,Ray Schalk,18,1912,1929,33.4,4.43,0,0,C,11.72,17.07,0,0.51,NA
+leibrch01,Charlie Leibrandt,14,1979,1993,33.35,6.58,3,0,P,15.88,22.61,2,0.68,NA
+fletcel01,Elbie Fletcher,12,1934,1949,33.34,5.89,3,0,1B,16.29,22.93,3,0.69,NA
+haddiha01,Harvey Haddix,14,1952,1965,33.31,7.3,1,0,P,13.35,18.59,1,0.56,NA
+loganjo01,Johnny Logan,13,1951,1963,33.29,5.95,2,0,SS,15.59,22.82,2,0.69,NA
+burgesm01,Smoky Burgess,18,1949,1967,33.26,3.88,0,0,C,9.61,0,0,0,NA
+darviyu01,Yu Darvish,12,2012,2024,33.26,5.54,1,0,P,12.6,12.35,1,0.37,NA
+woodlge01,Gene Woodling,17,1943,1962,33.25,4.55,0,0,OF,11.79,15.48,0,0.47,NA
+murphdw01,Dwayne Murphy,12,1978,1989,33.24,6.9,2,0,OF,17.14,23.17,1,0.7,NA
+zimmehe01,Heinie Zimmerman,13,1907,1919,33.17,7.17,2,0,3B,15.04,19.81,1,0.6,NA
+mondari01,Rick Monday,19,1966,1984,33.14,4.4,0,0,OF,11.2,16.18,0,0.49,NA
+hoydu01,Billy Hoy,14,1888,1902,33.12,4.32,0,0,OF,9.33,0,0,0,NA
+torgeea01,Earl Torgeson,15,1947,1961,33.08,5.94,1,0,1B,11.33,17.83,1,0.54,NA
+williji01,Jimmy Williams,11,1899,1909,33.06,7.2,1,0,2B,13.12,19.82,1,0.6,NA
+keltnke01,Ken Keltner,13,1937,1950,33.02,6.05,2,0,3B,10.92,17.13,1,0.52,NA
+hebneri01,Richie Hebner,18,1968,1985,32.98,5.31,1,0,3B,11.63,17.12,1,0.52,NA
+jordabr01,Brian Jordan,15,1992,2006,32.94,7.03,3,0,OF,13.35,21.97,2,0.67,NA
+elberki01,Kid Elberfeld,14,1898,1914,32.93,5.39,1,0,SS,12.36,18.73,1,0.57,NA
+mungova01,Van Mungo,14,1931,1945,32.89,6.31,3,0,P,14.81,24.63,2,0.75,NA
+doranbi02,Bill Doran,12,1982,1993,32.79,5.35,1,0,2B,14.17,22.38,1,0.68,NA
+haineje01,Jesse Haines,19,1918,1937,32.75,5.24,1,0,P,12.35,0,1,0,NA
+fernasi01,Sid Fernandez,15,1983,1997,32.74,6.32,1,0,P,10.56,16.8,1,0.51,NA
+stephri01,Riggs Stephenson,14,1921,1934,32.68,4.99,0,0,OF,13.77,16.96,0,0.52,NA
+coopemo01,Mort Cooper,11,1938,1949,32.67,8.29,3,1,P,19.28,24.5,3,0.75,NA
+rivermi01,Mickey Rivers,15,1970,1984,32.67,6.41,2,0,OF,15.25,22.09,2,0.68,NA
+huntro01,Ron Hunt,12,1963,1974,32.65,5.09,1,0,2B,11.13,18.43,1,0.56,NA
+hentgpa01,Pat Hentgen,14,1991,2004,32.61,8.55,3,1,P,16.02,24.8,2,0.76,NA
+cartyri01,Rico Carty,15,1963,1979,32.58,5.82,1,0,OF,11.59,0,1,0,NA
+valenjo02,John Valentin,11,1992,2002,32.53,8.3,2,1,SS,17.87,25.63,1,0.79,NA
+marquru01,Rube Marquard,18,1908,1925,32.52,6.19,3,0,P,17.84,17.87,3,0.55,NA
+westsa01,Sam West,16,1927,1942,32.5,4.66,0,0,OF,11.1,18.17,0,0.56,NA
+jonesad01,Adam Jones,14,2006,2019,32.46,4.8,0,0,OF,13.69,20.4,0,0.63,NA
+renteed01,Edgar Renteria,16,1996,2011,32.44,5.55,1,0,SS,11.93,17.45,1,0.54,NA
+youngro01,Ross Youngs,10,1917,1926,32.42,6.58,2,0,OF,14.34,23.98,1,0.74,NA
+youklke01,Kevin Youkilis,10,2004,2013,32.39,6.55,3,0,1B,18.24,26.73,3,0.83,NA
+lawve01,Vern Law,16,1950,1967,32.34,6.61,2,0,P,12.5,15.67,1,0.48,NA
+ramirar01,Aramis Ramirez,18,1998,2015,32.34,5.58,2,0,3B,12.38,19.74,1,0.61,NA
+strasst01,Stephen Strasburg,13,2010,2022,32.34,6.51,2,0,P,14.8,20.41,1,0.63,NA
+erstada01,Darin Erstad,14,1996,2009,32.29,8.33,2,1,OF,17.61,22.65,1,0.7,NA
+rosenal01,Al Rosen,10,1947,1956,32.27,10.06,3,1,3B,20.47,29.79,2,0.92,NA
+cullero01,Roy Cullenbine,10,1938,1947,32.23,5.5,3,0,OF,14.94,23.87,2,0.74,NA
+dennyjo01,John Denny,13,1974,1986,32.2,7.54,3,0,P,14.09,18.46,1,0.57,NA
+uptonju01,Justin Upton,16,2007,2022,32.17,5.63,2,0,OF,11.44,18.24,1,0.57,NA
+lopated01,Eddie Lopat,12,1944,1955,32.16,5.78,1,0,P,12.68,20.15,1,0.63,NA
+siebeso01,Sonny Siebert,12,1964,1975,32.13,6.55,1,0,P,14.43,20.34,1,0.63,NA
+murcebo01,Bobby Murcer,17,1965,1983,32.08,8.18,3,1,OF,19.77,26.4,3,0.82,NA
+grayso01,Sonny Gray,12,2013,2024,31.94,6.12,3,0,P,11.08,17.99,1,0.56,NA
+zitoba01,Barry Zito,15,2000,2015,31.94,7.11,2,0,P,16.78,22.95,2,0.72,NA
+dierkla01,Larry Dierker,14,1964,1977,31.92,8.43,1,1,P,15.53,20.71,1,0.65,NA
+fletcsc01,Scott Fletcher,15,1981,1995,31.92,4.84,0,0,2B,11.89,16.19,0,0.51,NA
+antonjo02,Johnny Antonelli,12,1948,1961,31.87,7.56,2,0,P,18.19,25.82,1,0.81,NA
+hendrcl01,Claude Hendrix,10,1911,1920,31.83,8.03,2,1,P,18.54,23.64,1,0.74,NA
+marioma01,Marty Marion,13,1940,1953,31.76,4.76,0,0,SS,13.46,20.06,0,0.63,NA
+martivi01,Victor Martinez,16,2002,2018,31.76,5.51,2,0,C,12.33,16.6,1,0.52,NA
+devliji01,Jim Devlin,2,1876,1877,31.7,18.28,2,2,P,0,0,2,0,NA
+galaran01,Andres Galarraga,19,1985,2004,31.7,5.7,2,0,1B,13.01,16.05,1,0.51,NA
+mccorfr01,Frank McCormick,13,1934,1948,31.69,5.7,2,0,1B,13.31,18.14,1,0.57,NA
+ferguch01,Charlie Ferguson,4,1884,1887,31.66,11.7,3,3,P,29.76,0,3,0,NA
+joosted01,Eddie Joost,17,1936,1955,31.65,6.98,2,0,SS,14.87,22.13,1,0.7,NA
+valenjo03,Jose Valentin,16,1992,2007,31.62,4.9,0,0,SS,11.19,16.92,0,0.54,NA
+branded01,Ed Brandt,11,1928,1938,31.61,6.19,3,0,P,14.78,20.61,1,0.65,NA
+mccanbr01,Brian McCann,15,2005,2019,31.59,5.47,1,0,C,12.27,17.58,1,0.56,NA
+yorkru01,Rudy York,13,1934,1948,31.56,6.07,1,0,1B,11.96,18.03,1,0.57,NA
+stahlch01,Chick Stahl,10,1897,1906,31.5,5.75,1,0,OF,11.91,17.66,1,0.56,NA
+benesan01,Andy Benes,14,1989,2002,31.46,4.79,0,0,P,11.55,17.78,0,0.57,NA
+leebi02,Bill Lee,14,1934,1947,31.44,8.22,1,1,P,16.81,23.61,1,0.75,NA
+pippwa01,Wally Pipp,15,1913,1928,31.44,4.58,0,0,1B,10.69,14.96,0,0.48,NA
+kluszte01,Ted Kluszewski,15,1947,1961,31.43,7.76,2,0,1B,17.85,24.68,2,0.79,NA
+victosh01,Shane Victorino,12,2003,2015,31.42,6.02,2,0,OF,14.51,21.24,1,0.68,NA
+hartsto01,Topsy Hartsel,14,1898,1911,31.41,5.6,1,0,OF,11.64,18.05,1,0.57,NA
+boddimi01,Mike Boddicker,14,1980,1993,31.31,5.9,2,0,P,13.03,19.04,1,0.61,NA
+russebi01,Bill Russell,18,1969,1986,31.26,4.89,0,0,SS,0,0,0,0,NA
+hafeych01,Chick Hafey,13,1924,1937,31.21,5.25,1,0,OF,13.55,21.9,1,0.7,NA
+marteke01,Ketel Marte,10,2015,2024,31.18,6.88,2,0,2B,13.07,16.65,1,0.53,NA
+terryad01,Adonis Terry,14,1884,1897,31.17,6.24,1,0,P,13.85,19.24,1,0.62,NA
+joycebi01,Bill Joyce,8,1890,1898,31.16,6.19,2,0,3B,15.45,23.57,1,0.76,NA
+sherdbi01,Bill Sherdel,15,1918,1932,31.14,6.11,2,0,P,11.6,20.06,1,0.64,NA
+storytr01,Trevor Story,9,2016,2024,31.06,6.91,2,0,SS,15.96,22.83,2,0.74,NA
+webbbr01,Brandon Webb,7,2003,2009,31.05,6.94,4,0,P,18.31,25.85,3,0.83,NA
+raffeke01,Ken Raffensberger,15,1939,1954,30.98,5.84,2,0,P,13.81,21.27,1,0.69,NA
+beaumgi01,Ginger Beaumont,12,1899,1910,30.96,5.06,1,0,OF,12.84,18.39,1,0.59,NA
+ellsbja01,Jacoby Ellsbury,11,2007,2017,30.96,8.34,2,1,OF,15.03,20.3,1,0.66,NA
+pencehu01,Hunter Pence,14,2007,2020,30.92,5.73,1,0,OF,12.69,18.43,1,0.6,NA
+bagbyji01,Jim Bagby,9,1912,1923,30.91,9.48,2,2,P,18.58,31.01,1,1,NA
+hudsoor01,Orlando Hudson,11,2002,2012,30.9,5.15,1,0,2B,12.78,20.34,1,0.66,NA
+farredu01,Duke Farrell,18,1888,1905,30.86,5.3,1,0,C,10.27,0,1,0,NA
+vaughgr01,Greg Vaughn,15,1989,2003,30.83,6.66,2,0,OF,12.83,16.15,1,0.52,NA
+martijd02,J. D. Martinez,14,2011,2024,30.78,6.67,2,0,OF,14.13,22.56,1,0.73,NA
+chambel01,Ice Box Chamberlain,10,1886,1896,30.68,9.17,1,1,P,16.44,23.88,1,0.78,NA
+shielja02,James Shields,13,2006,2018,30.67,5.75,2,0,P,12.97,18.53,1,0.6,NA
+barrji01,Jim Barr,12,1971,1983,30.66,6.78,3,0,P,18.23,24.21,3,0.79,NA
+marbefi01,Firpo Marberry,14,1923,1936,30.65,7.15,1,0,P,14.75,21.1,1,0.69,NA
+hudliwi01,Willis Hudlin,16,1926,1944,30.64,7.32,2,0,P,15.45,20.58,1,0.67,NA
+speiech01,Chris Speier,19,1971,1989,30.64,6.05,1,0,SS,9.86,16.66,1,0.54,NA
+wiltsho01,Hooks Wiltse,12,1904,1915,30.53,7.64,1,0,P,15.81,21.68,1,0.71,NA
+ferreri01,Rick Ferrell,18,1929,1947,30.51,3.43,0,0,C,0,15.27,0,0.5,NA
+lathaar01,Arlie Latham,17,1880,1909,30.51,5.55,1,0,3B,10.89,0,1,0,NA
+maglisa01,Sal Maglie,10,1945,1958,30.5,5.9,1,0,P,14,20.13,1,0.66,NA
+swindgr01,Greg Swindell,17,1986,2002,30.49,5.92,1,0,P,11.59,20.34,1,0.67,NA
+hillejo01,John Hiller,15,1965,1980,30.43,7.87,1,0,P,14.93,20.81,1,0.68,NA
+matthga01,Gary Matthews,16,1972,1987,30.41,4.39,0,0,OF,9.58,0,0,0,NA
+nuxhajo01,Joe Nuxhall,16,1944,1966,30.38,4.91,0,0,P,10.6,0,0,0,NA
+hargrmi01,Mike Hargrove,12,1974,1985,30.36,5.46,1,0,1B,12.39,17.1,1,0.56,NA
+laryfr01,Frank Lary,12,1954,1965,30.35,6.71,2,0,P,14.98,21.59,1,0.71,NA
+travice01,Cecil Travis,12,1933,1947,30.35,6.76,2,0,3B,13.22,23.4,1,0.77,NA
+higuete01,Teddy Higuera,9,1985,1994,30.34,9.39,3,1,P,23.08,28.92,3,0.95,NA
+quintjo01,Jose Quintana,13,2012,2024,30.34,5.3,2,0,P,12.35,19.74,1,0.65,NA
+kuheljo01,Joe Kuhel,18,1930,1947,30.31,4.34,0,0,1B,0,0,0,0,NA
+peraljh01,Jhonny Peralta,15,2003,2017,30.29,5.76,2,0,SS,9.94,16.19,1,0.53,NA
+garcimi01,Mike Garcia,14,1948,1961,30.28,5.28,1,0,P,14.35,21.42,1,0.71,NA
+bonilbo01,Bobby Bonilla,16,1986,2001,30.24,5.09,1,0,OF,13.94,20.79,1,0.69,NA
+laniema01,Max Lanier,14,1938,1953,30.23,4.56,0,0,P,12.36,17.21,0,0.57,NA
+titusjo01,John Titus,11,1903,1913,30.22,5.52,1,0,OF,11.99,18.37,1,0.61,NA
+johnsla03,Lance Johnson,14,1987,2000,30.19,7.17,2,0,OF,12.82,22.35,1,0.74,NA
+williwo02,Woody Williams,15,1993,2007,30.19,4.24,0,0,P,10.43,16.17,0,0.54,NA
+mcreyke01,Kevin McReynolds,12,1983,1994,30.1,5.41,1,0,OF,12.04,19.22,1,0.64,NA
+cabreas01,Asdrubal Cabrera,15,2007,2021,30.09,4.68,0,0,SS,10.32,16.59,0,0.55,NA
+lollash01,Sherm Lollar,18,1946,1963,30.06,3.72,0,0,C,9.21,15.77,0,0.52,NA
+lemahdj01,DJ LeMahieu,14,2011,2024,30.01,5.57,2,0,2B,11.47,19.93,1,0.66,NA

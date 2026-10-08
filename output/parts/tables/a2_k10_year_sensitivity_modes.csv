@@ -1,0 +1,31 @@
+mode,rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+"strict (raw WAR, calendar-consecutive)",1,Walter Johnson,johnswa01,1910,1919,10,120.26,12.03,11.0 / 9.0 / 15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8 / 11.0,Pitcher,P,MIN,AL,22,TRUE,0,8.85,111.41
+"strict (raw WAR, calendar-consecutive)",2,Babe Ruth,ruthba01,1919,1928,10,103.86,10.39,10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3 / 3.5 / 11.4 / 12.6 / 10.2,Two-way / mixed,OF,NYY,AL,24,TRUE,0,103.46,0.4
+"strict (raw WAR, calendar-consecutive)",3,Kid Nichols,nichoki01,1890,1899,10,97.28,9.73,13.0 / 9.3 / 8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8 / 7.6,Pitcher,P,ATL,NL,20,FALSE,0,-1.52,98.8
+"strict (raw WAR, calendar-consecutive)",4,Willie Mays,mayswi01,1957,1966,10,96.88,9.69,8.3 / 10.2 / 7.8 / 9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,26,FALSE,0,96.88,0
+"strict (raw WAR, calendar-consecutive)",5,Cy Young,youngcy01,1892,1901,10,96.33,9.63,13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6 / 8.2 / 7.1 / 12.4,Pitcher,P,CLV,Mixed,25,FALSE,0,-2.9,99.23
+"strict (raw WAR, calendar-consecutive)",6,Rogers Hornsby,hornsro01,1920,1929,10,93.85,9.38,9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2 / 4.4 / 10.2 / 8.9 / 10.6,Hitter,2B,STL,NL,24,FALSE,0,93.85,0
+"strict (raw WAR, calendar-consecutive)",7,Lou Gehrig,gehrilo01,1927,1936,10,90.39,9.04,11.8 / 9.5 / 7.5 / 9.6 / 8.6 / 8.2 / 7.1 / 10.0 / 8.3 / 9.7,Hitter,1B,NYY,AL,24,FALSE,0,90.39,0
+"strict (raw WAR, calendar-consecutive)",8,Barry Bonds,bondsba01,1995,2004,10,88.37,8.84,7.5 / 9.6 / 8.2 / 8.1 / 3.8 / 7.7 / 11.9 / 11.7 / 9.2 / 10.6,Hitter,OF,SFG,NL,30,TRUE,0,88.37,0
+"strict (raw WAR, calendar-consecutive)",9,Christy Mathewson,mathech01,1903,1912,10,87.65,8.77,10.8 / 6.0 / 10.5 / 3.3 / 8.8 / 11.8 / 10.6 / 9.1 / 8.2 / 8.5,Pitcher,P,SFG,NL,22,FALSE,0,5.32,82.33
+"strict (raw WAR, calendar-consecutive)",10,Ty Cobb,cobbty01,1909,1918,10,86.99,8.7,9.9 / 10.3 / 10.5 / 8.8 / 7.0 / 5.5 / 9.5 / 8.0 / 11.0 / 6.4,Hitter,OF,DET,AL,22,TRUE,0,87,-0.01
+service-adjusted (known military gaps bridged),1,Walter Johnson,johnswa01,1910,1919,10,120.26,12.03,11.0 / 9.0 / 15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8 / 11.0,Pitcher,P,MIN,AL,22,TRUE,0,8.85,111.41
+service-adjusted (known military gaps bridged),2,Babe Ruth,ruthba01,1919,1928,10,103.86,10.39,10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3 / 3.5 / 11.4 / 12.6 / 10.2,Two-way / mixed,OF,NYY,AL,24,TRUE,0,103.46,0.4
+service-adjusted (known military gaps bridged),3,Kid Nichols,nichoki01,1890,1899,10,97.28,9.73,13.0 / 9.3 / 8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8 / 7.6,Pitcher,P,ATL,NL,20,FALSE,0,-1.52,98.8
+service-adjusted (known military gaps bridged),4,Willie Mays,mayswi01,1957,1966,10,96.88,9.69,8.3 / 10.2 / 7.8 / 9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,26,FALSE,0,96.88,0
+service-adjusted (known military gaps bridged),5,Cy Young,youngcy01,1892,1901,10,96.33,9.63,13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6 / 8.2 / 7.1 / 12.4,Pitcher,P,CLV,Mixed,25,FALSE,0,-2.9,99.23
+service-adjusted (known military gaps bridged),6,Rogers Hornsby,hornsro01,1920,1929,10,93.85,9.38,9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2 / 4.4 / 10.2 / 8.9 / 10.6,Hitter,2B,STL,NL,24,FALSE,0,93.85,0
+service-adjusted (known military gaps bridged),7,Lou Gehrig,gehrilo01,1927,1936,10,90.39,9.04,11.8 / 9.5 / 7.5 / 9.6 / 8.6 / 8.2 / 7.1 / 10.0 / 8.3 / 9.7,Hitter,1B,NYY,AL,24,FALSE,0,90.39,0
+service-adjusted (known military gaps bridged),8,Barry Bonds,bondsba01,1995,2004,10,88.37,8.84,7.5 / 9.6 / 8.2 / 8.1 / 3.8 / 7.7 / 11.9 / 11.7 / 9.2 / 10.6,Hitter,OF,SFG,NL,30,TRUE,0,88.37,0
+service-adjusted (known military gaps bridged),9,Christy Mathewson,mathech01,1903,1912,10,87.65,8.77,10.8 / 6.0 / 10.5 / 3.3 / 8.8 / 11.8 / 10.6 / 9.1 / 8.2 / 8.5,Pitcher,P,SFG,NL,22,FALSE,0,5.32,82.33
+service-adjusted (known military gaps bridged),10,Ty Cobb,cobbty01,1909,1918,10,86.99,8.7,9.9 / 10.3 / 10.5 / 8.8 / 7.0 / 5.5 / 9.5 / 8.0 / 11.0 / 6.4,Hitter,OF,DET,AL,22,TRUE,0,87,-0.01
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),1,Walter Johnson,johnswa01,1910,1919,10,120.26,12.03,11.0 / 9.0 / 15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8 / 11.0,Pitcher,P,MIN,AL,22,TRUE,0,8.85,111.41
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),2,Babe Ruth,ruthba01,1919,1928,10,103.86,10.39,10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3 / 3.5 / 11.4 / 12.6 / 10.2,Two-way / mixed,OF,NYY,AL,24,TRUE,0,103.46,0.4
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),3,Kid Nichols,nichoki01,1890,1899,10,97.28,9.73,13.0 / 9.3 / 8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8 / 7.6,Pitcher,P,ATL,NL,20,FALSE,0,-1.52,98.8
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),4,Willie Mays,mayswi01,1957,1966,10,96.88,9.69,8.3 / 10.2 / 7.8 / 9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,26,FALSE,0,96.88,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),5,Cy Young,youngcy01,1892,1901,10,96.33,9.63,13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6 / 8.2 / 7.1 / 12.4,Pitcher,P,CLV,Mixed,25,FALSE,0,-2.9,99.23
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),6,Rogers Hornsby,hornsro01,1920,1929,10,93.85,9.38,9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2 / 4.4 / 10.2 / 8.9 / 10.6,Hitter,2B,STL,NL,24,FALSE,0,93.85,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),7,Lou Gehrig,gehrilo01,1927,1936,10,90.39,9.04,11.8 / 9.5 / 7.5 / 9.6 / 8.6 / 8.2 / 7.1 / 10.0 / 8.3 / 9.7,Hitter,1B,NYY,AL,24,FALSE,0,90.39,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),8,Barry Bonds,bondsba01,1995,2004,10,88.37,8.84,7.5 / 9.6 / 8.2 / 8.1 / 3.8 / 7.7 / 11.9 / 11.7 / 9.2 / 10.6,Hitter,OF,SFG,NL,30,TRUE,0,88.37,0
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),9,Ty Cobb,cobbty01,1909,1918,10,86.99,8.7,9.9 / 10.3 / 10.5 / 8.8 / 7.0 / 5.5 / 9.5 / 8.0 / 11.0 / 6.4,Hitter,OF,DET,AL,22,TRUE,0,87,-0.01
+pace-adjusted (1918/19/81/94/95/2020 scaled to full season),10,Christy Mathewson,mathech01,1903,1912,10,87.65,8.77,10.8 / 6.0 / 10.5 / 3.3 / 8.8 / 11.8 / 10.6 / 9.1 / 8.2 / 8.5,Pitcher,P,SFG,NL,22,FALSE,0,5.32,82.33

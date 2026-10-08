@@ -1,0 +1,41 @@
+rank,name,playerID,start,end,k,WAR_sum,WAR_avg,war_seq,role_label,pos_group,franch_peak,league,age_start,short,skipped_years,WAR_bat,WAR_pit
+1,Walter Johnson,johnswa01,1912,1918,7,89.35,12.76,15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8,Pitcher,P,MIN,AL,24,TRUE,0,8,81.35
+2,Walter Johnson,johnswa01,1910,1916,7,89.07,12.72,11.0 / 9.0 / 15.4 / 16.6 / 13.1 / 12.8 / 11.2,Pitcher,P,MIN,AL,22,FALSE,0,6.13,82.94
+3,Walter Johnson,johnswa01,1911,1917,7,86.47,12.35,9.0 / 15.4 / 16.6 / 13.1 / 12.8 / 11.2 / 8.4,Pitcher,P,MIN,AL,23,FALSE,0,6.98,79.49
+4,Walter Johnson,johnswa01,1913,1919,7,84.95,12.14,16.6 / 13.1 / 12.8 / 11.2 / 8.4 / 11.8 / 11.0,Pitcher,P,MIN,AL,25,TRUE,0,7.04,77.91
+5,Walter Johnson,johnswa01,1909,1915,7,81.61,11.66,3.8 / 11.0 / 9.0 / 15.4 / 16.6 / 13.1 / 12.8,Pitcher,P,MIN,AL,21,FALSE,0,4.91,76.7
+6,Walter Johnson,johnswa01,1908,1914,7,74.08,10.58,5.3 / 3.8 / 11.0 / 9.0 / 15.4 / 16.6 / 13.1,Pitcher,P,MIN,AL,20,FALSE,0,4.49,69.59
+7,John Clarkson,clarkjo01,1885,1891,7,73.75,10.54,12.8 / 6.8 / 15.0 / 4.2 / 16.2 / 8.9 / 9.9,Pitcher,P,ATL,NL,23,FALSE,0,-0.7,74.45
+8,Babe Ruth,ruthba01,1918,1924,7,73.26,10.47,7.0 / 10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3,Two-way / mixed,OF,NYY,AL,23,TRUE,0,70.55,2.71
+9,Babe Ruth,ruthba01,1921,1927,7,71.92,10.27,12.6 / 6.4 / 14.1 / 11.3 / 3.5 / 11.4 / 12.6,Hitter,OF,NYY,AL,26,FALSE,0,72.18,-0.26
+10,Babe Ruth,ruthba01,1926,1932,7,71.72,10.25,11.4 / 12.6 / 10.2 / 8.1 / 10.5 / 10.6 / 8.5,Hitter,OF,NYY,AL,31,FALSE,0,71.5,0.22
+11,Walter Johnson,johnswa01,1914,1920,7,71.25,10.18,13.1 / 12.8 / 11.2 / 8.4 / 11.8 / 11.0 / 2.9,Pitcher,P,MIN,AL,26,TRUE,0,6.02,65.23
+12,Babe Ruth,ruthba01,1920,1926,7,71.17,10.17,11.8 / 12.6 / 6.4 / 14.1 / 11.3 / 3.5 / 11.4,Hitter,OF,NYY,AL,25,FALSE,0,71.55,-0.38
+13,Babe Ruth,ruthba01,1923,1929,7,71.16,10.17,14.1 / 11.3 / 3.5 / 11.4 / 12.6 / 10.2 / 8.1,Hitter,OF,NYY,AL,28,FALSE,0,71.16,0
+14,Willie Mays,mayswi01,1960,1966,7,70.55,10.08,9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0,Hitter,OF,SFG,NL,29,FALSE,0,70.55,0
+15,Babe Ruth,ruthba01,1917,1923,7,70.5,10.07,8.6 / 7.0 / 10.0 / 11.8 / 12.6 / 6.4 / 14.1,Two-way / mixed,OF,NYY,AL,22,TRUE,0,61.22,9.28
+16,Babe Ruth,ruthba01,1919,1925,7,69.73,9.96,10.0 / 11.8 / 12.6 / 6.4 / 14.1 / 11.3 / 3.5,Two-way / mixed,OF,NYY,AL,24,TRUE,0,69.33,0.4
+17,Babe Ruth,ruthba01,1922,1928,7,69.47,9.92,6.4 / 14.1 / 11.3 / 3.5 / 11.4 / 12.6 / 10.2,Hitter,OF,NYY,AL,27,FALSE,0,69.47,0
+18,Willie Mays,mayswi01,1959,1965,7,69.38,9.91,7.8 / 9.5 / 8.7 / 10.5 / 10.6 / 11.0 / 11.2,Hitter,OF,SFG,NL,28,FALSE,0,69.38,0
+19,Cy Young,youngcy01,1892,1898,7,68.63,9.8,13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8 / 7.6,Pitcher,P,CLV,NL,25,FALSE,0,-2.43,71.06
+20,Willie Mays,mayswi01,1958,1964,7,68.4,9.77,10.2 / 7.8 / 9.5 / 8.7 / 10.5 / 10.6 / 11.0,Hitter,OF,SFG,NL,27,FALSE,0,68.4,0
+21,Babe Ruth,ruthba01,1924,1930,7,67.53,9.65,11.3 / 3.5 / 11.4 / 12.6 / 10.2 / 8.1 / 10.5,Hitter,OF,NYY,AL,29,FALSE,0,67.31,0.22
+22,Kid Nichols,nichoki01,1892,1898,7,67.37,9.62,8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8,Pitcher,P,ATL,NL,22,FALSE,0,-0.64,68.01
+23,Cy Young,youngcy01,1891,1897,7,67.14,9.59,6.1 / 13.0 / 10.6 / 8.5 / 11.6 / 10.5 / 6.8,Pitcher,P,CLV,NL,24,FALSE,0,-3.46,70.6
+24,Babe Ruth,ruthba01,1916,1922,7,66.76,9.54,10.4 / 8.6 / 7.0 / 10.0 / 11.8 / 12.6 / 6.4,Two-way / mixed,OF,NYY,AL,21,TRUE,0,48.72,18.04
+25,Babe Ruth,ruthba01,1925,1931,7,66.74,9.53,3.5 / 11.4 / 12.6 / 10.2 / 8.1 / 10.5 / 10.6,Hitter,OF,NYY,AL,30,FALSE,0,66.52,0.22
+26,Kid Nichols,nichoki01,1890,1896,7,66.69,9.53,13.0 / 9.3 / 8.8 / 11.7 / 8.2 / 9.5 / 6.2,Pitcher,P,ATL,NL,20,FALSE,0,-1.43,68.12
+27,Babe Ruth,ruthba01,1927,1933,7,66.53,9.5,12.6 / 10.2 / 8.1 / 10.5 / 10.6 / 8.5 / 6.2,Hitter,OF,NYY,AL,32,FALSE,0,66.32,0.21
+28,Tim Keefe,keefeti01,1882,1888,7,66.42,9.49,5.2 / 20.2 / 8.3 / 6.6 / 9.4 / 7.5 / 9.1,Pitcher,P,NYP,Mixed,25,FALSE,0,0.18,66.24
+29,Rogers Hornsby,hornsro01,1919,1925,7,66.26,9.47,6.5 / 9.7 / 10.9 / 10.1 / 6.8 / 12.1 / 10.2,Hitter,2B,STL,NL,23,TRUE,0,66.26,0
+30,Kid Nichols,nichoki01,1893,1899,7,66.21,9.46,11.7 / 8.2 / 9.5 / 6.2 / 11.1 / 11.8 / 7.6,Pitcher,P,ATL,NL,23,FALSE,0,-1.06,67.27
+31,John Clarkson,clarkjo01,1886,1892,7,66.04,9.43,6.8 / 15.0 / 4.2 / 16.2 / 8.9 / 9.9 / 5.1,Pitcher,P,ATL,NL,24,FALSE,0,-1.16,67.2
+32,John Clarkson,clarkjo01,1884,1890,7,65.77,9.4,1.9 / 12.8 / 6.8 / 15.0 / 4.2 / 16.2 / 8.9,Pitcher,P,ATL,NL,22,FALSE,0,-0.63,66.4
+33,Willie Mays,mayswi01,1957,1963,7,65.67,9.38,8.3 / 10.2 / 7.8 / 9.5 / 8.7 / 10.5 / 10.6,Hitter,OF,SFG,NL,26,FALSE,0,65.67,0
+34,Willie Mays,mayswi01,1961,1967,7,65.4,9.34,8.7 / 10.5 / 10.6 / 11.0 / 11.2 / 9.0 / 4.3,Hitter,OF,SFG,NL,30,FALSE,0,65.4,0
+35,Honus Wagner,wagneho01,1903,1909,7,65.09,9.3,7.6 / 8.3 / 10.2 / 9.3 / 9.0 / 11.5 / 9.2,Hitter,SS,PIT,NL,29,FALSE,0,65.09,0
+36,Kid Nichols,nichoki01,1891,1897,7,64.8,9.26,9.3 / 8.8 / 11.7 / 8.2 / 9.5 / 6.2 / 11.1,Pitcher,P,ATL,NL,21,FALSE,0,-1.14,65.94
+37,Rogers Hornsby,hornsro01,1921,1927,7,64.7,9.24,10.9 / 10.1 / 6.8 / 12.1 / 10.2 / 4.4 / 10.2,Hitter,2B,STL,NL,25,FALSE,0,64.7,0
+38,Tim Keefe,keefeti01,1883,1889,7,64.58,9.23,20.2 / 8.3 / 6.6 / 9.4 / 7.5 / 9.1 / 3.4,Pitcher,P,NYP,Mixed,26,FALSE,0,-1.37,65.95
+39,Babe Ruth,ruthba01,1915,1921,7,64.53,9.22,4.1 / 10.4 / 8.6 / 7.0 / 10.0 / 11.8 / 12.6,Two-way / mixed,OF,NYY,AL,20,TRUE,0,44.11,20.42
+40,Christy Mathewson,mathech01,1907,1913,7,64.23,9.18,8.8 / 11.8 / 10.6 / 9.1 / 8.2 / 8.5 / 7.2,Pitcher,P,SFG,NL,26,FALSE,0,2.7,61.53

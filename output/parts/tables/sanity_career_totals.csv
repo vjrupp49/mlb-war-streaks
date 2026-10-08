@@ -1,0 +1,17 @@
+playerID,name,model,expected,diff,ok
+aaronha01,Hank Aaron,143.2,143.1,0.1,TRUE
+bondsba01,Barry Bonds,162.8,162.8,-0,TRUE
+clemero02,Roger Clemens,139.2,139.2,0,TRUE
+cobbty01,Ty Cobb,149.8,151.4,-1.6,TRUE
+gibsobo01,Bob Gibson,89.2,89.9,-0.7,TRUE
+johnsra05,Randy Johnson,101.1,102.1,-1,TRUE
+johnswa01,Walter Johnson,168.3,165.6,2.8,TRUE
+maddugr01,Greg Maddux,106.6,106.6,-0,TRUE
+mantlmi01,Mickey Mantle,110.3,109.7,0.6,TRUE
+mayswi01,Willie Mays,156.2,156.2,0,TRUE
+musiast01,Stan Musial,128.5,128.3,0.2,TRUE
+ruthba01,Babe Ruth,182.6,182.6,0,TRUE
+troutmi01,Mike Trout,85.9,86,-0.1,TRUE
+wagneho01,Honus Wagner,132.8,130.8,1.9,TRUE
+willite01,Ted Williams,121.7,122.1,-0.4,TRUE
+youngcy01,Cy Young,163.6,163.6,0,TRUE
