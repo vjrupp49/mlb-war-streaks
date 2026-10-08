@@ -158,4 +158,4 @@ Developed with AI coding assistance (Claude Code). The research question and the
 
 ## Credits and data
 
-Lahman Baseball Database (Sean Lahman) and Baseball-Reference WAR. Neither raw dataset is redistributed in this repo. Built by Vincent Rupp. Shared for portfolio and review purposes; please get in touch before reusing it.
+Lahman Baseball Database (Sean Lahman) and Baseball-Reference WAR. Neither raw dataset is redistributed in this repo. Built by Vincent Rupp. Released under the MIT License (code only; third-party data keeps its own terms); see `LICENSE`.
